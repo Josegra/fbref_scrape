@@ -23,45 +23,47 @@ all_urls = [
     "https://fbref.com/en/squads/e334d850/PSV-Eindhoven-Stats", "https://fbref.com/en/squads/19c3f8c4/Ajax-Stats", "https://fbref.com/en/squads/fb4ca611/Feyenoord-Stats", "https://fbref.com/en/squads/2a428619/Utrecht-Stats", "https://fbref.com/en/squads/3986b791/AZ-Alkmaar-Stats", "https://fbref.com/en/squads/a1f721d3/Twente-Stats", "https://fbref.com/en/squads/e33d6108/Go-Ahead-Eagles-Stats", "https://fbref.com/en/squads/fc629994/NEC-Nijmegen-Stats", "https://fbref.com/en/squads/193ff7aa/Heerenveen-Stats", "https://fbref.com/en/squads/e3db180b/Zwolle-Stats", "https://fbref.com/en/squads/bd08295c/Fortuna-Sittard-Stats", "https://fbref.com/en/squads/146a68ce/Sparta-Rotterdam-Stats", "https://fbref.com/en/squads/bec05adb/Groningen-Stats", "https://fbref.com/en/squads/c882b88e/Heracles-Almelo-Stats", "https://fbref.com/en/squads/8ed04be8/NAC-Breda-Stats", "https://fbref.com/en/squads/f0479d7b/Willem-II-Stats", "https://fbref.com/en/squads/bb14adb3/RKC-Waalwijk-Stats", "https://fbref.com/en/squads/2b41acb5/Almere-City-Stats"
 ]
 
-all_dfs = []
+# --- CONFIGURACIÓN PARA EXPORTAR ---
+output_dir = './data'
+output_filename = 'multileague_player_stats.csv'
+output_path = os.path.join(output_dir, output_filename)
 
+# Crear el directorio si no existe
+os.makedirs(output_dir, exist_ok=True)
+
+# Si el archivo ya existe, lo eliminamos para empezar de cero en cada ejecución.
+if os.path.exists(output_path):
+    os.remove(output_path)
+
+
+# --- BUCLE DE SCRAPING OPTIMIZADO ---
 for url in all_urls:
     try:
         df = pd.read_html(url)[0]
         if isinstance(df.columns, pd.MultiIndex):
             df.columns = df.columns.droplevel(0)
         
-        all_dfs.append(df)
-        print(f"Procesado: {url}")
+        # Limpiar filas no deseadas antes de guardar
+        df_cleaned = df[~df['Player'].str.contains('Player|Squad Total', na=False)]
+        
+        # Guardar en CSV sobre la marcha
+        # 'mode='a'' significa 'append' (añadir al final del archivo)
+        # 'header=not os.path.exists(output_path)' solo escribe la cabecera si el archivo no existe (es decir, en la primera iteración)
+        df_cleaned.to_csv(
+            output_path, 
+            mode='a', 
+            header=not os.path.exists(output_path), 
+            index=False
+        )
+        
+        print(f"Procesado y guardado: {url}")
+        
     except Exception as e:
         print(f"Error con {url}: {e}")
-    time.sleep(1)
-
-# Combinar todos los dataframes en uno solo
-final_df = pd.concat(all_dfs, ignore_index=True)
-
-# Limpiar filas no deseadas (filas de totales, cabeceras repetidas, etc.)
-final_df = final_df[~final_df['Player'].str.contains('Player|Squad Total', na=False)]
+    
+    time.sleep(5)
 
 
-# --- SECCIÓN PARA EXPORTAR ---
-
-# Crear el directorio si no existe
-output_dir = './data'
-os.makedirs(output_dir, exist_ok=True)
-
-# Exportar a CSV
-output_filename = 'multileague_player_stats.csv'
-output_path = os.path.join(output_dir, output_filename)
-final_df.to_csv(output_path, index=False)
-
-
-# --- IMPRESIONES FINALES ---
-
+# --- IMPRESIONES FINALES (opcional, para verificar) ---
 print(f"\n--- PROCESO COMPLETADO ---")
 print(f"Datos procesados y exportados correctamente a {output_path}")
-print(f"Columnas finales: {final_df.columns.tolist()}")
-print(f"\nPrimeras 5 filas del DataFrame final:\n{final_df.head()}")
-print(f"\nÚltimas 5 filas del DataFrame final:\n{final_df.tail()}")
-print(f"\nInformación del DataFrame final:\n")
-final_df.info()
