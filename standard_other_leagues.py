@@ -1,8 +1,10 @@
 import pandas as pd
 import time
+import re
+import unidecode
 import os
 
-all_urls = [
+urls = [
     # England Championship
     "https://fbref.com/en/squads/5bfb9659/Leeds-United-Stats", "https://fbref.com/en/squads/1df6b87e/Sheffield-United-Stats", "https://fbref.com/en/squads/943e8050/Burnley-Stats", "https://fbref.com/en/squads/8ef52968/Sunderland-Stats", "https://fbref.com/en/squads/f7e3dfe9/Coventry-City-Stats", "https://fbref.com/en/squads/93493607/Bristol-City-Stats", "https://fbref.com/en/squads/e090f40b/Blackburn-Rovers-Stats", "https://fbref.com/en/squads/e3c537a1/Millwall-Stats", "https://fbref.com/en/squads/60c6b05f/West-Bromwich-Albion-Stats", "https://fbref.com/en/squads/7f59c601/Middlesbrough-Stats", "https://fbref.com/en/squads/fb10988f/Swansea-City-Stats", "https://fbref.com/en/squads/bba7d733/Sheffield-Wednesday-Stats", "https://fbref.com/en/squads/1c781004/Norwich-City-Stats", "https://fbref.com/en/squads/2abfe087/Watford-Stats", "https://fbref.com/en/squads/a757999c/Queens-Park-Rangers-Stats", "https://fbref.com/en/squads/76ffc013/Portsmouth-Stats", "https://fbref.com/en/squads/604617a2/Oxford-United-Stats", "https://fbref.com/en/squads/17892952/Stoke-City-Stats", "https://fbref.com/en/squads/26ab47ee/Derby-County-Stats", "https://fbref.com/en/squads/22df8478/Preston-North-End-Stats", "https://fbref.com/en/squads/bd8769d1/Hull-City-Stats", "https://fbref.com/en/squads/e297cd13/Luton-Town-Stats", "https://fbref.com/en/squads/32a1480e/Plymouth-Argyle-Stats", "https://fbref.com/en/squads/75fae011/Cardiff-City-Stats",
     # Portugal
@@ -22,10 +24,9 @@ all_urls = [
     # Netherlands
     "https://fbref.com/en/squads/e334d850/PSV-Eindhoven-Stats", "https://fbref.com/en/squads/19c3f8c4/Ajax-Stats", "https://fbref.com/en/squads/fb4ca611/Feyenoord-Stats", "https://fbref.com/en/squads/2a428619/Utrecht-Stats", "https://fbref.com/en/squads/3986b791/AZ-Alkmaar-Stats", "https://fbref.com/en/squads/a1f721d3/Twente-Stats", "https://fbref.com/en/squads/e33d6108/Go-Ahead-Eagles-Stats", "https://fbref.com/en/squads/fc629994/NEC-Nijmegen-Stats", "https://fbref.com/en/squads/193ff7aa/Heerenveen-Stats", "https://fbref.com/en/squads/e3db180b/Zwolle-Stats", "https://fbref.com/en/squads/bd08295c/Fortuna-Sittard-Stats", "https://fbref.com/en/squads/146a68ce/Sparta-Rotterdam-Stats", "https://fbref.com/en/squads/bec05adb/Groningen-Stats", "https://fbref.com/en/squads/c882b88e/Heracles-Almelo-Stats", "https://fbref.com/en/squads/8ed04be8/NAC-Breda-Stats", "https://fbref.com/en/squads/f0479d7b/Willem-II-Stats", "https://fbref.com/en/squads/bb14adb3/RKC-Waalwijk-Stats", "https://fbref.com/en/squads/2b41acb5/Almere-City-Stats"
 ]
-
 # --- CONFIGURACIÓN PARA EXPORTAR ---
 output_dir = './data'
-output_filename = 'multileague_player_stats.csv'
+output_filename = 'standard_outside_top5.csv'
 output_path = os.path.join(output_dir, output_filename)
 
 # Crear el directorio si no existe
@@ -35,35 +36,83 @@ os.makedirs(output_dir, exist_ok=True)
 if os.path.exists(output_path):
     os.remove(output_path)
 
+dfs = []
 
-# --- BUCLE DE SCRAPING OPTIMIZADO ---
-for url in all_urls:
+def rename_duplicates_std(columns, target_col):
+    count = 1
+    new_columns = []
+    for col_item in columns:
+        if col_item == target_col:
+            new_columns.append(f"{target_col}_{count}")
+            count += 1
+        else:
+            new_columns.append(col_item)
+    return new_columns
+
+for url in urls:
     try:
-        df = pd.read_html(url)[0]
+        df_list = pd.read_html(url)
+        df = df_list[0] # Asumimos que la tabla de interés es siempre la primera
+
+        # Extraer el nombre del equipo desde el URL
+        squad_name_match = re.search(r'/squads/[^/]+/([^-]+(?:-[^-]+)*)-Stats', url)
+        if squad_name_match:
+            squad_name = squad_name_match.group(1).replace("-", " ")
+        else:
+            squad_name = "Unknown Squad" # Nombre por defecto si no se encuentra
+
         if isinstance(df.columns, pd.MultiIndex):
             df.columns = df.columns.droplevel(0)
-        
-        # Limpiar filas no deseadas antes de guardar
-        df_cleaned = df[~df['Player'].str.contains('Player|Squad Total', na=False)]
-        
-        # Guardar en CSV sobre la marcha
-        # 'mode='a'' significa 'append' (añadir al final del archivo)
-        # 'header=not os.path.exists(output_path)' solo escribe la cabecera si el archivo no existe (es decir, en la primera iteración)
-        df_cleaned.to_csv(
+
+        df['Squad'] = squad_name
+
+        # --- INICIO DE NUEVAS REGLAS DE LIMPIEZA ---
+
+        # Sacar columna 'Matches'
+        if 'Matches' in df.columns:
+            df = df.drop(columns='Matches') # Modificado para asignar el resultado a df
+
+        # Normalizar 'Player' y 'Squad' y crear 'PlSqu'
+        if 'Player' in df.columns:
+            df.loc[:, 'Player'] = df['Player'].apply(lambda x: unidecode.unidecode(str(x)) if pd.notnull(x) else x)
+        if 'Squad' in df.columns:
+            df.loc[:, 'Squad'] = df['Squad'].apply(lambda x: unidecode.unidecode(str(x)) if pd.notnull(x) else x)
+
+        if 'Player' in df.columns and 'Squad' in df.columns:
+            df.loc[:, 'PlSqu'] = df['Player'].astype(str) + df['Squad'].astype(str)
+
+        # Renombrar columnas duplicadas
+        for col_target in ['Gls', 'Ast', 'G-PK', 'PK', 'PKatt', 'CrdY', 'CrdR','xG', 'npxG', 'xA', 'npxG+xA', 'G+A', 'xAG', 'npxG+xAG']:
+            if col_target in df.columns: # Verificar si la columna existe antes de intentar renombrar
+                # Contar ocurrencias para decidir si renombrar
+                if list(df.columns).count(col_target) > 1:
+                     df.columns = rename_duplicates_std(df.columns, col_target)
+
+        # Ajustar sufijos de columnas (_p90)
+        new_cols = []
+        for c in df.columns:
+            if '_1' in c:
+                new_cols.append(c.replace('_1', ''))
+            elif '_2' in c:
+                new_cols.append(c.replace('_2', '_p90'))
+            elif c in ['G+A-PK', 'xG+xAG']: # Columnas que necesitan _p90 directamente
+                 new_cols.append(c + '_p90')
+            else:
+                new_cols.append(c)
+        df.columns = new_cols
+        # --- FIN DE NUEVAS REGLAS DE LIMPIEZA ---
+
+        dfs.append(df)
+        print(f"Procesado: {squad_name}")
+    except Exception as e:
+        print(f"Error con {url}: {e}")
+    time.sleep(12)
+
+standard_df = pd.concat(dfs, ignore_index=True)
+df_cleaned = standard_df[~standard_df['Player'].str.contains('Player|Squad Total', na=False)]
+df_cleaned.to_csv(
             output_path, 
             mode='a', 
             header=not os.path.exists(output_path), 
             index=False
         )
-        
-        print(f"Procesado y guardado: {url}")
-        
-    except Exception as e:
-        print(f"Error con {url}: {e}")
-    
-    time.sleep(5)
-
-
-# --- IMPRESIONES FINALES (opcional, para verificar) ---
-print(f"\n--- PROCESO COMPLETADO ---")
-print(f"Datos procesados y exportados correctamente a {output_path}")
