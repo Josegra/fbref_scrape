@@ -3,7 +3,7 @@ name: Ejecutar Scraper de FBref y Guardar CSV
 on:
   schedule:
     # Se ejecuta todos los días a las 08:00 UTC (10:00 CEST en verano)
-    - cron: '0 8 * * *'
+    - cron: '0 8 1 * *'
   workflow_dispatch:
 
 jobs:
@@ -24,7 +24,7 @@ jobs:
       - name: Instalar dependencias
         run: |
           python -m pip install --upgrade pip
-          pip install pandas lxml html5lib
+          pip install pandas lxml html5lib unidecode os
 
       - name: Ejecutar script de scrapeo
         # Asegúrate que el nombre del archivo es correcto
@@ -36,7 +36,7 @@ jobs:
           commit_message: "chore: Actualizar datos de jugadores (CSV) [skip ci]"
           branch: main # O la rama que uses como principal (ej. master)
           # Asegúrate que este patrón coincide con la ruta y nombre del archivo que genera tu script
-          file_pattern: ./data/multileague_player_stats.csv 
+          file_pattern: ./data/standard_outside_top5.csv 
           commit_user_name: GitHub Actions Bot
           commit_user_email: actions@github.com
           commit_author: GitHub Actions Bot <actions@github.com>
