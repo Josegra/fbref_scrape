@@ -87,11 +87,11 @@ for league, urls in leagues_urls.items():
             print(f"Procesado: {squad_name} ({league})")
         except Exception as e:
             print(f"Error con {url}: {e}")
-        time.sleep(7)
+        time.sleep(5)
 
 if dfs:
     passing_df = pd.concat(dfs, ignore_index=True)
-    df_cleaned = passing_df[~shooting_df['Player'].str.contains('Player|Squad Total', na=False)]
+    df_cleaned = passing_df[~passing_df['Player'].str.contains('Player|Squad Total', na=False)]
     
     # --- REORDENAR COLUMNAS (OPCIONAL PERO RECOMENDADO) ---
     # Colocar 'League' y 'Squad' al principio para mayor claridad.
