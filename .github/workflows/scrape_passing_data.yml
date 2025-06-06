@@ -1,4 +1,4 @@
-name: Ejecutar Scraper de FBref (Shooting) y Guardar CSV
+name: Ejecutar Scraper de FBref (Passing) y Guardar CSV
 
 on:
   schedule:
