@@ -38,6 +38,7 @@ leagues_urls = {
 
 # --- CONFIGURACIÓN PARA EXPORTAR ---
 output_dir = './data'
+# CAMBIO: Nombre de archivo más descriptivo para los datos de pases.
 output_filename = 'passing_outside_top5.csv'
 output_path = os.path.join(output_dir, output_filename)
 
@@ -56,7 +57,6 @@ for league, urls in leagues_urls.items():
     for url in urls:
         try:
             df_list = pd.read_html(url)
-            # Targeting the 6th table which is 'Shooting'
             df = df_list[5]
 
             squad_name_match = re.search(r'/squads/[^/]+/([^-]+(?:-[^-]+)*)-Stats', url)
@@ -65,21 +65,34 @@ for league, urls in leagues_urls.items():
             else:
                 squad_name = "Unknown Squad"
 
+            # --- LÓGICA DE RENOMBRAMIENTO DE COLUMNAS CORREGIDA ---
             if isinstance(df.columns, pd.MultiIndex):
-                df.columns = df.columns.droplevel(0)
+                new_cols = []
+                for level0, level1 in df.columns:
+                    # Si el encabezado superior no tiene nombre (como en Player, Nation, etc.)
+                    if 'Unnamed' in level0:
+                        new_cols.append(level1)
+                    # Si el encabezado superior sí tiene nombre (Total, Short, etc.)
+                    else:
+                        # Unimos los dos niveles para crear un nombre único
+                        new_cols.append(f"{level0}_{level1}")
+                df.columns = new_cols
             
             # --- NUEVA COLUMNA DE LIGA ---
             df['League'] = league
             df['Squad'] = squad_name
 
+            # Eliminamos la columna 'Matches' que viene al final y no es necesaria
             if 'Matches' in df.columns:
                 df = df.drop(columns='Matches')
 
+            # Normalizamos texto en columnas clave
             if 'Player' in df.columns:
                 df.loc[:, 'Player'] = df['Player'].apply(lambda x: unidecode.unidecode(str(x)) if pd.notnull(x) else x)
             if 'Squad' in df.columns:
                 df.loc[:, 'Squad'] = df['Squad'].apply(lambda x: unidecode.unidecode(str(x)) if pd.notnull(x) else x)
-
+            
+            # Creamos la clave única PlSqu
             if 'Player' in df.columns and 'Squad' in df.columns:
                 df.loc[:, 'PlSqu'] = df['Player'].astype(str) + df['Squad'].astype(str)
 
@@ -87,29 +100,25 @@ for league, urls in leagues_urls.items():
             print(f"Procesado: {squad_name} ({league})")
         except Exception as e:
             print(f"Error con {url}: {e}")
+        # Mantenemos la pausa para no sobrecargar el servidor
         time.sleep(5)
 
 if dfs:
     passing_df = pd.concat(dfs, ignore_index=True)
+    # Filtramos las filas de resumen que contienen "Player" o "Squad Total"
     df_cleaned = passing_df[~passing_df['Player'].str.contains('Player|Squad Total', na=False)]
     
     # --- REORDENAR COLUMNAS (OPCIONAL PERO RECOMENDADO) ---
     # Colocar 'League' y 'Squad' al principio para mayor claridad.
-    cols_order = ['League', 'Squad', 'Player'] + [col for col in df_cleaned.columns if col not in ['League', 'Squad', 'Player']]
-    df_cleaned = df_cleaned[cols_order]
+    # Nos aseguramos de que PlSqu también se mueva al final o a una posición lógica
+    cols_to_order = ['League', 'Squad', 'Player']
+    # Todas las demás columnas excepto las que ya hemos ordenado o la clave PlSqu
+    other_cols = [col for col in df_cleaned.columns if col not in cols_to_order and col != 'PlSqu']
+    # Construimos el orden final de las columnas
+    final_cols_order = cols_to_order + other_cols + ['PlSqu']
+    df_cleaned = df_cleaned[final_cols_order]
 
-    # --- NUEVA CONDICIÓN PARA RENOMBRAR COLUMNAS 'Prog' DUPLICADAS ---
-    # Este bloque renombra las columnas 'Prog' para evitar duplicados, añadiendo un sufijo numérico.
-    # Requiere Python 3.8 o superior por el uso del operador Walrus (:=).
-    cols, count = [], 1
-    for column in df_cleaned.columns:
-        if column == 'Prog':
-            cols.append(f'Prog_{count}')
-            count += 1
-        else:
-            cols.append(column)
-    df_cleaned.columns = cols
-    
+    # Guardamos el archivo CSV final
     df_cleaned.to_csv(
         output_path,
         index=False
