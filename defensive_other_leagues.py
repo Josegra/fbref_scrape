@@ -102,7 +102,7 @@ for league, urls in leagues_urls.items():
         except Exception as e:
             print(f"Error con {url}: {e}")
         # Mantenemos la pausa para no sobrecargar el servidor
-        time.sleep(12)
+        time.sleep(6)
 
 if dfs:
     # CAMBIO: Nombre del DataFrame combinado para mayor claridad.
