@@ -1,4 +1,4 @@
-name: Ejecutar Scraper de FBref (Playing time) y Guardar CSV
+name : Ejecutar Scraper de FBref (Playing time) y Guardar CSV
 
 on:
   schedule:
@@ -28,9 +28,6 @@ jobs:
 
       - name: Ejecutar script de shooting
         run: python playing_time_other_leagues.py
-
-      - name: Hacer pull de últimos cambios remotos (con rebase)
-        run: git pull origin main --rebase
 
       - name: Commit y Push del archivo CSV generado
         uses: stefanzweifel/git-auto-commit-action@v5
