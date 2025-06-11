@@ -1,4 +1,4 @@
-name: Ejecutar Scraper de FBref (Misc) y Guardar CSV
+name: Ejecutar Scraper de FBref Standard Big5 y Guardar CSV
 
 on:
   schedule:
