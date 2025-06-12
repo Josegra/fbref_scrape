@@ -1,5 +1,5 @@
 
-name: Ejecutar Scraper de FBref Pass.Types Big5 y Guardar CSV
+name: Ejecutar Scraper de FBref GCA Big5 y Guardar CSV
 
 on:
   schedule:
