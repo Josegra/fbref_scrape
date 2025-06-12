@@ -11,7 +11,7 @@ leagues_urls = {
 
 # --- CONFIGURACIÓN PARA EXPORTAR ---
 output_dir = './data'
-output_filename = 'paasing_types_big5.csv'
+output_filename = 'passing_types_big5.csv'
 output_path = os.path.join(output_dir, output_filename)
 
 # Crear el directorio si no existe
