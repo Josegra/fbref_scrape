@@ -51,11 +51,7 @@ for league, urls in leagues_urls.items():
             if isinstance(df.columns, pd.MultiIndex):
                 df.columns = df.columns.droplevel(0)
 
-            # --- CAMBIO PRINCIPAL: AÑADIR COLUMNA DE LIGA Y EQUIPO ---
-            df['League'] = league
-            df['Squad'] = squad_name
-
-            # --- INICIO DE REGLAS DE LIMPIEZA (LÓGICA ORIGINAL DEL SCRIPT) ---
+            # --- INICIO DE REGLAS DE LIMPIEZA 
             if 'Matches' in df.columns:
                 df = df.drop(columns='Matches')
 
@@ -99,7 +95,7 @@ if dfs:
     df_cleaned = standard_df[~standard_df['Player'].str.contains('Player|Squad Total', na=False)]
     
     # Reordenar columnas para mejor visualización
-    cols_to_front = ['League', 'Squad', 'Player', 'PlSqu']
+    cols_to_front = ['Squad', 'Player', 'PlSqu']
     df_cleaned = df_cleaned[cols_to_front + [col for col in df_cleaned.columns if col not in cols_to_front]]
     
     df_cleaned.to_csv(output_path, index=False)
