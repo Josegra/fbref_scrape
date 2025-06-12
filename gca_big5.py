@@ -56,9 +56,6 @@ for league, urls in leagues_urls.items():
                 df.columns = new_cols
 
             # --- NUEVA COLUMNA DE LIGA ---
-            df['League'] = league
-            df['Squad'] = squad_name
-
             # Eliminamos la columna 'Matches' que viene al final y no es necesaria
             if 'Matches' in df.columns:
                 df = df.drop(columns='Matches')
@@ -87,7 +84,7 @@ if dfs:
     df_cleaned = gca_sca_df[~gca_sca_df['Player'].str.contains('Player|Squad Total', na=False)]
 
     # --- REORDENAR COLUMNAS (OPCIONAL PERO RECOMENDADO) ---
-    cols_to_order = ['League', 'Squad', 'Player']
+    cols_to_order = ['Squad', 'Player']
     other_cols = [col for col in df_cleaned.columns if col not in cols_to_order and col != 'PlSqu']
     final_cols_order = cols_to_order + other_cols + ['PlSqu']
     df_cleaned = df_cleaned[final_cols_order]
