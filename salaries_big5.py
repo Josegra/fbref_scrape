@@ -1,6 +1,7 @@
 import pandas as pd
 import re
 import os
+import unidecode
 
 # Lista de enlaces de salarios
 links = [
@@ -25,6 +26,15 @@ def process_wage_table(url):
         df = pd.read_html(url)[1]
         df['Weekly Wages'] = df['Weekly Wages'].apply(extract_euro_value)
         df['Annual Wages'] = df['Annual Wages'].apply(extract_euro_value)
+
+        if 'Player' in df.columns:
+            df['Player'] = df['Player'].apply(lambda x: unidecode.unidecode(str(x)) if pd.notnull(x) else x)
+        if 'Squad' in df.columns:
+            df['Squad'] = df['Squad'].apply(lambda x: unidecode.unidecode(str(x)) if pd.notnull(x) else x)
+
+        if 'Player' in df.columns and 'Squad' in df.columns:
+            df['PlSqu'] = df['Player'].astype(str) + df['Squad'].astype(str)
+
         return df
     except Exception as e:
         print(f"Error procesando {url}: {e}")
@@ -37,7 +47,6 @@ dfs = [df for df in dfs if df is not None and not df.empty]
 # Si hay datos válidos, los procesamos y guardamos
 if dfs:
     df_final = pd.concat(dfs, ignore_index=True)
-    df_final['PlSqu'] = df_final['Player'].astype(str) + df_final['Squad'].astype(str)
 
     # Ruta de salida
     output_dir = './data'
