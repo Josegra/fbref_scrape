@@ -186,9 +186,6 @@ df_limpio.loc[:, 'Nation'] = extracted_nation_code.map(nation_mapping).fillna(df
 df_limpio_GK = df_limpio[df_limpio['Pos'] != 'GK']
 
 """### Crear columna de player codes"""
-
-pip install unidecode
-
 """### Columna de player codes para merge con transfermarkt"""
 
 # Asegúrate de tener importado unidecode
