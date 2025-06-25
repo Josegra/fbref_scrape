@@ -17,7 +17,7 @@ Rk,Player,Nation,Pos,Squad,Age,Weekly Wages,Annual Wages,Notes,PlSqu
 16,Gregor Kobel,ch SUI,GK,Dortmund,26,173077,9000000,,Gregor KobelDortmund
 17,Konrad Laimer,at AUT,DF,Bayern Munich,27,173077,9000000,Unverified estimation,Konrad LaimerBayern Munich
 18,Sebastien Haller,ci CIV,FW,Dortmund,30,163462,8500000,,Sebastien HallerDortmund
-19,Nordi Mukiele,fr FRA,DF,Leverkusen,26,161538,8400000,,Nordi MukieleLeverkusen
+19,Nordi Mukiele,fr FRA,DF,Leverkusen,26,161538,8400000,Unverified estimation,Nordi MukieleLeverkusen
 20,Emre Can,de GER,"DF,MF",Dortmund,30,153846,8000000,,Emre CanDortmund
 21,Raphael Guerreiro,pt POR,"DF,MF",Bayern Munich,30,153846,8000000,Unverified estimation,Raphael GuerreiroBayern Munich
 22,Matthias Ginter,de GER,DF,Freiburg,30,145192,7550000,,Matthias GinterFreiburg
@@ -84,11 +84,11 @@ Rk,Player,Nation,Pos,Squad,Age,Weekly Wages,Annual Wages,Notes,PlSqu
 83,Amine Adli,ma MAR,"MF,FW",Leverkusen,24,65385,3400000,Unverified estimation,Amine AdliLeverkusen
 84,Martin Terrier,fr FRA,"MF,FW",Leverkusen,27,65385,3400000,Unverified estimation,Martin TerrierLeverkusen
 85,Elye Wahi,fr FRA,"FW,MF",Eint Frankfurt,21,65385,3400000,Unverified estimation,Elye WahiEint Frankfurt
-86,Mario Hermoso,es ESP,DF,Leverkusen,29,63462,3300000,,Mario HermosoLeverkusen
+86,Mario Hermoso,es ESP,DF,Leverkusen,29,63462,3300000,Unverified estimation,Mario HermosoLeverkusen
 87,Robert Andrich,de GER,"MF,DF",Leverkusen,29,61538,3200000,Unverified estimation,Robert AndrichLeverkusen
 88,Mahmoud Dahoud,de GER,MF,Eint Frankfurt,28,61538,3200000,Unverified estimation,Mahmoud DahoudEint Frankfurt
 89,Ozan Kabak,tr TUR,CB,Hoffenheim,24,60577,3150000,Unverified estimation,Ozan KabakHoffenheim
-90,Carney Chukwuemeka,eng ENG,MF,Dortmund,20,59808,3110000,,Carney ChukwuemekaDortmund
+90,Carney Chukwuemeka,eng ENG,MF,Dortmund,20,59808,3110000,Unverified estimation,Carney ChukwuemekaDortmund
 91,Rasmus Kristensen,dk DEN,DF,Eint Frankfurt,27,58077,3020000,,Rasmus KristensenEint Frankfurt
 92,Jonas Omlin,ch SUI,GK,Gladbach,30,57692,3000000,Unverified estimation,Jonas OmlinGladbach
 93,Jamie Gittens,eng ENG,"FW,MF",Dortmund,19,57692,3000000,,Jamie GittensDortmund
@@ -96,7 +96,7 @@ Rk,Player,Nation,Pos,Squad,Age,Weekly Wages,Annual Wages,Notes,PlSqu
 95,Adam Hlozek,cz CZE,"FW,MF",Hoffenheim,22,54423,2830000,Unverified estimation,Adam HlozekHoffenheim
 96,Mattias Svanberg,se SWE,MF,Wolfsburg,25,54423,2830000,Unverified estimation,Mattias SvanbergWolfsburg
 97,Dan-Axel Zagadou,fr FRA,"DF,MF",Stuttgart,25,54423,2830000,Unverified estimation,Dan-Axel ZagadouStuttgart
-98,El Bilal Toure,ml MLI,"FW,MF",Stuttgart,22,54423,2830000,,El Bilal ToureStuttgart
+98,El Bilal Toure,ml MLI,"FW,MF",Stuttgart,22,54423,2830000,Unverified estimation,El Bilal ToureStuttgart
 99,Ermedin Demirovic,ba BIH,FW,Stuttgart,26,54423,2830000,Unverified estimation,Ermedin DemirovicStuttgart
 100,Arthur Vermeeren,,CM,RB Leipzig,19,54423,2830000,Unverified estimation,Arthur VermeerenRB Leipzig
 101,Jonathan Tah,de GER,DF,Leverkusen,28,54423,2830000,,Jonathan TahLeverkusen
@@ -120,7 +120,7 @@ Rk,Player,Nation,Pos,Squad,Age,Weekly Wages,Annual Wages,Notes,PlSqu
 119,Tim Kleindienst,de GER,FW,Gladbach,28,47115,2450000,Unverified estimation,Tim KleindienstGladbach
 120,Luca Netz,de GER,DF,Gladbach,21,46154,2400000,Unverified estimation,Luca NetzGladbach
 121,Kevin Volland,de GER,"FW,MF",Union Berlin,32,46154,2400000,Unverified estimation,Kevin VollandUnion Berlin
-122,Emi Buendia,ar ARG,MF,Leverkusen,27,45385,2360000,,Emi BuendiaLeverkusen
+122,Emi Buendia,ar ARG,MF,Leverkusen,27,45385,2360000,Unverified estimation,Emi BuendiaLeverkusen
 123,Leo Skiri Ostigard,no NOR,DF,Hoffenheim,24,43462,2260000,Unverified estimation,Leo Skiri OstigardHoffenheim
 124,Valentin Gendrey,fr FRA,DF,Hoffenheim,24,43462,2260000,Unverified estimation,Valentin GendreyHoffenheim
 125,Kristijan Jakic,hr CRO,MF,Augsburg,27,43462,2260000,Unverified estimation,Kristijan JakicAugsburg
@@ -177,7 +177,7 @@ Rk,Player,Nation,Pos,Squad,Age,Weekly Wages,Annual Wages,Notes,PlSqu
 176,Benedikt Gimber,de GER,DF,Heidenheim,27,28846,1500000,Unverified estimation,Benedikt GimberHeidenheim
 177,Kamil Grabara,pl POL,GK,Wolfsburg,25,28846,1500000,Unverified estimation,Kamil GrabaraWolfsburg
 178,Tiago Tomas,pt POR,"FW,MF",Wolfsburg,22,28846,1500000,Unverified estimation,Tiago TomasWolfsburg
-179,Andre Silva,pt POR,FW,Werder Bremen,28,28846,1500000,,Andre SilvaWerder Bremen
+179,Andre Silva,pt POR,FW,Werder Bremen,28,28846,1500000,Unverified estimation,Andre SilvaWerder Bremen
 180,Jerome Roussillon,fr FRA,"DF,MF",Union Berlin,31,28846,1500000,Unverified estimation,Jerome RoussillonUnion Berlin
 181,Robert Skov,dk DEN,"DF,MF",Union Berlin,28,28846,1500000,Unverified estimation,Robert SkovUnion Berlin
 182,Antonio Nusa,no NOR,"MF,DF",RB Leipzig,19,28846,1500000,Unverified estimation,Antonio NusaRB Leipzig
@@ -187,8 +187,8 @@ Rk,Player,Nation,Pos,Squad,Age,Weekly Wages,Annual Wages,Notes,PlSqu
 186,Daniel Peretz,,GK,Bayern Munich,24,28846,1500000,,Daniel PeretzBayern Munich
 187,Niklas Stark,de GER,DF,Werder Bremen,29,27692,1440000,Unverified estimation,Niklas StarkWerder Bremen
 188,Kevin Stoger,at AUT,MF,Gladbach,30,27308,1420000,Unverified estimation,Kevin StogerGladbach
-189,Hyun-seok Hong,,AM,Mainz 05,25,27308,1420000,Unverified estimation,Hyun-seok HongMainz 05
-190,Georgios Masouras,,LW,Bochum,31,27115,1410000,Unverified estimation,Georgios MasourasBochum
+189,Hong Hyunseok,,AM,Mainz 05,25,27308,1420000,Unverified estimation,Hyun-seok HongMainz 05
+190,Giorgos Masouras,,LW,Bochum,31,27115,1410000,Unverified estimation,Georgios MasourasBochum
 191,Myron Boadu,nl NED,FW,Bochum,23,27115,1410000,Unverified estimation,Myron BoaduBochum
 192,Moritz Jenz,de GER,DF,Mainz 05,25,26923,1400000,Unverified estimation,Moritz JenzMainz 05
 193,Tom Krauss,de GER,MF,Bochum,23,26923,1400000,Unverified estimation,Tom KraussBochum
@@ -258,7 +258,7 @@ Rk,Player,Nation,Pos,Squad,Age,Weekly Wages,Annual Wages,Notes,PlSqu
 257,Pascal Stenzel,de GER,DF,Stuttgart,28,18077,940000,Unverified estimation,Pascal StenzelStuttgart
 258,Anthony Losilla,fr FRA,MF,Bochum,38,18077,940000,Unverified estimation,Anthony LosillaBochum
 259,Timo Horn,de GER,GK,Bochum,31,18077,940000,Unverified estimation,Timo HornBochum
-260,Bryan Zaragoza,,,Bayern Munich,22,18077,940000,Unverified estimation,Bryan ZaragozaBayern Munich
+260,Bryan Zaragoza,,LW,Bayern Munich,22,18077,940000,,Bryan ZaragozaBayern Munich
 261,Kevin Paredes,us USA,DF,Wolfsburg,21,17308,900000,Unverified estimation,Kevin ParedesWolfsburg
 262,Alexander Schwolow,de GER,GK,Union Berlin,32,17308,900000,Unverified estimation,Alexander SchwolowUnion Berlin
 263,Christopher Trimmel,at AUT,"DF,MF",Union Berlin,37,17308,900000,Unverified estimation,Christopher TrimmelUnion Berlin
@@ -328,7 +328,7 @@ Rk,Player,Nation,Pos,Squad,Age,Weekly Wages,Annual Wages,Notes,PlSqu
 327,Masaya Okugawa,jp JPN,LW,Augsburg,28,13462,700000,Unverified estimation,Masaya OkugawaAugsburg
 328,Junior Adamu,,CF,Freiburg,23,13462,700000,Unverified estimation,Junior AdamuFreiburg
 329,Matus Bero,sk SVK,MF,Bochum,28,13462,700000,Unverified estimation,Matus BeroBochum
-330,Jean-Matteo Bahoya,,LW,Eint Frankfurt,19,13462,700000,Unverified estimation,Jean-Matteo BahoyaEint Frankfurt
+330,Jean Matteo Bahoya,,LW,Eint Frankfurt,19,13462,700000,Unverified estimation,Jean-Matteo BahoyaEint Frankfurt
 331,Niels Nkounkou,fr FRA,"DF,MF",Eint Frankfurt,23,13462,700000,Unverified estimation,Niels NkounkouEint Frankfurt
 332,Philipp Lienhart,at AUT,DF,Freiburg,28,13077,680000,Unverified estimation,Philipp LienhartFreiburg
 333,Dimitris Giannoulis,gr GRE,DF,Augsburg,28,12692,660000,Unverified estimation,Dimitris GiannoulisAugsburg
@@ -336,7 +336,7 @@ Rk,Player,Nation,Pos,Squad,Age,Weekly Wages,Annual Wages,Notes,PlSqu
 335,Simon Zoller,de GER,CF,St. Pauli,33,12692,660000,Unverified estimation,Simon ZollerSt. Pauli
 336,Finn Jeltsch,,CB,Stuttgart,18,12692,660000,Unverified estimation,Finn JeltschStuttgart
 337,Kenneth Schmidt,,CB,Freiburg,22,12692,660000,Unverified estimation,Kenneth SchmidtFreiburg
-338,Kosta Nedeljkovic,,RB,RB Leipzig,19,12692,660000,Unverified estimation,Kosta NedeljkovicRB Leipzig
+338,Kosta Nedeljkovic,,,RB Leipzig,19,12692,660000,Unverified estimation,Kosta NedeljkovicRB Leipzig
 339,Nnamdi Collins,,CB,Eint Frankfurt,20,12692,660000,Unverified estimation,Nnamdi CollinsEint Frankfurt
 340,Jonas Urbig,de GER,GK,Bayern Munich,20,12692,660000,Unverified estimation,Jonas UrbigBayern Munich
 341,Benedikt Pichler,at AUT,FW,Holstein Kiel,27,12500,650000,Unverified estimation,Benedikt PichlerHolstein Kiel
@@ -380,7 +380,7 @@ Rk,Player,Nation,Pos,Squad,Age,Weekly Wages,Annual Wages,Notes,PlSqu
 379,Alexander Bernhardsson,,RW,Holstein Kiel,26,9231,480000,Unverified estimation,Alexander BernhardssonHolstein Kiel
 380,Danel Sinani,lu LUX,"FW,MF",St. Pauli,27,9231,480000,Unverified estimation,Danel SinaniSt. Pauli
 381,Erik Ahlstrand,,CM,St. Pauli,23,9231,480000,Unverified estimation,Erik AhlstrandSt. Pauli
-382,Keke Topp,,CF,Werder Bremen,20,9231,480000,Unverified estimation,Keke ToppWerder Bremen
+382,Keke Maximilian Topp,,CF,Werder Bremen,20,9231,480000,Unverified estimation,Keke ToppWerder Bremen
 383,Manuel Gulde,de GER,CB,Freiburg,33,9231,480000,Unverified estimation,Manuel GuldeFreiburg
 384,Patrick Erras,de GER,DF,Holstein Kiel,29,9038,470000,Unverified estimation,Patrick ErrasHolstein Kiel
 385,Tobias Sippel,de GER,GK,Gladbach,36,9038,470000,Unverified estimation,Tobias SippelGladbach
@@ -452,52 +452,52 @@ Rk,Player,Nation,Pos,Squad,Age,Weekly Wages,Annual Wages,Notes,PlSqu
 451,Mio Backhaus,de GER,GK,Werder Bremen,20,5385,280000,Unverified estimation,Mio BackhausWerder Bremen
 452,Nikolas Veratschnig,at AUT,"DF,MF",Mainz 05,21,5385,280000,Unverified estimation,Nikolas VeratschnigMainz 05
 453,Kjell Watjen,,CM,Dortmund,18,5385,280000,Unverified estimation,Kjell WatjenDortmund
-454,Agon Elezi,,CM,Bochum,23,5385,280000,Unverified estimation,Agon EleziBochum
-455,Samuel Bamba,,RW,Bochum,20,5385,280000,Unverified estimation,Samuel BambaBochum
-456,Alejo Sarco,,CF,Leverkusen,19,5385,280000,Unverified estimation,Alejo SarcoLeverkusen
-457,Igor Matanovic,hr CRO,FW,Eint Frankfurt,21,5385,280000,Unverified estimation,Igor MatanovicEint Frankfurt
-458,Nathaniel Brown,de GER,"DF,MF",Eint Frankfurt,21,5385,280000,Unverified estimation,Nathaniel BrownEint Frankfurt
-459,Adam Aznou,,LB,Bayern Munich,18,5385,280000,Unverified estimation,Adam AznouBayern Munich
-460,Vitus Eicher,de GER,GK,Heidenheim,33,5192,270000,Unverified estimation,Vitus EicherHeidenheim
-461,Marko Ivezic,,DM,Holstein Kiel,23,5192,270000,Unverified estimation,Marko IvezicHolstein Kiel
-462,Paul Nebel,de GER,MF,Mainz 05,21,5192,270000,Unverified estimation,Paul NebelMainz 05
-463,Tim Oermann,de GER,DF,Bochum,20,5192,270000,Unverified estimation,Tim OermannBochum
-464,Finley Stevens,wls WAL,DF,St. Pauli,21,5000,260000,Unverified estimation,Finley StevensSt. Pauli
-465,Robert Gumny,pl POL,DF,Augsburg,26,4808,250000,Unverified estimation,Robert GumnyAugsburg
-466,Lasse Rosenboom,,RB,Holstein Kiel,23,4615,240000,Unverified estimation,Lasse RosenboomHolstein Kiel
-467,Nicolai Remberg,,CM,Holstein Kiel,24,4615,240000,Unverified estimation,Nicolai RembergHolstein Kiel
-468,Julien Duranville,,RW,Dortmund,18,4615,240000,Unverified estimation,Julien DuranvilleDortmund
-469,Marcel Lotka,pl POL,GK,Dortmund,23,4615,240000,Unverified estimation,Marcel LotkaDortmund
-470,Noel Aseko Nkili,,DM,Bayern Munich,18,4615,240000,Unverified estimation,Noel Aseko NkiliBayern Munich
-471,Maximilian Breunig,,CF,Heidenheim,24,4231,220000,Unverified estimation,Maximilian BreunigHeidenheim
-472,Dominik Javorcek,,LB,Holstein Kiel,22,4231,220000,Unverified estimation,Dominik JavorcekHolstein Kiel
-473,Daniel Batz,de GER,GK,Mainz 05,33,4231,220000,Unverified estimation,Daniel BatzMainz 05
-474,Maxim Dal,,CB,Mainz 05,18,4231,220000,Unverified estimation,Maxim DalMainz 05
-475,Jordy Makengo,,LB,Freiburg,23,4231,220000,Unverified estimation,Jordy MakengoFreiburg
-476,Max Geschwill,,CB,Holstein Kiel,23,3846,200000,Unverified estimation,Max GeschwillHolstein Kiel
-477,Phil Harres,,CF,Holstein Kiel,22,3846,200000,Unverified estimation,Phil HarresHolstein Kiel
-478,Henri Koudossou,de GER,DF,Augsburg,24,3654,190000,Unverified estimation,Henri KoudossouAugsburg
-479,Finn Porath,de GER,"DF,MF",Holstein Kiel,27,3654,190000,Unverified estimation,Finn PorathHolstein Kiel
-480,Adam Dzwigala,pl POL,"DF,MF",St. Pauli,28,3654,190000,Unverified estimation,Adam DzwigalaSt. Pauli
-481,Leonidas Stergiou,ch SUI,DF,Stuttgart,22,3654,190000,Unverified estimation,Leonidas StergiouStuttgart
-482,Viggo Gebel,,AM,RB Leipzig,17,3654,190000,Unverified estimation,Viggo GebelRB Leipzig
-483,Eric Oelschlagel,de GER,GK,St. Pauli,28,3462,180000,Unverified estimation,Eric OelschlagelSt. Pauli
-484,Philipp Treu,,LB,St. Pauli,23,3462,180000,Unverified estimation,Philipp TreuSt. Pauli
-485,Jarzinho Malanga,,LW,Stuttgart,18,3462,180000,Unverified estimation,Jarzinho MalangaStuttgart
-486,Max Rosenfelder,,CB,Freiburg,21,3462,180000,Unverified estimation,Max RosenfelderFreiburg
-487,Almugera Kabar,,LB,Dortmund,18,3462,180000,Unverified estimation,Almugera KabarDortmund
-488,Cole Campbell,,RW,Dortmund,18,3462,180000,Unverified estimation,Cole CampbellDortmund
-489,Niklas Jahn,,DM,Bochum,20,3462,180000,Unverified estimation,Niklas JahnBochum
-490,Paul Grave,de GER,GK,Bochum,23,3462,180000,Unverified estimation,Paul GraveBochum
-491,Sadik Fofana,tg TOG,CB,Leverkusen,21,3462,180000,Unverified estimation,Sadik FofanaLeverkusen
-492,Paul Tschernuth,at AUT,GK,Heidenheim,22,3269,170000,Unverified estimation,Paul TschernuthHeidenheim
-493,Thomas Keller,de GER,"DF,MF",Heidenheim,24,3269,170000,Unverified estimation,Thomas KellerHeidenheim
-494,Niklas Swider,,DM,Gladbach,18,3269,170000,Unverified estimation,Niklas SwiderGladbach
-495,Noah Weisshaupt,de GER,"FW,MF",St. Pauli,22,3269,170000,Unverified estimation,Noah WeisshauptSt. Pauli
-496,Bruno Ogbus,,CB,Freiburg,18,3269,170000,Unverified estimation,Bruno OgbusFreiburg
-497,Johan Manzambi,,CM,Freiburg,18,3269,170000,Unverified estimation,Johan ManzambiFreiburg
-498,Noah Atubolu,de GER,GK,Freiburg,22,3269,170000,Unverified estimation,Noah AtuboluFreiburg
-499,Silas Ostrzinski,,GK,Dortmund,21,3269,170000,Unverified estimation,Silas OstrzinskiDortmund
+454,Silas Ostrzinski,,GK,Dortmund,21,5385,280000,Unverified estimation,Silas OstrzinskiDortmund
+455,Agon Elezi,,CM,Bochum,23,5385,280000,Unverified estimation,Agon EleziBochum
+456,Samuel Bamba,,RW,Bochum,20,5385,280000,Unverified estimation,Samuel BambaBochum
+457,Alejo Sarco,,CF,Leverkusen,19,5385,280000,Unverified estimation,Alejo SarcoLeverkusen
+458,Igor Matanovic,hr CRO,FW,Eint Frankfurt,21,5385,280000,Unverified estimation,Igor MatanovicEint Frankfurt
+459,Nathaniel Brown,de GER,"DF,MF",Eint Frankfurt,21,5385,280000,Unverified estimation,Nathaniel BrownEint Frankfurt
+460,Adam Aznou,,LB,Bayern Munich,18,5385,280000,Unverified estimation,Adam AznouBayern Munich
+461,Vitus Eicher,de GER,GK,Heidenheim,33,5192,270000,Unverified estimation,Vitus EicherHeidenheim
+462,Marko Ivezic,,DM,Holstein Kiel,23,5192,270000,Unverified estimation,Marko IvezicHolstein Kiel
+463,Paul Nebel,de GER,MF,Mainz 05,21,5192,270000,Unverified estimation,Paul NebelMainz 05
+464,Tim Oermann,de GER,DF,Bochum,20,5192,270000,Unverified estimation,Tim OermannBochum
+465,Finley Stevens,wls WAL,DF,St. Pauli,21,5000,260000,Unverified estimation,Finley StevensSt. Pauli
+466,Robert Gumny,pl POL,DF,Augsburg,26,4808,250000,Unverified estimation,Robert GumnyAugsburg
+467,Lasse Rosenboom,,RB,Holstein Kiel,23,4615,240000,Unverified estimation,Lasse RosenboomHolstein Kiel
+468,Nicolai Remberg,,CM,Holstein Kiel,24,4615,240000,Unverified estimation,Nicolai RembergHolstein Kiel
+469,Julien Duranville,,RW,Dortmund,18,4615,240000,Unverified estimation,Julien DuranvilleDortmund
+470,Marcel Lotka,pl POL,GK,Dortmund,23,4615,240000,Unverified estimation,Marcel LotkaDortmund
+471,Noel Aseko Nkili,,DM,Bayern Munich,18,4615,240000,Unverified estimation,Noel Aseko NkiliBayern Munich
+472,Maximilian Breunig,,CF,Heidenheim,24,4231,220000,Unverified estimation,Maximilian BreunigHeidenheim
+473,Dominik Javorcek,,LB,Holstein Kiel,22,4231,220000,Unverified estimation,Dominik JavorcekHolstein Kiel
+474,Daniel Batz,de GER,GK,Mainz 05,33,4231,220000,Unverified estimation,Daniel BatzMainz 05
+475,Maxim Dal,,CB,Mainz 05,18,4231,220000,Unverified estimation,Maxim DalMainz 05
+476,Jordy Makengo,,LB,Freiburg,23,4231,220000,Unverified estimation,Jordy MakengoFreiburg
+477,Max Geschwill,,CB,Holstein Kiel,23,3846,200000,Unverified estimation,Max GeschwillHolstein Kiel
+478,Phil Harres,,CF,Holstein Kiel,22,3846,200000,Unverified estimation,Phil HarresHolstein Kiel
+479,Henri Koudossou,de GER,DF,Augsburg,24,3654,190000,Unverified estimation,Henri KoudossouAugsburg
+480,Finn Porath,de GER,"DF,MF",Holstein Kiel,27,3654,190000,Unverified estimation,Finn PorathHolstein Kiel
+481,Adam Dzwigala,pl POL,"DF,MF",St. Pauli,28,3654,190000,Unverified estimation,Adam DzwigalaSt. Pauli
+482,Leonidas Stergiou,ch SUI,DF,Stuttgart,22,3654,190000,Unverified estimation,Leonidas StergiouStuttgart
+483,Viggo Gebel,,AM,RB Leipzig,17,3654,190000,Unverified estimation,Viggo GebelRB Leipzig
+484,Eric Oelschlagel,de GER,GK,St. Pauli,28,3462,180000,Unverified estimation,Eric OelschlagelSt. Pauli
+485,Philipp Treu,,LB,St. Pauli,23,3462,180000,Unverified estimation,Philipp TreuSt. Pauli
+486,Jarzinho Malanga,,LW,Stuttgart,18,3462,180000,Unverified estimation,Jarzinho MalangaStuttgart
+487,Max Rosenfelder,,CB,Freiburg,21,3462,180000,Unverified estimation,Max RosenfelderFreiburg
+488,Almugera Kabar,,LB,Dortmund,18,3462,180000,Unverified estimation,Almugera KabarDortmund
+489,Cole Campbell,,RW,Dortmund,18,3462,180000,Unverified estimation,Cole CampbellDortmund
+490,Niklas Jahn,,DM,Bochum,20,3462,180000,Unverified estimation,Niklas JahnBochum
+491,Paul Grave,de GER,GK,Bochum,23,3462,180000,Unverified estimation,Paul GraveBochum
+492,Sadik Fofana,tg TOG,CB,Leverkusen,21,3462,180000,Unverified estimation,Sadik FofanaLeverkusen
+493,Paul Tschernuth,at AUT,GK,Heidenheim,22,3269,170000,Unverified estimation,Paul TschernuthHeidenheim
+494,Thomas Keller,de GER,"DF,MF",Heidenheim,24,3269,170000,Unverified estimation,Thomas KellerHeidenheim
+495,Niklas Swider,,DM,Gladbach,18,3269,170000,Unverified estimation,Niklas SwiderGladbach
+496,Noah Weisshaupt,de GER,"FW,MF",St. Pauli,22,3269,170000,Unverified estimation,Noah WeisshauptSt. Pauli
+497,Bruno Ogbus,,CB,Freiburg,18,3269,170000,Unverified estimation,Bruno OgbusFreiburg
+498,Johan Manzambi,,CM,Freiburg,18,3269,170000,Unverified estimation,Johan ManzambiFreiburg
+499,Noah Atubolu,de GER,GK,Freiburg,22,3269,170000,Unverified estimation,Noah AtuboluFreiburg
 500,Florian Micheler,,CM,Hoffenheim,19,3077,160000,Unverified estimation,Florian MichelerHoffenheim
 501,Ayman Aourir,,AM,Leverkusen,19,3077,160000,Unverified estimation,Ayman AourirLeverkusen
 502,Frank Feller,,GK,Heidenheim,21,2885,150000,Unverified estimation,Frank FellerHeidenheim
@@ -631,7 +631,7 @@ Rk,Player,Nation,Pos,Squad,Age,Weekly Wages,Annual Wages,Notes,PlSqu
 80,Riccardo Calafiori,it ITA,DF,Arsenal,22,142170,7392822,,Riccardo CalafioriArsenal
 81,Andre Onana,cm CMR,GK,Manchester Utd,28,142170,7392822,,Andre OnanaManchester Utd
 82,Lisandro Martinez,ar ARG,DF,Manchester Utd,26,142170,7392822,,Lisandro MartinezManchester Utd
-83,Manuel Ugarte,,DM,Manchester Utd,23,142170,7392822,Unverified estimation,Manuel UgarteManchester Utd
+83,Manuel Ugarte Ribeiro,,DM,Manchester Utd,23,142170,7392822,Unverified estimation,Manuel UgarteManchester Utd
 84,Victor Lindelof,se SWE,DF,Manchester Utd,30,142170,7392822,,Victor LindelofManchester Utd
 85,Aaron Ramsdale,eng ENG,GK,Southampton,26,142170,7392822,Unverified estimation,Aaron RamsdaleSouthampton
 86,Alphonse Areola,fr FRA,GK,West Ham,31,142170,7392822,,Alphonse AreolaWest Ham
@@ -766,7 +766,7 @@ Rk,Player,Nation,Pos,Squad,Age,Weekly Wages,Annual Wages,Notes,PlSqu
 215,Nathaniel Phillips,eng ENG,CB,Liverpool,27,76321,3968671,,Nathaniel PhillipsLiverpool
 216,Sasa Lukic,rs SRB,MF,Fulham,27,74639,3881231,,Sasa LukicFulham
 217,Nicolas Gonzalez,es ESP,MF,Manchester City,22,71097,3697043,Unverified estimation,Nicolas GonzalezManchester City
-218,Giorgi Mamardashvili,ge GEO,,Liverpool,24,71097,3697043,Unverified estimation,Giorgi MamardashviliLiverpool
+218,Giorgi Mamardashvili,ge GEO,GK,Liverpool,24,71097,3697043,Unverified estimation,Giorgi MamardashviliLiverpool
 219,Adam Armstrong,eng ENG,"FW,MF",Southampton,27,71085,3696411,Unverified estimation,Adam ArmstrongSouthampton
 220,Jeffrey Schlupp,gh GHA,"MF,DF",Crystal Palace,31,71085,3696411,Unverified estimation,Jeffrey SchluppCrystal Palace
 221,Lewis Cook,eng ENG,"MF,DF",Bournemouth,27,71085,3696411,Unverified estimation,Lewis CookBournemouth
@@ -795,7 +795,7 @@ Rk,Player,Nation,Pos,Squad,Age,Weekly Wages,Annual Wages,Notes,PlSqu
 244,Luis Diaz,co COL,FW,Liverpool,27,65161,3388377,,Luis DiazLiverpool
 245,Sergio Reguilon,es ESP,DF,Tottenham,27,62792,3265163,,Sergio ReguilonTottenham
 246,Marshall Munetsi,zw ZIM,"MF,FW",Wolves,28,59247,3080869,Unverified estimation,Marshall MunetsiWolves
-247,Jesper Lindstrom,dk DEN,FW,Everton,24,59247,3080869,,Jesper LindstromEverton
+247,Jesper Lindstrom,dk DEN,FW,Everton,24,59247,3080869,Unverified estimation,Jesper LindstromEverton
 248,Neto,br BRA,GK,Arsenal,35,59237,3080342,Unverified estimation,NetoArsenal
 249,Alejandro Garnacho,,LW,Manchester Utd,20,59237,3080342,,Alejandro GarnachoManchester Utd
 250,Djed Spence,eng ENG,DF,Tottenham,23,59237,3080342,Unverified estimation,Djed SpenceTottenham
@@ -808,7 +808,7 @@ Rk,Player,Nation,Pos,Squad,Age,Weekly Wages,Annual Wages,Notes,PlSqu
 257,Will Hughes,eng ENG,MF,Crystal Palace,29,59237,3080342,Unverified estimation,Will HughesCrystal Palace
 258,Antoine Semenyo,gh GHA,FW,Bournemouth,24,59237,3080342,Unverified estimation,Antoine SemenyoBournemouth
 259,David Brooks,wls WAL,"FW,MF",Bournemouth,27,59237,3080342,,David BrooksBournemouth
-260,Ilya Zabarnyi,,CB,Bournemouth,22,59237,3080342,Unverified estimation,Ilya ZabarnyiBournemouth
+260,Illia Zabarnyi,,CB,Bournemouth,22,59237,3080342,Unverified estimation,Ilya ZabarnyiBournemouth
 261,Marcos Senesi,ar ARG,DF,Bournemouth,27,59237,3080342,Unverified estimation,Marcos SenesiBournemouth
 262,Aaron Cresswell,eng ENG,DF,West Ham,34,59237,3080342,,Aaron CresswellWest Ham
 263,Konstantinos Mavropanos,gr GRE,DF,West Ham,26,59237,3080342,Unverified estimation,Konstantinos MavropanosWest Ham
@@ -898,7 +898,7 @@ Rk,Player,Nation,Pos,Squad,Age,Weekly Wages,Annual Wages,Notes,PlSqu
 347,Harry Souttar,au AUS,CB,Leicester City,26,46967,2442259,Unverified estimation,Harry SouttarLeicester City
 348,Deivid Washington,,CF,Chelsea,19,46967,2442259,Unverified estimation,Deivid WashingtonChelsea
 349,Stefan Bajcetic,,DM,Liverpool,20,46967,2442259,Unverified estimation,Stefan BajceticLiverpool
-350,Jens Cajuste,se SWE,MF,Ipswich Town,24,41473,2156608,,Jens CajusteIpswich Town
+350,Jens Cajuste,se SWE,MF,Ipswich Town,24,41473,2156608,Unverified estimation,Jens CajusteIpswich Town
 351,Altay Bayindir,tr TUR,GK,Manchester Utd,26,41466,2156240,Unverified estimation,Altay BayindirManchester Utd
 352,Ben Brereton,cl CHI,FW,Southampton,25,41466,2156240,Unverified estimation,Ben BreretonSouthampton
 353,Adam Wharton,,DM,Crystal Palace,20,41466,2156240,Unverified estimation,Adam WhartonCrystal Palace
@@ -932,7 +932,7 @@ Rk,Player,Nation,Pos,Squad,Age,Weekly Wages,Annual Wages,Notes,PlSqu
 381,Chris Mepham,wls WAL,CB,Bournemouth,27,41096,2136977,Unverified estimation,Chris MephamBournemouth
 382,Evan Ferguson,ie IRL,FW,West Ham,19,35548,1848521,Unverified estimation,Evan FergusonWest Ham
 383,Samuel Iling-Junior,eng ENG,LW,Aston Villa,21,35548,1848521,Unverified estimation,Samuel Iling-JuniorAston Villa
-384,Fabio Silva,pt POR,,Wolves,22,35548,1848521,Unverified estimation,Fabio SilvaWolves
+384,Fabio Silva,pt POR,CF,Wolves,22,35548,1848521,,Fabio SilvaWolves
 385,Michael Kayode,,RB,Brentford,20,35548,1848521,Unverified estimation,Michael KayodeBrentford
 386,Charlie Taylor,eng ENG,DF,Southampton,30,35542,1848205,Unverified estimation,Charlie TaylorSouthampton
 387,Flynn Downes,eng ENG,MF,Southampton,25,35542,1848205,Unverified estimation,Flynn DownesSouthampton
@@ -977,7 +977,7 @@ Rk,Player,Nation,Pos,Squad,Age,Weekly Wages,Annual Wages,Notes,PlSqu
 426,Toti Gomes,pt POR,DF,Wolves,25,29619,1540171,Unverified estimation,Toti GomesWolves
 427,Caleb Okoli,it ITA,DF,Leicester City,23,29619,1540171,Unverified estimation,Caleb OkoliLeicester City
 428,Facundo Buonanotte,,AM,Leicester City,20,29619,1540171,Unverified estimation,Facundo BuonanotteLeicester City
-429,Victor Kristiansen,,LB,Leicester City,22,29619,1540171,Unverified estimation,Victor KristiansenLeicester City
+429,Victor Bernth Kristiansen,,LB,Leicester City,22,29619,1540171,Unverified estimation,Victor KristiansenLeicester City
 430,Chiedozie Ogbene,ie IRL,FW,Ipswich Town,27,29619,1540171,Unverified estimation,Chiedozie OgbeneIpswich Town
 431,Jack Clarke,eng ENG,"FW,MF",Ipswich Town,23,29619,1540171,Unverified estimation,Jack ClarkeIpswich Town
 432,Jacob Greaves,eng ENG,DF,Ipswich Town,23,29619,1540171,Unverified estimation,Jacob GreavesIpswich Town
@@ -994,7 +994,7 @@ Rk,Player,Nation,Pos,Squad,Age,Weekly Wages,Annual Wages,Notes,PlSqu
 443,Jaidon Anthony,eng ENG,"FW,MF",Bournemouth,24,29354,1526412,Unverified estimation,Jaidon AnthonyBournemouth
 444,Isaac Hayden,jm JAM,DM,Newcastle Utd,29,26064,1355351,,Isaac HaydenNewcastle Utd
 445,Antonin Kinsky,,GK,Tottenham,21,23699,1232348,Unverified estimation,Antonin KinskyTottenham
-446,Nayef Aguerd,ma MAR,,West Ham,28,23699,1232348,Unverified estimation,Nayef AguerdWest Ham
+446,Nayef Aguerd,ma MAR,CB,West Ham,28,23699,1232348,Unverified estimation,Nayef AguerdWest Ham
 447,Abdukodir Khusanov,,CB,Manchester City,20,23699,1232348,Unverified estimation,Abdukodir KhusanovManchester City
 448,Bashir Humphreys,,CB,Chelsea,21,23699,1232348,Unverified estimation,Bashir HumphreysChelsea
 449,Carlos Alcaraz,ar ARG,"FW,MF",Everton,21,23699,1232348,Unverified estimation,Carlos AlcarazEverton
@@ -1025,7 +1025,7 @@ Rk,Player,Nation,Pos,Squad,Age,Weekly Wages,Annual Wages,Notes,PlSqu
 474,Hamed Junior Traore,ci CIV,"FW,MF",Bournemouth,24,17774,924261,,Hamed Junior TraoreBournemouth
 475,Julio Soler,,LB,Bournemouth,19,17774,924261,Unverified estimation,Julio SolerBournemouth
 476,Andres Garcia,,RB,Aston Villa,21,17774,924261,Unverified estimation,Andres GarciaAston Villa
-477,Enzo Barrenechea,,,Aston Villa,23,17774,924261,Unverified estimation,Enzo BarrenecheaAston Villa
+477,Enzo Barrenechea,,DM,Aston Villa,23,17774,924261,Unverified estimation,Enzo BarrenecheaAston Villa
 478,Ki-Jana Hoever,nl NED,RB,Wolves,23,17774,924261,,Ki-Jana HoeverWolves
 479,Nasser Djiga,bf BFA,DF,Wolves,21,17774,924261,Unverified estimation,Nasser DjigaWolves
 480,Woyo Coulibaly,ml MLI,DF,Leicester City,25,17774,924261,Unverified estimation,Woyo CoulibalyLeicester City
@@ -1052,7 +1052,7 @@ Rk,Player,Nation,Pos,Squad,Age,Weekly Wages,Annual Wages,Notes,PlSqu
 501,Luke Thomas,eng ENG,DF,Leicester City,23,17771,924103,,Luke ThomasLeicester City
 502,Conor Chaplin,eng ENG,"MF,FW",Ipswich Town,27,17771,924103,Unverified estimation,Conor ChaplinIpswich Town
 503,Conor Townsend,eng ENG,DF,Ipswich Town,31,17771,924103,Unverified estimation,Conor TownsendIpswich Town
-504,James McAtee,,CM,Manchester City,22,17771,924103,Unverified estimation,James McAteeManchester City
+504,James Mcatee,,CM,Manchester City,22,17771,924103,Unverified estimation,James McAteeManchester City
 505,Jayden Meghoma,,LB,Brentford,18,17771,924103,Unverified estimation,Jayden MeghomaBrentford
 506,Yunus Emre Konak,,DM,Brentford,19,17771,924103,Unverified estimation,Yunus Emre KonakBrentford
 507,Carlos Miguel,br BRA,GK,Nott'ham Forest,25,17771,924103,Unverified estimation,Carlos MiguelNott'ham Forest
@@ -1147,7 +1147,7 @@ Rk,Player,Nation,Pos,Squad,Age,Weekly Wages,Annual Wages,Notes,PlSqu
 596,Mikey Moore,,LW,Tottenham,17,5925,308087,Unverified estimation,Mikey MooreTottenham
 597,Min-hyeok Yang,,RW,Tottenham,18,5925,308087,Unverified estimation,Min-hyeok YangTottenham
 598,Caleb Kporha,,RB,Crystal Palace,18,5925,308087,Unverified estimation,Caleb KporhaCrystal Palace
-599,Daniel Jebbison,eng ENG,FW,Bournemouth,20,5925,308087,Unverified estimation,Daniel JebbisonBournemouth
+599,Daniel Jebbison,ca CAN,FW,Bournemouth,20,5925,308087,Unverified estimation,Daniel JebbisonBournemouth
 600,Nigel Lonwijk,nl NED,CB,Wolves,22,5925,308087,Unverified estimation,Nigel LonwijkWolves
 601,Calvin Ramsay,sct SCO,RB,Liverpool,21,5925,308087,,Calvin RamsayLiverpool
 602,Daniel Gore,,CM,Manchester Utd,19,5924,308034,Unverified estimation,Daniel GoreManchester Utd
@@ -1160,7 +1160,7 @@ Rk,Player,Nation,Pos,Squad,Age,Weekly Wages,Annual Wages,Notes,PlSqu
 609,Garang Kuol,,LW,Newcastle Utd,19,5924,308034,Unverified estimation,Garang KuolNewcastle Utd
 610,Lewis Miley,,CM,Newcastle Utd,18,5924,308034,Unverified estimation,Lewis MileyNewcastle Utd
 611,Ji-soo Kim,,CB,Brentford,19,5924,308034,Unverified estimation,Ji-soo KimBrentford
-612,Yegor Yarmolyuk,,AM,Brentford,20,5924,308034,Unverified estimation,Yegor YarmolyukBrentford
+612,Yehor Yarmoliuk,,AM,Brentford,20,5924,308034,Unverified estimation,Yegor YarmolyukBrentford
 613,Josh Acheampong,,RB,Chelsea,18,5924,308034,Unverified estimation,Josh AcheampongChelsea
 614,Ed Turns,,CB,Brighton,21,5924,308034,Unverified estimation,Ed TurnsBrighton
 615,Joe Hodge,,DM,Wolves,22,5871,305282,Unverified estimation,Joe HodgeWolves
@@ -1283,13 +1283,13 @@ Rk,Player,Nation,Pos,Squad,Age,Weekly Wages,Annual Wages,Notes,PlSqu
 48,Eric Garcia,es ESP,"DF,MF",Barcelona,23,115385,6000000,,Eric GarciaBarcelona
 49,Jose Luis Gaya,es ESP,DF,Valencia,29,112115,5830000,,Jose Luis GayaValencia
 50,Fran Garcia,es ESP,DF,Real Madrid,24,100192,5210000,Unverified estimation,Fran GarciaReal Madrid
-51,Arthur Melo,br BRA,MF,Girona,27,100192,5210000,,Arthur MeloGirona
+51,Arthur Melo,br BRA,MF,Girona,27,100192,5210000,Unverified estimation,Arthur MeloGirona
 52,Arda Guler,tr TUR,"MF,FW",Real Madrid,19,100000,5200000,Unverified estimation,Arda GulerReal Madrid
 53,Saul Niguez,es ESP,MF,Sevilla,29,96154,5000000,,Saul NiguezSevilla
 54,Fabio Silva,pt POR,FW,Las Palmas,22,95192,4950000,,Fabio SilvaLas Palmas
 55,Kelechi Iheanacho,ng NGA,FW,Sevilla,27,92308,4800000,Unverified estimation,Kelechi IheanachoSevilla
 56,Borja Mayoral,es ESP,FW,Getafe,27,92115,4790000,,Borja MayoralGetafe
-57,Ilkay Gundogan,de GER,CM,Barcelona,33,90192,4690000,,Ilkay GundoganBarcelona
+57,Ilkay Gundogan,de GER,,Barcelona,33,90192,4690000,Unverified estimation,Ilkay GundoganBarcelona
 58,Vedat Muriqi,xk KVX,FW,Mallorca,30,88077,4580000,,Vedat MuriqiMallorca
 59,Andriy Lunin,ua UKR,GK,Real Madrid,25,86538,4500000,Unverified estimation,Andriy LuninReal Madrid
 60,Juan Bernat,es ESP,"DF,MF",Villarreal,31,84231,4380000,,Juan BernatVillarreal
@@ -1305,7 +1305,7 @@ Rk,Player,Nation,Pos,Squad,Age,Weekly Wages,Annual Wages,Notes,PlSqu
 70,Jonathan Bamba,ci CIV,"FW,MF",Celta Vigo,28,80000,4160000,,Jonathan BambaCelta Vigo
 71,Giovani Lo Celso,ar ARG,"MF,FW",Betis,28,80000,4160000,Unverified estimation,Giovani Lo CelsoBetis
 72,Nemanja Gudelj,rs SRB,"MF,DF",Sevilla,32,78846,4100000,,Nemanja GudeljSevilla
-73,Clement Lenglet,fr FRA,DF,Atletico Madrid,29,76923,4000000,Unverified estimation,Clement LengletAtletico Madrid
+73,Clement Lenglet,fr FRA,DF,Atletico Madrid,29,76923,4000000,,Clement LengletAtletico Madrid
 74,Mouctar Diakhaby,gn GUI,DF,Valencia,27,76923,4000000,,Mouctar DiakhabyValencia
 75,Fermin Lopez,,CM,Barcelona,21,76923,4000000,Unverified estimation,Fermin LopezBarcelona
 76,Pau Cubarsi,,CB,Barcelona,18,76923,4000000,,Pau CubarsiBarcelona
@@ -1329,7 +1329,7 @@ Rk,Player,Nation,Pos,Squad,Age,Weekly Wages,Annual Wages,Notes,PlSqu
 94,Donny van de Beek,nl NED,MF,Girona,27,60192,3130000,Unverified estimation,Donny van de BeekGirona
 95,Albert Sambi Lokonga,be BEL,MF,Sevilla,24,60192,3130000,Unverified estimation,Albert Sambi LokongaSevilla
 96,Jesus Navas,es ESP,"FW,MF",Sevilla,38,60192,3130000,Unverified estimation,Jesus NavasSevilla
-97,Antony,br BRA,FW,Betis,24,60192,3130000,,AntonyBetis
+97,Antony,br BRA,FW,Betis,24,60192,3130000,Unverified estimation,AntonyBetis
 98,Daniel Parejo,es ESP,MF,Villarreal,35,60000,3120000,Unverified estimation,Daniel ParejoVillarreal
 99,Denis Suarez,es ESP,MF,Villarreal,30,60000,3120000,Unverified estimation,Denis SuarezVillarreal
 100,Eric Bailly,ci CIV,DF,Villarreal,30,60000,3120000,Unverified estimation,Eric BaillyVillarreal
@@ -1385,7 +1385,7 @@ Rk,Player,Nation,Pos,Squad,Age,Weekly Wages,Annual Wages,Notes,PlSqu
 150,Hugo Guillamon,es ESP,MF,Valencia,24,36923,1920000,Unverified estimation,Hugo GuillamonValencia
 151,Rafa Mir,es ESP,"FW,MF",Valencia,27,36538,1900000,Unverified estimation,Rafa MirValencia
 152,Pape Gueye,sn SEN,MF,Villarreal,25,36154,1880000,Unverified estimation,Pape GueyeVillarreal
-153,Alvaro Djalo,,LW,Athletic Club,25,36154,1880000,Unverified estimation,Alvaro DjaloAthletic Club
+153,Alvaro djalo,,LW,Athletic Club,25,36154,1880000,Unverified estimation,Alvaro DjaloAthletic Club
 154,Akor Adams,,CF,Sevilla,25,36154,1880000,Unverified estimation,Akor AdamsSevilla
 155,Cristhian Mosquera,es ESP,DF,Valencia,20,36154,1880000,Unverified estimation,Cristhian MosqueraValencia
 156,Romain Perraud,fr FRA,DF,Betis,26,36154,1880000,Unverified estimation,Romain PerraudBetis
@@ -1412,14 +1412,14 @@ Rk,Player,Nation,Pos,Squad,Age,Weekly Wages,Annual Wages,Notes,PlSqu
 177,Joseph Aidoo,gh GHA,DF,Valladolid,28,30769,1600000,Unverified estimation,Joseph AidooValladolid
 178,Jaime Mata,es ESP,"FW,MF",Las Palmas,35,30000,1560000,Unverified estimation,Jaime MataLas Palmas
 179,Sergi Cardona,es ESP,DF,Villarreal,25,30000,1560000,Unverified estimation,Sergi CardonaVillarreal
-180,Tajon Buchanan,ca CAN,MF,Villarreal,25,30000,1560000,,Tajon BuchananVillarreal
+180,Tajon Buchanan,ca CAN,MF,Villarreal,25,30000,1560000,Unverified estimation,Tajon BuchananVillarreal
 181,Andoni Gorosabel,es ESP,DF,Athletic Club,27,30000,1560000,Unverified estimation,Andoni GorosabelAthletic Club
 182,Stoichkov,es ESP,"MF,FW",Alaves,30,30000,1560000,Unverified estimation,StoichkovAlaves
 183,Valentin Barco,ar ARG,"DF,FW",Sevilla,20,30000,1560000,Unverified estimation,Valentin BarcoSevilla
 184,Ander Barrenetxea,es ESP,"MF,FW",Real Sociedad,22,30000,1560000,Unverified estimation,Ander BarrenetxeaReal Sociedad
 185,David Soria,es ESP,GK,Getafe,31,29038,1510000,Unverified estimation,David SoriaGetafe
 186,Daley Sinkgraven,nl NED,DF,Las Palmas,29,28846,1500000,Unverified estimation,Daley SinkgravenLas Palmas
-187,Stefan Bajcetic,,DM,Las Palmas,20,28846,1500000,Unverified estimation,Stefan BajceticLas Palmas
+187,Stefan Bajcetic,,,Las Palmas,20,28846,1500000,Unverified estimation,Stefan BajceticLas Palmas
 188,Anuar,ma MAR,"MF,FW",Valladolid,29,28846,1500000,Unverified estimation,AnuarValladolid
 189,Marcos Andre,br BRA,FW,Valladolid,27,28846,1500000,Unverified estimation,Marcos AndreValladolid
 190,Toni Lato,es ESP,DF,Mallorca,26,28846,1500000,Unverified estimation,Toni LatoMallorca
@@ -1495,7 +1495,7 @@ Rk,Player,Nation,Pos,Squad,Age,Weekly Wages,Annual Wages,Notes,PlSqu
 260,Enzo Barrenechea,,DM,Valencia,23,20000,1040000,Unverified estimation,Enzo BarrenecheaValencia
 261,Luis Rioja,es ESP,"MF,FW",Valencia,30,20000,1040000,Unverified estimation,Luis RiojaValencia
 262,Jon Pacheco,es ESP,DF,Real Sociedad,23,20000,1040000,Unverified estimation,Jon PachecoReal Sociedad
-263,Orri Oskarsson,,CF,Real Sociedad,20,20000,1040000,Unverified estimation,Orri OskarssonReal Sociedad
+263,Orri Steinn Oskarsson,,CF,Real Sociedad,20,20000,1040000,Unverified estimation,Orri OskarssonReal Sociedad
 264,Ivan Villar,es ESP,GK,Celta Vigo,27,20000,1040000,Unverified estimation,Ivan VillarCelta Vigo
 265,Catena,es ESP,DF,Osasuna,29,19231,1000000,Unverified estimation,CatenaOsasuna
 266,Jon Moncayola,es ESP,MF,Osasuna,26,19231,1000000,Unverified estimation,Jon MoncayolaOsasuna
@@ -1567,7 +1567,7 @@ Rk,Player,Nation,Pos,Squad,Age,Weekly Wages,Annual Wages,Notes,PlSqu
 332,Javi Lopez,es ESP,DF,Real Sociedad,22,13846,720000,Unverified estimation,Javi LopezReal Sociedad
 333,Martin Valjent,sk SVK,DF,Mallorca,28,13462,700000,Unverified estimation,Martin ValjentMallorca
 334,Samu Costa,pt POR,MF,Mallorca,23,13462,700000,Unverified estimation,Samu CostaMallorca
-335,Johnny,,DM,Betis,22,13462,700000,Unverified estimation,JohnnyBetis
+335,Johnny Cardoso,,DM,Betis,22,13462,700000,Unverified estimation,JohnnyBetis
 336,Jose Arnaiz,es ESP,"FW,MF",Osasuna,29,13077,680000,Unverified estimation,Jose ArnaizOsasuna
 337,Javi Sanchez,es ESP,DF,Valladolid,27,12692,660000,Unverified estimation,Javi SanchezValladolid
 338,Jackson Porozo,ec ECU,DF,Leganes,23,12692,660000,Unverified estimation,Jackson PorozoLeganes
@@ -1588,9 +1588,9 @@ Rk,Player,Nation,Pos,Squad,Age,Weekly Wages,Annual Wages,Notes,PlSqu
 353,Matija Nastasic,rs SRB,DF,Leganes,31,11923,620000,Unverified estimation,Matija NastasicLeganes
 354,Alvaro Tejero,es ESP,"MF,DF",Espanyol,28,11923,620000,Unverified estimation,Alvaro TejeroEspanyol
 355,Pol Lozano,es ESP,MF,Espanyol,24,11923,620000,Unverified estimation,Pol LozanoEspanyol
-356,Peque Fernandez,,SS,Sevilla,21,11923,620000,Unverified estimation,Peque FernandezSevilla
+356,Peque,,SS,Sevilla,21,11923,620000,Unverified estimation,Peque FernandezSevilla
 357,Rodrigo Riquelme,es ESP,"MF,DF",Atletico Madrid,24,11923,620000,Unverified estimation,Rodrigo RiquelmeAtletico Madrid
-358,Fran Perez,,RW,Valencia,21,11923,620000,Unverified estimation,Fran PerezValencia
+358,Francisco Perez,,RW,Valencia,21,11923,620000,Unverified estimation,Fran PerezValencia
 359,Jesus Vazquez,es ESP,DF,Valencia,21,11923,620000,Unverified estimation,Jesus VazquezValencia
 360,Javi Rodriguez,,CB,Celta Vigo,21,11923,620000,Unverified estimation,Javi RodriguezCelta Vigo
 361,Raul Garcia,,CF,Osasuna,24,11538,600000,Unverified estimation,Raul GarciaOsasuna
@@ -1611,7 +1611,7 @@ Rk,Player,Nation,Pos,Squad,Age,Weekly Wages,Annual Wages,Notes,PlSqu
 376,Maximiliano Caufriez,be BEL,DF,Valencia,27,10192,530000,Unverified estimation,Maximiliano CaufriezValencia
 377,Andy Pelmard,fr FRA,DF,Las Palmas,24,10000,520000,Unverified estimation,Andy PelmardLas Palmas
 378,Dinko Horkas,,GK,Las Palmas,25,10000,520000,Unverified estimation,Dinko HorkasLas Palmas
-379,Manu Fuster,,LW,Las Palmas,27,10000,520000,Unverified estimation,Manu FusterLas Palmas
+379,Manuel Fuster,,LW,Las Palmas,27,10000,520000,Unverified estimation,Manu FusterLas Palmas
 380,Enzo Boyomo,,CB,Osasuna,23,10000,520000,Unverified estimation,Enzo BoyomoOsasuna
 381,Luis Perez,es ESP,DF,Valladolid,29,10000,520000,Unverified estimation,Luis PerezValladolid
 382,Tamas Nikitscher,,CM,Valladolid,25,10000,520000,Unverified estimation,Tamas NikitscherValladolid
@@ -1620,7 +1620,7 @@ Rk,Player,Nation,Pos,Squad,Age,Weekly Wages,Annual Wages,Notes,PlSqu
 385,Dani Rodriguez,es ESP,"MF,FW",Mallorca,36,10000,520000,Unverified estimation,Dani RodriguezMallorca
 386,Alvaro Rodriguez,,CF,Getafe,20,10000,520000,Unverified estimation,Alvaro RodriguezGetafe
 387,Juan Berrocal,es ESP,DF,Getafe,25,10000,520000,Unverified estimation,Juan BerrocalGetafe
-388,Peter Federico,,RW,Getafe,22,10000,520000,Unverified estimation,Peter FedericoGetafe
+388,Peter Gonzalez,,RW,Getafe,22,10000,520000,Unverified estimation,Peter FedericoGetafe
 389,Darko Brasanac,rs SRB,MF,Leganes,32,10000,520000,Unverified estimation,Darko BrasanacLeganes
 390,Juan Cruz,es ESP,"FW,MF",Leganes,24,10000,520000,Unverified estimation,Juan CruzLeganes
 391,Marko Dmitrovic,rs SRB,GK,Leganes,32,10000,520000,Unverified estimation,Marko DmitrovicLeganes
@@ -1666,10 +1666,10 @@ Rk,Player,Nation,Pos,Squad,Age,Weekly Wages,Annual Wages,Notes,PlSqu
 431,Stanis Idumbo,,AM,Sevilla,19,8077,420000,Unverified estimation,Stanis IdumboSevilla
 432,Borja Garces,es ESP,CF,Atletico Madrid,25,8077,420000,Unverified estimation,Borja GarcesAtletico Madrid
 433,Gerard Martin,,LB,Barcelona,22,8077,420000,Unverified estimation,Gerard MartinBarcelona
-434,Urko Gonzalez de Zarate,,DM,Espanyol,23,7885,410000,Unverified estimation,Urko Gonzalez de ZarateEspanyol
+434,Urko Gonzalez,,DM,Espanyol,23,7885,410000,Unverified estimation,Urko Gonzalez de ZarateEspanyol
 435,Jesus Areso,es ESP,DF,Osasuna,25,7692,400000,Unverified estimation,Jesus AresoOsasuna
 436,Juan Cruz Armada,es ESP,DF,Osasuna,32,7692,400000,Unverified estimation,Juan Cruz ArmadaOsasuna
-437,Javi Guerra,,CM,Valencia,21,7692,400000,Unverified estimation,Javi GuerraValencia
+437,Javier Guerra,,CM,Valencia,21,7692,400000,Unverified estimation,Javi GuerraValencia
 438,Benito Ramirez,es ESP,"DF,FW",Las Palmas,29,7308,380000,Unverified estimation,Benito RamirezLas Palmas
 439,Javi Puado,es ESP,"FW,MF",Espanyol,26,7308,380000,Unverified estimation,Javi PuadoEspanyol
 440,Pau Victor,,CF,Barcelona,23,7308,380000,Unverified estimation,Pau VictorBarcelona
@@ -1734,7 +1734,7 @@ Rk,Player,Nation,Pos,Squad,Age,Weekly Wages,Annual Wages,Notes,PlSqu
 499,Sergi Altimira,,CM,Betis,23,3846,200000,Unverified estimation,Sergi AltimiraBetis
 500,Ander Astralaga,,GK,Barcelona,20,3846,200000,Unverified estimation,Ander AstralagaBarcelona
 501,Omar Sadik,,CF,Espanyol,20,3654,190000,Unverified estimation,Omar SadikEspanyol
-502,Juanma Herzog,,CB,Las Palmas,20,3462,180000,Unverified estimation,Juanma HerzogLas Palmas
+502,Juan Herzog,,CB,Las Palmas,20,3462,180000,Unverified estimation,Juanma HerzogLas Palmas
 503,Pablo Ibanez,es ESP,MF,Osasuna,25,3462,180000,Unverified estimation,Pablo IbanezOsasuna
 504,David Lopez,,CB,Mallorca,22,3462,180000,Unverified estimation,David LopezMallorca
 505,Ivan Cuellar,es ESP,GK,Mallorca,40,3462,180000,Unverified estimation,Ivan CuellarMallorca
@@ -1748,7 +1748,7 @@ Rk,Player,Nation,Pos,Squad,Age,Weekly Wages,Annual Wages,Notes,PlSqu
 513,Min-su Kim,,LW,Girona,19,3462,180000,Unverified estimation,Min-su KimGirona
 514,Vladyslav Krapyvtsov,,GK,Girona,19,3462,180000,Unverified estimation,Vladyslav KrapyvtsovGirona
 515,Joni Montiel,es ESP,MF,Rayo Vallecano,25,3462,180000,Unverified estimation,Joni MontielRayo Vallecano
-516,Antoniu Roca,,RW,Espanyol,21,3462,180000,Unverified estimation,Antoniu RocaEspanyol
+516,Antoniu,,RW,Espanyol,21,3462,180000,Unverified estimation,Antoniu RocaEspanyol
 517,Manu Bueno,,CM,Sevilla,20,3462,180000,Unverified estimation,Manu BuenoSevilla
 518,Unai Marrero,,GK,Real Sociedad,22,3462,180000,Unverified estimation,Unai MarreroReal Sociedad
 519,Alex Padilla,,GK,Athletic Club,21,3269,170000,Unverified estimation,Alex PadillaAthletic Club
@@ -1762,7 +1762,7 @@ Rk,Player,Nation,Pos,Squad,Age,Weekly Wages,Annual Wages,Notes,PlSqu
 527,Adria Altimira,es ESP,"DF,FW",Leganes,23,2885,150000,Unverified estimation,Adria AltimiraLeganes
 528,Carlos Dominguez,es ESP,DF,Celta Vigo,23,2885,150000,Unverified estimation,Carlos DominguezCelta Vigo
 529,Coba da Costa,,LW,Getafe,22,2692,140000,Unverified estimation,Coba da CostaGetafe
-530,Yellu Santiago,,CM,Getafe,20,2692,140000,Unverified estimation,Yellu SantiagoGetafe
+530,Jesus Santiago,,CM,Getafe,20,2692,140000,Unverified estimation,Yellu SantiagoGetafe
 531,Naim Garcia,es ESP,MF,Leganes,22,2692,140000,Unverified estimation,Naim GarciaLeganes
 532,Alfon,es ESP,"FW,MF",Celta Vigo,25,2692,140000,Unverified estimation,AlfonCelta Vigo
 533,Pablo Duran,,CF,Celta Vigo,23,2692,140000,Unverified estimation,Pablo DuranCelta Vigo
@@ -1770,7 +1770,7 @@ Rk,Player,Nation,Pos,Squad,Age,Weekly Wages,Annual Wages,Notes,PlSqu
 535,Alberto Risco,,AM,Getafe,19,2308,120000,Unverified estimation,Alberto RiscoGetafe
 536,Alvaro Aceves,,GK,Valladolid,21,1923,100000,Unverified estimation,Alvaro AcevesValladolid
 537,Chuki,,AM,Valladolid,20,1923,100000,Unverified estimation,ChukiValladolid
-538,Lucas Rosa,,RB,Valladolid,24,1923,100000,Unverified estimation,Lucas RosaValladolid
+538,Lucas Oliveira Rosa,,RB,Valladolid,24,1923,100000,Unverified estimation,Lucas RosaValladolid
 539,Mario Martin,,DM,Valladolid,20,1923,100000,Unverified estimation,Mario MartinValladolid
 540,Seydouba Cisse,gn GUI,MF,Leganes,23,577,30000,Unverified estimation,Seydouba CisseLeganes
 1,Ousmane Dembele,fr FRA,FW,Paris S-G,27,384615,20000000,,Ousmane DembeleParis S-G
@@ -1795,7 +1795,7 @@ Rk,Player,Nation,Pos,Squad,Age,Weekly Wages,Annual Wages,Notes,PlSqu
 20,Aleksandr Golovin,ru RUS,"MF,FW",Monaco,28,110577,5750000,Unverified estimation,Aleksandr GolovinMonaco
 21,Folarin Balogun,us USA,FW,Monaco,23,110577,5750000,Unverified estimation,Folarin BalogunMonaco
 22,Goncalo Ramos,pt POR,FW,Paris S-G,23,105769,5500000,,Goncalo RamosParis S-G
-23,Ismael Bennacer,dz ALG,MF,Marseille,26,104808,5450000,,Ismael BennacerMarseille
+23,Ismael Bennacer,dz ALG,MF,Marseille,26,104808,5450000,Unverified estimation,Ismael BennacerMarseille
 24,Andre Gomes,pt POR,MF,Lille,31,104808,5450000,Unverified estimation,Andre GomesLille
 25,Vitinha,pt POR,MF,Paris S-G,24,104808,5450000,,VitinhaParis S-G
 26,Geoffrey Kondogbia,cf CTA,"DF,MF",Marseille,31,103846,5400000,,Geoffrey KondogbiaMarseille
@@ -1812,7 +1812,7 @@ Rk,Player,Nation,Pos,Squad,Age,Weekly Wages,Annual Wages,Notes,PlSqu
 37,Nicolas Tagliafico,ar ARG,DF,Lyon,31,87500,4550000,,Nicolas TagliaficoLyon
 38,Thomas Meunier,be BEL,DF,Lille,32,87308,4540000,Unverified estimation,Thomas MeunierLille
 39,Willian Pacho,,CB,Paris S-G,23,87308,4540000,Unverified estimation,Willian PachoParis S-G
-40,Juan Bernat,es ESP,,Paris S-G,31,84231,4380000,Unverified estimation,Juan BernatParis S-G
+40,Juan Bernat,es ESP,LB,Paris S-G,31,84231,4380000,,Juan BernatParis S-G
 41,Anthony Lopes,pt POR,GK,Lyon,33,80769,4200000,,Anthony LopesLyon
 42,Azzedine Ounahi,ma MAR,CM,Marseille,24,79808,4150000,Unverified estimation,Azzedine OunahiMarseille
 43,Breel Embolo,ch SUI,"FW,MF",Monaco,27,77308,4020000,Unverified estimation,Breel EmboloMonaco
@@ -1842,7 +1842,7 @@ Rk,Player,Nation,Pos,Squad,Age,Weekly Wages,Annual Wages,Notes,PlSqu
 67,Vanderson,br BRA,DF,Monaco,23,57692,3000000,,VandersonMonaco
 68,Kyogo Furuhashi,jp JPN,FW,Rennes,29,55769,2900000,Unverified estimation,Kyogo FuruhashiRennes
 69,Jeremie Boga,ci CIV,"MF,FW",Nice,27,53462,2780000,,Jeremie BogaNice
-70,Valentin Carboni,,AM,Marseille,19,52500,2730000,,Valentin CarboniMarseille
+70,Valentin Carboni,,,Marseille,19,52500,2730000,Unverified estimation,Valentin CarboniMarseille
 71,Hamed Junior Traore,ci CIV,MF,Auxerre,24,52500,2730000,,Hamed Junior TraoreAuxerre
 72,M'Bala Nzola,ao ANG,FW,Lens,27,52500,2730000,,M'Bala NzolaLens
 73,Desire Doue,,LW,Paris S-G,19,52500,2730000,Unverified estimation,Desire DoueParis S-G
@@ -1969,7 +1969,7 @@ Rk,Player,Nation,Pos,Squad,Age,Weekly Wages,Annual Wages,Notes,PlSqu
 194,Youssouf Ndayishimiye,bi BDI,DF,Nice,25,18077,940000,Unverified estimation,Youssouf NdayishimiyeNice
 195,Fabien Centonze,fr FRA,DF,Nantes,28,18077,940000,Unverified estimation,Fabien CentonzeNantes
 196,Lamine Camara,,CM,Monaco,20,17692,920000,Unverified estimation,Lamine CamaraMonaco
-197,Alexsandro,,CB,Lille,25,17500,910000,Unverified estimation,AlexsandroLille
+197,Alexsandro Ribeiro,,CB,Lille,25,17500,910000,Unverified estimation,AlexsandroLille
 198,Osame Sahraoui,,LW,Lille,23,17500,910000,Unverified estimation,Osame SahraouiLille
 199,Ignatius Ganago,cm CMR,"FW,MF",Nantes,25,17500,910000,Unverified estimation,Ignatius GanagoNantes
 200,Jean-Charles Castelletto,cm CMR,"DF,MF",Nantes,29,17500,910000,Unverified estimation,Jean-Charles CastellettoNantes
@@ -1982,7 +1982,7 @@ Rk,Player,Nation,Pos,Squad,Age,Weekly Wages,Annual Wages,Notes,PlSqu
 207,Terem Moffi,ng NGA,FW,Nice,25,17308,900000,,Terem MoffiNice
 208,Christopher Jullien,fr FRA,DF,Montpellier,31,17308,900000,Unverified estimation,Christopher JullienMontpellier
 209,Nikola Maksimovic,rs SRB,DF,Montpellier,32,17308,900000,Unverified estimation,Nikola MaksimovicMontpellier
-210,Jonathan Rowe,,LW,Marseille,21,17308,900000,Unverified estimation,Jonathan RoweMarseille
+210,Jon Rowe,,LW,Marseille,21,17308,900000,Unverified estimation,Jonathan RoweMarseille
 211,Ulisses Garcia,ch SUI,DF,Marseille,28,17308,900000,Unverified estimation,Ulisses GarciaMarseille
 212,Koka,eg EGY,FW,Le Havre,31,17308,900000,Unverified estimation,KokaLe Havre
 213,Bamba Dieng,sn SEN,FW,Angers,24,17308,900000,Unverified estimation,Bamba DiengAngers
@@ -1991,7 +1991,7 @@ Rk,Player,Nation,Pos,Squad,Age,Weekly Wages,Annual Wages,Notes,PlSqu
 216,Gabriel Moscardo,,DM,Reims,19,17308,900000,Unverified estimation,Gabriel MoscardoReims
 217,Keito Nakamura,jp JPN,"FW,MF",Reims,24,17308,900000,Unverified estimation,Keito NakamuraReims
 218,Sergio Akieme,es ESP,DF,Reims,26,17308,900000,Unverified estimation,Sergio AkiemeReims
-219,Carlos Andres Gomez,,RW,Rennes,22,17308,900000,Unverified estimation,Carlos Andres GomezRennes
+219,Carlos Gomez,,RW,Rennes,22,17308,900000,Unverified estimation,Carlos Andres GomezRennes
 220,Abakar Sylla,ci CIV,DF,Strasbourg,21,17308,900000,Unverified estimation,Abakar SyllaStrasbourg
 221,Andrey Santos,,CM,Strasbourg,20,17308,900000,Unverified estimation,Andrey SantosStrasbourg
 222,Felix Lemarechal,fr FRA,"MF,FW",Strasbourg,20,17308,900000,Unverified estimation,Felix LemarechalStrasbourg
@@ -2105,7 +2105,7 @@ Rk,Player,Nation,Pos,Squad,Age,Weekly Wages,Annual Wages,Notes,PlSqu
 330,Florent Hanin,dz ALG,DF,Angers,34,10385,540000,Unverified estimation,Florent HaninAngers
 331,Pierrick Capelle,fr FRA,MF,Angers,37,10385,540000,Unverified estimation,Pierrick CapelleAngers
 332,Ethan Mbappe,,CM,Lille,18,10385,540000,Unverified estimation,Ethan MbappeLille
-333,Ngal'ayel Mukau,,DM,Lille,19,10385,540000,Unverified estimation,Ngal'ayel MukauLille
+333,Ngal'Ayel Mukau,,DM,Lille,19,10385,540000,Unverified estimation,Ngal'ayel MukauLille
 334,Maxime Bernauer,fr FRA,DF,Saint-Etienne,26,10385,540000,Unverified estimation,Maxime BernauerSaint-Etienne
 335,Yvann Macon,fr FRA,DF,Saint-Etienne,25,10385,540000,Unverified estimation,Yvann MaconSaint-Etienne
 336,Patrik Carlgren,se SWE,GK,Nantes,32,10385,540000,Unverified estimation,Patrik CarlgrenNantes
@@ -2129,7 +2129,7 @@ Rk,Player,Nation,Pos,Squad,Age,Weekly Wages,Annual Wages,Notes,PlSqu
 354,Julien Le Cardinal,fr FRA,DF,Brest,26,9231,480000,Unverified estimation,Julien Le CardinalBrest
 355,Gautier Larsonneur,fr FRA,GK,Saint-Etienne,27,9038,470000,Unverified estimation,Gautier LarsonneurSaint-Etienne
 356,Timothee Pembele,fr FRA,DF,Le Havre,21,8846,460000,Unverified estimation,Timothee PembeleLe Havre
-357,Valentin Atangana,,CM,Reims,19,8846,460000,Unverified estimation,Valentin AtanganaReims
+357,Valentin Atangana Edoa,,CM,Reims,19,8846,460000,Unverified estimation,Valentin AtanganaReims
 358,Yaya Fofana,,CM,Reims,20,8846,460000,Unverified estimation,Yaya FofanaReims
 359,Mousa Al-Tamari,,RW,Montpellier,27,8654,450000,Unverified estimation,Mousa Al-TamariMontpellier
 360,Cristian Casseres Jr.,ve VEN,MF,Toulouse,24,8654,450000,Unverified estimation,Cristian Casseres Jr.Toulouse
@@ -2158,7 +2158,7 @@ Rk,Player,Nation,Pos,Squad,Age,Weekly Wages,Annual Wages,Notes,PlSqu
 383,Kassoum Ouattara,,LB,Monaco,20,7692,400000,Unverified estimation,Kassoum OuattaraMonaco
 384,Pablo Rosario,do DOM,"MF,DF",Nice,27,7500,390000,Unverified estimation,Pablo RosarioNice
 385,Carlens Arcus,ht HAI,DF,Angers,28,7500,390000,Unverified estimation,Carlens ArcusAngers
-386,Abdoulaye Ndiaye,,CB,Brest,22,7500,390000,Unverified estimation,Abdoulaye NdiayeBrest
+386,Abdoulaye Niakhate Ndiaye,,CB,Brest,22,7500,390000,Unverified estimation,Abdoulaye NdiayeBrest
 387,Marcin Bulka,pl POL,GK,Nice,24,6923,360000,Unverified estimation,Marcin BulkaNice
 388,Theo Sainte-Luce,fr FRA,DF,Montpellier,25,6923,360000,Unverified estimation,Theo Sainte-LuceMontpellier
 389,Vincent Sierro,ch SUI,MF,Toulouse,28,6923,360000,Unverified estimation,Vincent SierroToulouse
@@ -2221,7 +2221,7 @@ Rk,Player,Nation,Pos,Squad,Age,Weekly Wages,Annual Wages,Notes,PlSqu
 446,Dogan Alemdar,tr TUR,GK,Rennes,21,4231,220000,Unverified estimation,Dogan AlemdarRennes
 447,Jeremy Agbonifo,,RW,Lens,19,4231,220000,Unverified estimation,Jeremy AgbonifoLens
 448,Yann Kitala,,FW,Le Havre,26,4038,210000,Unverified estimation,Yann KitalaLe Havre
-449,Pierre Ekwah,,DM,Saint-Etienne,23,3846,200000,Unverified estimation,Pierre EkwahSaint-Etienne
+449,Pierre Ekwah Elimby,,DM,Saint-Etienne,23,3846,200000,Unverified estimation,Pierre EkwahSaint-Etienne
 450,Rares Ilie,,AM,Nice,21,3462,180000,Unverified estimation,Rares IlieNice
 451,Lucas Mincarelli,,LB,Montpellier,20,3462,180000,Unverified estimation,Lucas MincarelliMontpellier
 452,Denis Genreau,au AUS,MF,Toulouse,25,3462,180000,Unverified estimation,Denis GenreauToulouse
@@ -2281,7 +2281,7 @@ Rk,Player,Nation,Pos,Squad,Age,Weekly Wages,Annual Wages,Notes,PlSqu
 506,Alan Do Marcolino,,CF,Rennes,22,2308,120000,Unverified estimation,Alan Do MarcolinoRennes
 507,Mahamadou Nagida,,LB,Rennes,19,2308,120000,Unverified estimation,Mahamadou NagidaRennes
 508,Wilson Samake,,CF,Rennes,20,2308,120000,Unverified estimation,Wilson SamakeRennes
-509,Abdoul Ouattara,,RW,Strasbourg,19,2308,120000,Unverified estimation,Abdoul OuattaraStrasbourg
+509,Guimissongui Ouattara,,RW,Strasbourg,19,2308,120000,Unverified estimation,Abdoul OuattaraStrasbourg
 510,Mohamed Bechikh,,CF,Strasbourg,19,2308,120000,Unverified estimation,Mohamed BechikhStrasbourg
 511,Nolan Ferro,,CM,Strasbourg,18,2308,120000,Unverified estimation,Nolan FerroStrasbourg
 512,Samuel Amo-Ameyaw,,RW,Strasbourg,18,2308,120000,Unverified estimation,Samuel Amo-AmeyawStrasbourg
@@ -2300,7 +2300,7 @@ Rk,Player,Nation,Pos,Squad,Age,Weekly Wages,Annual Wages,Notes,PlSqu
 525,Sidiki Cherif,,LW,Angers,18,1923,100000,Unverified estimation,Sidiki CherifAngers
 526,Abdoul Kone,,CB,Reims,19,1923,100000,Unverified estimation,Abdoul KoneReims
 527,Nhoa Sangui,,LB,Reims,18,1923,100000,Unverified estimation,Nhoa SanguiReims
-528,Herba Guirassy,,LW,Nantes,18,1923,100000,Unverified estimation,Herba GuirassyNantes
+528,Bahereba Guirassy,,LW,Nantes,18,1923,100000,Unverified estimation,Herba GuirassyNantes
 529,Louis Leroux,,AM,Nantes,19,1923,100000,Unverified estimation,Louis LerouxNantes
 530,Sidi Bane,,CB,Lens,20,1923,100000,Unverified estimation,Sidi BaneLens
 531,Aristide Zossou,,LW,Auxerre,19,1731,90000,Unverified estimation,Aristide ZossouAuxerre
@@ -2375,10 +2375,10 @@ Rk,Player,Nation,Pos,Squad,Age,Weekly Wages,Annual Wages,Notes,PlSqu
 55,Ben Godfrey,eng ENG,DF,Atalanta,26,89038,4630000,,Ben GodfreyAtalanta
 56,Stephan El Shaarawy,it ITA,"DF,MF",Roma,31,89038,4630000,,Stephan El ShaarawyRoma
 57,Emerson,br BRA,DF,Milan,25,89038,4630000,,EmersonMilan
-58,Kyle Walker,eng ENG,DF,Milan,34,89038,4630000,Unverified estimation,Kyle WalkerMilan
+58,Kyle Walker,eng ENG,DF,Milan,34,89038,4630000,,Kyle WalkerMilan
 59,Santiago Gimenez,mx MEX,FW,Milan,23,89038,4630000,,Santiago GimenezMilan
 60,Francisco Conceicao,pt POR,"FW,MF",Juventus,21,89038,4630000,,Francisco ConceicaoJuventus
-61,Randal Kolo Muani,fr FRA,FW,Juventus,25,89038,4630000,Unverified estimation,Randal Kolo MuaniJuventus
+61,Randal Kolo Muani,fr FRA,FW,Juventus,25,89038,4630000,,Randal Kolo MuaniJuventus
 62,Alessandro Buongiorno,it ITA,DF,Napoli,25,89038,4630000,,Alessandro BuongiornoNapoli
 63,Giacomo Raspadori,it ITA,"FW,MF",Napoli,24,89038,4630000,,Giacomo RaspadoriNapoli
 64,Nicolas Gonzalez,ar ARG,"FW,MF",Juventus,26,88846,4620000,,Nicolas GonzalezJuventus
@@ -2388,7 +2388,7 @@ Rk,Player,Nation,Pos,Squad,Age,Weekly Wages,Annual Wages,Notes,PlSqu
 68,Andrea Pinamonti,it ITA,FW,Genoa,25,85385,4440000,,Andrea PinamontiGenoa
 69,Andrea Cambiaso,it ITA,"DF,FW",Juventus,24,85385,4440000,,Andrea CambiasoJuventus
 70,Enzo Le Fee,fr FRA,MF,Roma,24,81923,4260000,,Enzo Le FeeRoma
-71,Joao Felix,pt POR,MF,Milan,24,80192,4170000,Unverified estimation,Joao FelixMilan
+71,Joao Felix,pt POR,MF,Milan,24,80192,4170000,,Joao FelixMilan
 72,Adam Marusic,me MNE,DF,Lazio,31,78269,4070000,,Adam MarusicLazio
 73,Samuel Gigot,fr FRA,DF,Lazio,30,78269,4070000,,Samuel GigotLazio
 74,Riccardo Orsolini,it ITA,FW,Bologna,27,71154,3700000,,Riccardo OrsoliniBologna
@@ -2441,7 +2441,7 @@ Rk,Player,Nation,Pos,Squad,Age,Weekly Wages,Annual Wages,Notes,PlSqu
 121,Carlos Augusto,br BRA,DF,Inter,25,54231,2820000,,Carlos AugustoInter
 122,Alexis Sanchez,cl CHI,FW,Udinese,35,53462,2780000,Unverified estimation,Alexis SanchezUdinese
 123,Cesare Casadei,,CM,Torino,22,53462,2780000,,Cesare CasadeiTorino
-124,Elif Elmas,mk MKD,"FW,MF",Torino,24,53462,2780000,Unverified estimation,Elif ElmasTorino
+124,Elif Elmas,mk MKD,"FW,MF",Torino,24,53462,2780000,,Elif ElmasTorino
 125,Andrea Petagna,it ITA,FW,Monza,29,53462,2780000,,Andrea PetagnaMonza
 126,Roberto Gagliardini,it ITA,"MF,DF",Monza,30,53462,2780000,,Roberto GagliardiniMonza
 127,Andrea Belotti,it ITA,FW,Como,30,53462,2780000,Unverified estimation,Andrea BelottiComo
@@ -2541,7 +2541,7 @@ Rk,Player,Nation,Pos,Squad,Age,Weekly Wages,Annual Wages,Notes,PlSqu
 221,Kevin Bonifazi,it ITA,DF,Lecce,28,35577,1850000,Unverified estimation,Kevin BonifaziLecce
 222,Juan Jesus,br BRA,DF,Napoli,33,35577,1850000,,Juan JesusNapoli
 223,Pasquale Mazzocchi,it ITA,"DF,FW",Napoli,29,35577,1850000,,Pasquale MazzocchiNapoli
-224,Philip Billing,dk DEN,MF,Napoli,28,35577,1850000,Unverified estimation,Philip BillingNapoli
+224,Philip Billing,dk DEN,MF,Napoli,28,35577,1850000,,Philip BillingNapoli
 225,Perr Schuurs,nl NED,CB,Torino,24,34423,1790000,,Perr SchuursTorino
 226,Milan Badelj,hr CRO,MF,Genoa,35,34423,1790000,,Milan BadeljGenoa
 227,Christian Kabasele,be BEL,DF,Udinese,33,32115,1670000,Unverified estimation,Christian KabaseleUdinese
@@ -2569,7 +2569,7 @@ Rk,Player,Nation,Pos,Squad,Age,Weekly Wages,Annual Wages,Notes,PlSqu
 249,Berat Djimsiti,al ALB,DF,Atalanta,31,28462,1480000,,Berat DjimsitiAtalanta
 250,Liam Henderson,sct SCO,MF,Empoli,28,28462,1480000,,Liam HendersonEmpoli
 251,Filippo Terracciano,,RB,Milan,21,28462,1480000,,Filippo TerraccianoMilan
-252,Renato Veiga,,,Juventus,21,28462,1480000,Unverified estimation,Renato VeigaJuventus
+252,Renato Veiga,,CB,Juventus,21,28462,1480000,Unverified estimation,Renato VeigaJuventus
 253,Tiago Djalo,pt POR,CB,Juventus,24,28462,1480000,,Tiago DjaloJuventus
 254,Matteo Cancellieri,it ITA,"FW,MF",Parma,22,28462,1480000,Unverified estimation,Matteo CancellieriParma
 255,Lautaro Gianetti,ar ARG,DF,Udinese,30,26731,1390000,Unverified estimation,Lautaro GianettiUdinese
@@ -2624,7 +2624,7 @@ Rk,Player,Nation,Pos,Squad,Age,Weekly Wages,Annual Wages,Notes,PlSqu
 304,John Yeboah,ec ECU,"FW,MF",Venezia,24,21346,1110000,Unverified estimation,John YeboahVenezia
 305,Jose Luis Palomino,ar ARG,DF,Cagliari,34,21346,1110000,Unverified estimation,Jose Luis PalominoCagliari
 306,Zito Luvumbo,,CF,Cagliari,22,21346,1110000,Unverified estimation,Zito LuvumboCagliari
-307,Alex Jimenez,,LB,Milan,19,21346,1110000,Unverified estimation,Alex JimenezMilan
+307,Alejandro Jimenez,,LB,Milan,19,21346,1110000,Unverified estimation,Alex JimenezMilan
 308,Nahuel Estevez,ar ARG,MF,Parma,28,21346,1110000,Unverified estimation,Nahuel EstevezParma
 309,Pontus Almqvist,se SWE,"FW,MF",Parma,25,21346,1110000,Unverified estimation,Pontus AlmqvistParma
 310,Federico Baschirotto,it ITA,DF,Lecce,27,21346,1110000,Unverified estimation,Federico BaschirottoLecce
@@ -2660,7 +2660,7 @@ Rk,Player,Nation,Pos,Squad,Age,Weekly Wages,Annual Wages,Notes,PlSqu
 340,Andrea Carboni,it ITA,DF,Monza,23,17885,930000,Unverified estimation,Andrea CarboniMonza
 341,Assane Diao,,RW,Como,19,17885,930000,Unverified estimation,Assane DiaoComo
 342,Jean Butez,fr FRA,GK,Como,29,17885,930000,Unverified estimation,Jean ButezComo
-343,Nico Paz,,AM,Como,20,17885,930000,Unverified estimation,Nico PazComo
+343,Nicolas Paz,,AM,Como,20,17885,930000,Unverified estimation,Nico PazComo
 344,Pepe Reina,es ESP,GK,Como,41,17885,930000,Unverified estimation,Pepe ReinaComo
 345,Yannik Engelhardt,,DM,Como,23,17885,930000,Unverified estimation,Yannik EngelhardtComo
 346,Pietro Comuzzo,,CB,Fiorentina,19,17885,930000,Unverified estimation,Pietro ComuzzoFiorentina
@@ -2702,7 +2702,7 @@ Rk,Player,Nation,Pos,Squad,Age,Weekly Wages,Annual Wages,Notes,PlSqu
 382,Darko Lazovic,rs SRB,"DF,MF",Hellas Verona,33,15962,830000,Unverified estimation,Darko LazovicHellas Verona
 383,Samuele Birindelli,it ITA,"DF,MF",Monza,25,15962,830000,Unverified estimation,Samuele BirindelliMonza
 384,Alieu Fadera,gm GAM,"FW,DF",Como,22,15962,830000,Unverified estimation,Alieu FaderaComo
-385,Arijon Ibrahimovic,,,Lazio,19,15962,830000,Unverified estimation,Arijon IbrahimovicLazio
+385,Arijon Ibrahimovic,,AM,Lazio,19,15962,830000,Unverified estimation,Arijon IbrahimovicLazio
 386,Daniel Fila,,CF,Venezia,22,15962,830000,Unverified estimation,Daniel FilaVenezia
 387,Mikael Ellertsson,is ISL,"DF,MF",Venezia,22,15962,830000,Unverified estimation,Mikael EllertssonVenezia
 388,Alessandro Gabrielloni,it ITA,"FW,MF",Como,30,15000,780000,Unverified estimation,Alessandro GabrielloniComo
@@ -2810,7 +2810,7 @@ Rk,Player,Nation,Pos,Squad,Age,Weekly Wages,Annual Wages,Notes,PlSqu
 490,Simone Pafundi,,AM,Udinese,18,8846,460000,Unverified estimation,Simone PafundiUdinese
 491,Alessandro Berardi,it ITA,GK,Hellas Verona,33,8846,460000,Unverified estimation,Alessandro BerardiHellas Verona
 492,Ayanda Sishuba,,AM,Hellas Verona,19,8846,460000,Unverified estimation,Ayanda SishubaHellas Verona
-493,Dailon Rocha Livramento,,CF,Hellas Verona,23,8846,460000,Unverified estimation,Dailon Rocha LivramentoHellas Verona
+493,Dailon Livramento,,CF,Hellas Verona,23,8846,460000,Unverified estimation,Dailon Rocha LivramentoHellas Verona
 494,Daniele Ghilardi,,CB,Hellas Verona,22,8846,460000,Unverified estimation,Daniele GhilardiHellas Verona
 495,Diego Coppola,it ITA,DF,Hellas Verona,20,8846,460000,Unverified estimation,Diego CoppolaHellas Verona
 496,Simone Perilli,it ITA,GK,Hellas Verona,29,8846,460000,Unverified estimation,Simone PerilliHellas Verona
@@ -2834,57 +2834,57 @@ Rk,Player,Nation,Pos,Squad,Age,Weekly Wages,Annual Wages,Notes,PlSqu
 514,Nikola Krstovic,,CF,Lecce,24,8654,450000,Unverified estimation,Nikola KrstovicLecce
 515,Matteo Prati,,DM,Cagliari,21,8462,440000,Unverified estimation,Matteo PratiCagliari
 516,Amine Salama,fr FRA,FW,Torino,24,7885,410000,Unverified estimation,Amine SalamaTorino
-517,Francesco Zampano,it ITA,DF,Venezia,30,7885,410000,Unverified estimation,Francesco ZampanoVenezia
-518,Hamza Rafia,tn TUN,MF,Lecce,25,7885,410000,Unverified estimation,Hamza RafiaLecce
-519,Pawel Dawidowicz,pl POL,"DF,MF",Hellas Verona,29,7308,380000,,Pawel DawidowiczHellas Verona
-520,Pedro Pereira,pt POR,DF,Monza,26,7308,380000,Unverified estimation,Pedro PereiraMonza
-521,Warren Bondo,fr FRA,MF,Monza,20,7308,380000,Unverified estimation,Warren BondoMonza
-522,Bjarki Bjarkason,is ISL,"DF,MF",Venezia,24,7308,380000,Unverified estimation,Bjarki BjarkasonVenezia
-523,Simone Scuffet,it ITA,GK,Cagliari,28,7308,380000,Unverified estimation,Simone ScuffetCagliari
-524,Daniele Padelli,it ITA,GK,Udinese,38,7115,370000,Unverified estimation,Daniele PadelliUdinese
-525,Juan Cruz,ar ARG,CF,Hellas Verona,25,7115,370000,Unverified estimation,Juan CruzHellas Verona
-526,Tobias Slotsager,,CB,Hellas Verona,19,7115,370000,Unverified estimation,Tobias SlotsagerHellas Verona
-527,Lorenzo De Silvestri,it ITA,DF,Bologna,36,7115,370000,,Lorenzo De SilvestriBologna
-528,Gaston Pereiro,uy URU,MF,Genoa,29,7115,370000,,Gaston PereiroGenoa
-529,Giorgio Altare,it ITA,DF,Venezia,25,7115,370000,Unverified estimation,Giorgio AltareVenezia
-530,Hans Nicolussi Caviglia,it ITA,MF,Venezia,24,7115,370000,,Hans Nicolussi CavigliaVenezia
-531,Issa Doumbia,,CM,Venezia,20,7115,370000,Unverified estimation,Issa DoumbiaVenezia
-532,Luca Fiordilino,it ITA,DM,Venezia,28,7115,370000,Unverified estimation,Luca FiordilinoVenezia
-533,Eddie Salcedo,it ITA,CF,Inter,22,7115,370000,,Eddie SalcedoInter
-534,Jonas Rouhi,,LB,Juventus,20,7115,370000,Unverified estimation,Jonas RouhiJuventus
-535,Nicolo Savona,,RB,Juventus,21,7115,370000,,Nicolo SavonaJuventus
-536,Gianluca Di Chiara,it ITA,"DF,MF",Parma,30,7115,370000,Unverified estimation,Gianluca Di ChiaraParma
-537,Balthazar Pierret,fr FRA,MF,Lecce,24,7115,370000,Unverified estimation,Balthazar PierretLecce
-538,Medon Berisha,,CM,Lecce,21,7115,370000,Unverified estimation,Medon BerishaLecce
-539,Emirhan Ilkhan,tr TUR,MF,Torino,20,6731,350000,,Emirhan IlkhanTorino
-540,Mathis Lambourde,,CF,Hellas Verona,18,6346,330000,Unverified estimation,Mathis LambourdeHellas Verona
-541,Andri Fannar Baldursson,is ISL,CM,Bologna,23,6346,330000,Unverified estimation,Andri Fannar BaldurssonBologna
-542,Arvid Brorsson,,CB,Monza,25,6346,330000,Unverified estimation,Arvid BrorssonMonza
-543,Filippo Melegoni,it ITA,"MF,FW",Genoa,25,6346,330000,Unverified estimation,Filippo MelegoniGenoa
-544,Samuele Perisan,it ITA,GK,Empoli,26,6346,330000,Unverified estimation,Samuele PerisanEmpoli
-545,Alessio Zerbin,it ITA,DF,Venezia,25,6346,330000,,Alessio ZerbinVenezia
-546,Tiago Gabriel,,CB,Lecce,20,6346,330000,Unverified estimation,Tiago GabrielLecce
-547,Thomas Kristensen,,CB,Udinese,23,6154,320000,Unverified estimation,Thomas KristensenUdinese
-548,Liberato Cacace,nz NZL,"MF,DF",Empoli,23,6154,320000,Unverified estimation,Liberato CacaceEmpoli
-549,Bruno,br BRA,GK,Venezia,26,6154,320000,Unverified estimation,BrunoVenezia
-550,Lucas Gourna-Douath,fr FRA,MF,Roma,20,6154,320000,,Lucas Gourna-DouathRoma
-551,Mohamed Kaba,fr FRA,MF,Lecce,22,6154,320000,Unverified estimation,Mohamed KabaLecce
-552,Jeff Ekhator,,CF,Genoa,18,5962,310000,Unverified estimation,Jeff EkhatorGenoa
-553,Devis Vasquez,,GK,Empoli,26,5962,310000,Unverified estimation,Devis VasquezEmpoli
-554,Christian Corradi,,CB,Hellas Verona,19,5769,300000,Unverified estimation,Christian CorradiHellas Verona
-555,Alieu Njie,,LW,Torino,19,5769,300000,Unverified estimation,Alieu NjieTorino
-556,Franz Stolz,,GK,Genoa,23,5769,300000,Unverified estimation,Franz StolzGenoa
-557,Arthur Atta,,DM,Udinese,21,5385,280000,Unverified estimation,Arthur AttaUdinese
-558,Iker Bravo,es ESP,"FW,MF",Udinese,19,5385,280000,Unverified estimation,Iker BravoUdinese
-559,Luca Monticelli,,CF,Hellas Verona,19,5385,280000,Unverified estimation,Luca MonticelliHellas Verona
-560,Mattia Chiesa,it ITA,GK,Hellas Verona,24,5385,280000,Unverified estimation,Mattia ChiesaHellas Verona
-561,Reda Belahyane,,DM,Hellas Verona,20,5385,280000,Unverified estimation,Reda BelahyaneHellas Verona
-562,Yllan Okou,,CB,Hellas Verona,21,5385,280000,Unverified estimation,Yllan OkouHellas Verona
-563,Ali Dembele,,RB,Torino,21,5385,280000,Unverified estimation,Ali DembeleTorino
-564,Zanos Savva,,RW,Torino,19,5385,280000,Unverified estimation,Zanos SavvaTorino
-565,Nicola Bagnolini,,GK,Bologna,20,5385,280000,Unverified estimation,Nicola BagnoliniBologna
-566,Niklas Pyyhtia,,CM,Bologna,20,5385,280000,Unverified estimation,Niklas PyyhtiaBologna
-567,Kevin Zeroli,,CM,Monza,20,5385,280000,Unverified estimation,Kevin ZeroliMonza
+517,Kevin Zeroli,,CM,Monza,20,7885,410000,,Kevin ZeroliMonza
+518,Francesco Zampano,it ITA,DF,Venezia,30,7885,410000,Unverified estimation,Francesco ZampanoVenezia
+519,Hamza Rafia,tn TUN,MF,Lecce,25,7885,410000,Unverified estimation,Hamza RafiaLecce
+520,Pawel Dawidowicz,pl POL,"DF,MF",Hellas Verona,29,7308,380000,,Pawel DawidowiczHellas Verona
+521,Pedro Pereira,pt POR,DF,Monza,26,7308,380000,Unverified estimation,Pedro PereiraMonza
+522,Warren Bondo,fr FRA,MF,Monza,20,7308,380000,Unverified estimation,Warren BondoMonza
+523,Bjarki Bjarkason,is ISL,"DF,MF",Venezia,24,7308,380000,Unverified estimation,Bjarki BjarkasonVenezia
+524,Simone Scuffet,it ITA,GK,Cagliari,28,7308,380000,Unverified estimation,Simone ScuffetCagliari
+525,Daniele Padelli,it ITA,GK,Udinese,38,7115,370000,Unverified estimation,Daniele PadelliUdinese
+526,Juan Cruz,ar ARG,CF,Hellas Verona,25,7115,370000,Unverified estimation,Juan CruzHellas Verona
+527,Tobias Slotsager,,CB,Hellas Verona,19,7115,370000,Unverified estimation,Tobias SlotsagerHellas Verona
+528,Lorenzo De Silvestri,it ITA,DF,Bologna,36,7115,370000,,Lorenzo De SilvestriBologna
+529,Gaston Pereiro,uy URU,MF,Genoa,29,7115,370000,,Gaston PereiroGenoa
+530,Giorgio Altare,it ITA,DF,Venezia,25,7115,370000,Unverified estimation,Giorgio AltareVenezia
+531,Hans Nicolussi Caviglia,it ITA,MF,Venezia,24,7115,370000,,Hans Nicolussi CavigliaVenezia
+532,Issa Doumbia,,CM,Venezia,20,7115,370000,Unverified estimation,Issa DoumbiaVenezia
+533,Luca Fiordilino,it ITA,DM,Venezia,28,7115,370000,Unverified estimation,Luca FiordilinoVenezia
+534,Eddie Salcedo,it ITA,CF,Inter,22,7115,370000,,Eddie SalcedoInter
+535,Jonas Rouhi,,LB,Juventus,20,7115,370000,Unverified estimation,Jonas RouhiJuventus
+536,Nicolo Savona,,RB,Juventus,22,7115,370000,,Nicolo SavonaJuventus
+537,Gianluca Di Chiara,it ITA,"DF,MF",Parma,30,7115,370000,Unverified estimation,Gianluca Di ChiaraParma
+538,Balthazar Pierret,fr FRA,MF,Lecce,24,7115,370000,Unverified estimation,Balthazar PierretLecce
+539,Medon Berisha,,CM,Lecce,21,7115,370000,Unverified estimation,Medon BerishaLecce
+540,Emirhan Ilkhan,tr TUR,MF,Torino,20,6731,350000,,Emirhan IlkhanTorino
+541,Mathis Lambourde,,CF,Hellas Verona,18,6346,330000,Unverified estimation,Mathis LambourdeHellas Verona
+542,Andri Fannar Baldursson,is ISL,CM,Bologna,23,6346,330000,Unverified estimation,Andri Fannar BaldurssonBologna
+543,Arvid Brorsson,,CB,Monza,25,6346,330000,Unverified estimation,Arvid BrorssonMonza
+544,Filippo Melegoni,it ITA,"MF,FW",Genoa,25,6346,330000,Unverified estimation,Filippo MelegoniGenoa
+545,Samuele Perisan,it ITA,GK,Empoli,26,6346,330000,Unverified estimation,Samuele PerisanEmpoli
+546,Alessio Zerbin,it ITA,DF,Venezia,25,6346,330000,,Alessio ZerbinVenezia
+547,Tiago Gabriel,,CB,Lecce,20,6346,330000,Unverified estimation,Tiago GabrielLecce
+548,Thomas Kristensen,,CB,Udinese,23,6154,320000,Unverified estimation,Thomas KristensenUdinese
+549,Liberato Cacace,nz NZL,"MF,DF",Empoli,23,6154,320000,Unverified estimation,Liberato CacaceEmpoli
+550,Bruno,br BRA,GK,Venezia,26,6154,320000,Unverified estimation,BrunoVenezia
+551,Lucas Gourna-Douath,fr FRA,MF,Roma,20,6154,320000,,Lucas Gourna-DouathRoma
+552,Mohamed Kaba,fr FRA,MF,Lecce,22,6154,320000,Unverified estimation,Mohamed KabaLecce
+553,Jeff Ekhator,,CF,Genoa,18,5962,310000,Unverified estimation,Jeff EkhatorGenoa
+554,Devis Vasquez,,GK,Empoli,26,5962,310000,Unverified estimation,Devis VasquezEmpoli
+555,Christian Corradi,,CB,Hellas Verona,19,5769,300000,Unverified estimation,Christian CorradiHellas Verona
+556,Alieu Njie,,LW,Torino,19,5769,300000,Unverified estimation,Alieu NjieTorino
+557,Franz Stolz,,GK,Genoa,23,5769,300000,Unverified estimation,Franz StolzGenoa
+558,Arthur Atta,,DM,Udinese,21,5385,280000,Unverified estimation,Arthur AttaUdinese
+559,Iker Bravo,es ESP,"FW,MF",Udinese,19,5385,280000,Unverified estimation,Iker BravoUdinese
+560,Luca Monticelli,,CF,Hellas Verona,19,5385,280000,Unverified estimation,Luca MonticelliHellas Verona
+561,Mattia Chiesa,it ITA,GK,Hellas Verona,24,5385,280000,Unverified estimation,Mattia ChiesaHellas Verona
+562,Reda Belahyane,,DM,Hellas Verona,20,5385,280000,Unverified estimation,Reda BelahyaneHellas Verona
+563,Yllan Okou,,CB,Hellas Verona,21,5385,280000,Unverified estimation,Yllan OkouHellas Verona
+564,Ali Dembele,,RB,Torino,21,5385,280000,Unverified estimation,Ali DembeleTorino
+565,Zanos Savva,,RW,Torino,19,5385,280000,Unverified estimation,Zanos SavvaTorino
+566,Nicola Bagnolini,,GK,Bologna,20,5385,280000,Unverified estimation,Nicola BagnoliniBologna
+567,Niklas Pyyhtia,,CM,Bologna,20,5385,280000,Unverified estimation,Niklas PyyhtiaBologna
 568,Ben Lhassine Kone,ci CIV,MF,Como,24,5385,280000,,Ben Lhassine KoneComo
 569,Marco Sala,it ITA,DF,Como,25,5385,280000,Unverified estimation,Marco SalaComo
 570,Sebastian Otoa,,CB,Genoa,20,5385,280000,Unverified estimation,Sebastian OtoaGenoa
@@ -2907,7 +2907,7 @@ Rk,Player,Nation,Pos,Squad,Age,Weekly Wages,Annual Wages,Notes,PlSqu
 587,Marco Palestra,,RM,Atalanta,19,4231,220000,Unverified estimation,Marco PalestraAtalanta
 588,Magnus Kofod Andersen,dk DEN,MF,Venezia,25,4231,220000,Unverified estimation,Magnus Kofod AndersenVenezia
 589,Alen Sherri,,GK,Cagliari,27,4231,220000,Unverified estimation,Alen SherriCagliari
-590,Anas Haj Mohamed,,RW,Parma,19,4231,220000,Unverified estimation,Anas Haj MohamedParma
+590,Mohamed Haj,,RW,Parma,19,4231,220000,Unverified estimation,Anas Haj MohamedParma
 591,Matteo Palma,,CB,Udinese,16,3654,190000,Unverified estimation,Matteo PalmaUdinese
 592,Grigoris Kastanos,cy CYP,"MF,FW",Hellas Verona,26,3654,190000,,Grigoris KastanosHellas Verona
 593,Junior Ajayi,,CF,Hellas Verona,20,3654,190000,Unverified estimation,Junior AjayiHellas Verona
