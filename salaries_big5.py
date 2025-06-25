@@ -44,10 +44,40 @@ def process_wage_table(url):
 dfs = [process_wage_table(url) for url in links]
 dfs = [df for df in dfs if df is not None and not df.empty]
 
+
+
 # Si hay datos válidos, los procesamos y guardamos
 if dfs:
     df_final = pd.concat(dfs, ignore_index=True)
-
+    nombres_fbref = [
+        "Illia Zabarnyi", "Javier Guerra", "Alvaro Garcia", "Nicolas Paz", "Sergi Cardona",
+        "Valentin Atangana Edoa", "Yehor Yarmoliuk", "Alexsandro Ribeiro", "Victor Bernth Kristiansen",
+        "Dailon Livramento", "Pierre Ekwah Elimby", "Manuel Ugarte Ribeiro", "Johnny Cardoso",
+        "Manuel Fuster", "Jon Rowe", "Francisco Perez", "Antoniu", "Peque", "Jean Matteo Bahoya",
+        "Orri Steinn Oskarsson", "Hong Hyunseok", "Alejandro Jimenez", "Ngal'Ayel Mukau",
+        "Abdoulaye Niakhate Ndiaye", "Lucas Oliveira Rosa", "Juan Herzog", "Keke Maximilian Topp",
+        "Jesus Santiago", "Bahereba Guirassy", "Peter Gonzalez", "Urko Gonzalez", "Guimissongui Ouattara",
+        "Carlos Gomez", "Alvaro djalo", "Mohamed Haj", "James Mcatee", "Giorgos Masouras",
+        "Giorgi Mamardashvili"
+    ]
+    
+    # Nombres con errores (Salarios)
+    nombres_salarios = [
+        "Ilya Zabarnyi", "Javi Guerra", "Alvaro Garcia", "Nico Paz", "Sergi Cardona",
+        "Valentin Atangana", "Yegor Yarmolyuk", "Alexsandro", "Victor Kristiansen",
+        "Dailon Rocha Livramento", "Pierre Ekwah", "Manuel Ugarte", "Johnny",
+        "Manu Fuster", "Jonathan Rowe", "Fran Perez", "Antoniu Roca", "Peque Fernandez",
+        "Jean-Matteo Bahoya", "Orri Oskarsson", "Hyun-seok Hong", "Alex Jimenez", "Ngal'ayel Mukau",
+        "Abdoulaye Ndiaye", "Lucas Rosa", "Juanma Herzog", "Keke Topp", "Yellu Santiago",
+        "Herba Guirassy", "Peter Federico", "Urko Gonzalez de Zarate", "Abdoul Ouattara",
+        "Carlos Andres Gomez", "Alvaro Djalo", "Anas Haj Mohamed", "James McAtee", "Georgios Masouras",
+        "Giorgi Mamardashvili"
+    ]
+    
+    # Creamos diccionario de reemplazo
+    dicc_reemplazo_nombres = dict(zip(nombres_salarios, nombres_fbref))
+    # Reemplazar los nombres en la columna 'Jugador'
+    df_final['Player'] = df_final['Player'].replace(dicc_reemplazo_nombres)
     # Ruta de salida
     output_dir = './data'
     output_filename = 'salaries_big5.csv'
