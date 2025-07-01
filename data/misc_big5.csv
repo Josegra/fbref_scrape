@@ -31,7 +31,7 @@ Reims,Martin Adeline,29,fr FRA,MF,fr Ligue 1,20,2003,0.3,0,0,0,0,1,0,0,0,1,0,0,0
 Dortmund,Karim Adeyemi,30,de GER,"FW,MF",de Bundesliga,22,2002,15.9,4,0,0,27,18,4,26,7,14,0,0,0,48,9,13,40.9,Karim AdeyemiDortmund
 Brighton,Simon Adingra,31,ci CIV,"FW,MF",eng Premier League,22,2002,12.2,0,0,0,13,4,4,41,8,14,0,0,0,47,7,4,63.6,Simon AdingraBrighton
 Leverkusen,Amine Adli,32,ma MAR,"MF,FW",de Bundesliga,24,2000,8.5,3,0,0,15,9,7,33,0,9,2,0,0,30,21,26,44.7,Amine AdliLeverkusen
-Fiorentina,Yacine Adli,33,fr FRA,MF,it Serie A,24,2000,13.7,3,1,1,9,20,0,63,6,19,0,0,0,77,5,16,23.8,Yacine AdliFiorentina
+Fiorentina,Yacine Adli,33,fr FRA,MF,it Serie A,24,2000,13.5,3,1,1,9,20,0,63,6,19,0,0,0,77,5,16,23.8,Yacine AdliFiorentina
 Betis,Adrian,34,es ESP,GK,es La Liga,37,1987,19.0,3,0,0,0,4,0,0,0,0,0,0,0,20,2,1,66.7,AdrianBetis
 Lyon,Adryelson,35,br BRA,DF,fr Ligue 1,26,1998,0.0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,100.0,AdryelsonLyon
 Juventus,Vasilije Adzic,36,me MNE,"MF,FW",it Serie A,18,2006,0.5,0,0,0,1,1,0,0,0,2,0,0,0,3,2,3,40.0,Vasilije AdzicJuventus
@@ -155,7 +155,7 @@ Southampton,Adam Armstrong,153,eng ENG,"FW,MF",eng Premier League,27,1997,13.9,4
 Everton,Harrison Armstrong,154,eng ENG,MF,eng Premier League,17,2007,0.5,1,0,0,2,2,0,1,0,0,0,0,0,2,0,2,0.0,Harrison ArmstrongEverton
 Osasuna,Jose Arnaiz,155,es ESP,"FW,MF",es La Liga,29,1995,1.5,0,0,0,0,5,4,18,5,5,0,0,0,16,1,3,25.0,Jose ArnaizOsasuna
 Lille,Hakon Arnar Haraldsson,156,is ISL,"MF,FW",fr Ligue 1,21,2003,19.5,3,0,0,19,27,3,59,8,16,1,0,0,71,2,14,12.5,Hakon Arnar HaraldssonLille
-Inter,Marko Arnautovic,157,at AUT,FW,it Serie A,35,1989,6.1,1,0,0,4,6,8,5,1,6,0,0,0,10,12,7,63.2,Marko ArnautovicInter
+Inter,Marko Arnautovic,157,at AUT,FW,it Serie A,35,1989,5.9,1,0,0,3,6,8,5,1,5,0,0,0,10,12,7,63.2,Marko ArnautovicInter
 Wolfsburg,Maximilian Arnold,158,de GER,MF,de Bundesliga,30,1994,26.2,7,1,0,30,52,0,152,24,20,0,0,0,154,14,23,37.8,Maximilian ArnoldWolfsburg
 Holstein Kiel,Jann-Fiete Arp,159,de GER,"FW,MF",de Bundesliga,24,2000,7.9,8,1,1,20,18,2,24,3,10,0,0,0,21,2,13,13.3,Jann-Fiete ArpHolstein Kiel
 Betis,Sergio Arribas,160,es ESP,DF,es La Liga,21,2003,1.0,0,0,0,0,0,0,0,3,4,0,0,0,3,1,0,100.0,Sergio ArribasBetis
@@ -165,7 +165,7 @@ Mallorca,Takuma Asano,163,jp JPN,"FW,MF",es La Liga,29,1994,11.7,0,0,0,5,15,6,20
 Real Madrid,Raul Asencio,164,es ESP,DF,es La Liga,21,2003,18.6,3,0,0,12,19,1,0,16,16,0,0,0,75,30,15,66.7,Raul AsencioReal Madrid
 Aston Villa,Marco Asensio,165,es ESP,MF,eng Premier League,28,1996,8.3,2,0,0,11,8,2,38,2,5,0,0,0,28,0,1,0.0,Marco AsensioAston Villa
 Paris S-G,Marco Asensio,166,es ESP,"FW,MF",fr Ligue 1,28,1996,6.9,0,0,0,1,4,3,13,0,3,0,0,0,18,1,2,33.3,Marco AsensioParis S-G
-Inter,Kristjan Asllani,167,al ALB,MF,it Serie A,22,2002,11.0,4,0,0,9,19,0,43,9,3,0,0,0,49,4,3,57.1,Kristjan AsllaniInter
+Inter,Kristjan Asllani,167,al ALB,MF,it Serie A,22,2002,10.9,4,0,0,8,18,0,43,9,3,0,0,0,49,4,3,57.1,Kristjan AsllaniInter
 Celta Vigo,Iago Aspas,168,es ESP,"FW,MF",es La Liga,36,1987,19.4,6,1,1,16,34,5,15,8,8,1,0,0,55,7,8,46.7,Iago AspasCelta Vigo
 Girona,Yaser Asprilla,169,co COL,"FW,MF",es La Liga,20,2003,15.6,2,0,0,12,23,1,93,7,12,0,1,0,62,4,3,57.1,Yaser AsprillaGirona
 Rennes,Lorenz Assignon,170,tg TOG,"DF,MF",fr Ligue 1,24,2000,26.2,9,0,0,52,28,5,70,25,27,0,1,0,110,38,22,63.3,Lorenz AssignonRennes
@@ -175,8 +175,8 @@ Udinese,Arthur Atta,173,fr FRA,"MF,FW",it Serie A,21,2003,13.9,5,0,0,16,14,1,24,
 Freiburg,Noah Atubolu,174,de GER,GK,de Bundesliga,22,2002,25.6,2,0,0,0,0,0,0,0,0,0,0,0,53,10,1,90.9,Noah AtuboluFreiburg
 Como,Emil Audero,175,id IDN,GK,it Serie A,27,1997,8.0,0,0,0,0,1,0,0,0,0,0,0,0,12,2,1,66.7,Emil AuderoComo
 Cagliari,Tommaso Augello,176,it ITA,DF,it Serie A,29,1994,30.1,3,0,0,15,11,3,207,16,28,0,0,0,135,49,22,69.0,Tommaso AugelloCagliari
-Inter,Carlos Augusto,177,br BRA,DF,it Serie A,25,1999,18.8,1,0,0,10,12,3,20,9,14,0,0,0,70,57,35,62.0,Carlos AugustoInter
-Inter,Yann Aurel Bisseck,178,de GER,DF,it Serie A,23,2000,18.3,4,0,0,16,9,1,8,17,12,0,2,0,66,47,15,75.8,Yann Aurel BisseckInter
+Inter,Carlos Augusto,177,br BRA,DF,it Serie A,25,1999,18.1,1,0,0,9,12,2,19,9,14,0,0,0,70,57,35,62.0,Carlos AugustoInter
+Inter,Yann Aurel Bisseck,178,de GER,DF,it Serie A,23,2000,17.3,4,0,0,15,9,1,8,17,11,0,2,0,66,47,15,75.8,Yann Aurel BisseckInter
 Tottenham,Brandon Austin,179,eng ENG,GK,eng Premier League,25,1999,1.0,0,0,0,0,2,0,0,0,0,0,0,0,1,2,0,100.0,Brandon AustinTottenham
 Betis,Ezequiel Avila,180,ar ARG,FW,es La Liga,30,1994,7.5,5,1,0,13,18,5,29,2,3,0,0,0,28,6,8,42.9,Ezequiel AvilaBetis
 Nott'ham Forest,Taiwo Awoniyi,181,ng NGA,FW,eng Premier League,26,1997,4.6,0,0,0,8,10,1,2,0,3,0,0,0,18,13,38,25.5,Taiwo AwoniyiNott'ham Forest
@@ -239,7 +239,7 @@ Sevilla,Valentin Barco,237,ar ARG,"DF,FW",es La Liga,20,2004,3.2,0,0,0,7,5,0,24,
 Strasbourg,Valentin Barco,238,ar ARG,"MF,DF",fr Ligue 1,20,2004,12.9,2,0,0,17,29,0,31,13,22,0,1,0,79,7,7,50.0,Valentin BarcoStrasbourg
 Paris S-G,Bradley Barcola,239,fr FRA,FW,fr Ligue 1,21,2002,24.2,2,0,0,30,22,7,25,19,17,0,0,0,67,14,7,66.7,Bradley BarcolaParis S-G
 Nice,Melvin Bard,240,fr FRA,"DF,MF",fr Ligue 1,23,2000,21.5,4,2,1,17,22,2,60,29,36,0,0,0,124,24,20,54.5,Melvin BardNice
-Inter,Nicolo Barella,241,it ITA,MF,it Serie A,27,1997,27.7,4,0,0,25,33,4,68,12,31,0,0,0,165,26,25,51.0,Nicolo BarellaInter
+Inter,Nicolo Barella,241,it ITA,MF,it Serie A,27,1997,27.3,4,0,0,25,33,4,68,12,31,0,0,0,165,26,25,51.0,Nicolo BarellaInter
 Montpellier,Gabriel Bares,242,ch SUI,"MF,DF",fr Ligue 1,23,2000,0.6,0,0,0,0,1,0,1,1,2,0,0,0,1,0,1,0.0,Gabriel BaresMontpellier
 Leganes,Borna Barisic,243,hr CRO,DF,es La Liga,31,1992,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Borna BarisicLeganes
 Lyon,Teo Barisic,244,fr FRA,DF,fr Ligue 1,19,2004,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Teo BarisicLyon
@@ -257,7 +257,7 @@ Lecce,Federico Baschirotto,255,it ITA,DF,it Serie A,27,1996,38.0,3,0,0,31,7,0,5,
 Como,Daniele Baselli,256,it ITA,MF,it Serie A,32,1992,0.2,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0.0,Daniele BaselliComo
 Fulham,Calvin Bassey,257,ng NGA,DF,eng Premier League,24,1999,34.2,7,0,0,26,32,2,8,20,34,0,0,0,168,43,33,56.6,Calvin BasseyFulham
 Las Palmas,Aboubacar Bassinga,258,ci CIV,MF,es La Liga,19,2005,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,Aboubacar BassingaLas Palmas
-Inter,Alessandro Bastoni,259,it ITA,DF,it Serie A,25,1999,26.7,6,1,1,44,39,1,64,22,24,0,0,0,96,44,24,64.7,Alessandro BastoniInter
+Inter,Alessandro Bastoni,259,it ITA,DF,it Serie A,25,1999,25.9,6,1,1,43,38,0,61,21,23,0,0,0,96,44,24,64.7,Alessandro BastoniInter
 Rayo Vallecano,Augusto Batalla,260,ar ARG,GK,es La Liga,28,1996,32.0,6,0,0,1,6,0,0,0,2,0,0,0,49,9,0,100.0,Augusto BatallaRayo Vallecano
 Eint Frankfurt,Michy Batshuayi,261,be BEL,FW,de Bundesliga,30,1993,3.3,2,0,0,6,2,4,1,1,1,0,0,0,10,3,8,27.3,Michy BatshuayiEint Frankfurt
 Saint-Etienne,Dylan Batubinsika,262,cd COD,DF,fr Ligue 1,28,1996,22.4,3,1,0,24,13,0,1,39,13,0,3,1,76,45,17,72.6,Dylan BatubinsikaSaint-Etienne
@@ -291,7 +291,7 @@ Real Madrid,Jude Bellingham,289,eng ENG,MF,es La Liga,21,2003,27.6,5,1,0,33,64,9
 Leverkusen,Jeanuel Belocian,290,fr FRA,"DF,MF",de Bundesliga,19,2005,0.8,1,0,0,1,4,0,0,0,1,0,0,0,2,1,2,33.3,Jeanuel BelocianLeverkusen
 Como,Andrea Belotti,291,it ITA,FW,it Serie A,30,1993,6.6,1,0,0,9,19,5,5,1,5,0,0,0,17,18,26,40.9,Andrea BelottiComo
 Celta Vigo,Fran Beltran,292,es ESP,MF,es La Liga,25,1999,26.9,3,0,0,34,12,0,5,26,35,0,1,0,119,19,27,41.3,Fran BeltranCelta Vigo
-Fiorentina,Lucas Beltran,293,ar ARG,"FW,MF",it Serie A,23,2001,21.7,6,0,0,32,49,4,7,5,10,1,0,0,59,32,53,37.6,Lucas BeltranFiorentina
+Fiorentina,Lucas Beltran,293,ar ARG,"FW,MF",it Serie A,23,2001,20.7,6,0,0,31,48,4,7,5,10,1,0,0,59,32,53,37.6,Lucas BeltranFiorentina
 Monaco,Eliesse Ben Seghir,294,ma MAR,"MF,FW",fr Ligue 1,19,2005,19.4,0,0,0,25,55,2,52,13,22,0,0,0,86,13,22,37.1,Eliesse Ben SeghirMonaco
 Alaves,Carlos Benavidez,295,uy URU,MF,es La Liga,26,1998,5.4,3,0,0,18,6,1,1,8,14,0,0,0,32,8,7,53.3,Carlos BenavidezAlaves
 Parma,Adrian Benedyczak,296,pl POL,"FW,MF",it Serie A,23,2000,2.4,0,0,0,4,5,1,1,0,0,0,0,0,3,9,12,42.9,Adrian BenedyczakParma
@@ -372,7 +372,7 @@ Nice,Hicham Boudaoui,370,dz ALG,MF,fr Ligue 1,24,1999,27.1,9,0,0,41,51,3,17,22,5
 St. Pauli,Carlo Boukhalfa,371,ma MAR,MF,de Bundesliga,25,1999,18.3,1,0,0,18,17,2,10,12,11,0,0,0,60,23,42,35.4,Carlo BoukhalfaSt. Pauli
 Brest,Justin Bourgault,372,fr FRA,DF,fr Ligue 1,18,2005,1.4,0,0,0,1,1,0,4,0,1,0,0,0,11,1,2,33.3,Justin BourgaultBrest
 Rennes,Benjamin Bourigeaud,373,fr FRA,MF,fr Ligue 1,30,1994,0.9,0,0,0,0,0,0,6,2,0,0,0,0,4,2,2,50.0,Benjamin BourigeaudRennes
-Fiorentina,Edoardo Bove,374,it ITA,"MF,FW",it Serie A,22,2002,9.5,3,0,0,16,21,0,2,6,17,1,0,0,45,11,15,42.3,Edoardo BoveFiorentina
+Fiorentina,Edoardo Bove,374,it ITA,"MF,FW",it Serie A,22,2002,9.3,3,0,0,15,21,0,2,6,17,1,0,0,45,11,15,42.3,Edoardo BoveFiorentina
 West Ham,Jarrod Bowen,375,eng ENG,"FW,MF",eng Premier League,27,1996,33.0,1,0,0,20,51,10,106,16,26,0,0,0,129,12,48,20.0,Jarrod BowenWest Ham
 Osasuna,Enzo Boyomo,376,cm CMR,DF,es La Liga,22,2001,33.2,5,0,0,43,8,0,2,44,43,0,0,0,121,29,35,45.3,Enzo BoyomoOsasuna
 Valladolid,Enzo Boyomo,377,cm CMR,DF,es La Liga,22,2001,3.0,0,0,0,3,0,0,0,1,2,0,0,0,11,3,5,37.5,Enzo BoyomoValladolid
@@ -442,7 +442,7 @@ Arsenal,Riccardo Calafiori,440,it ITA,DF,eng Premier League,22,2002,10.9,4,0,0,1
 Monza,Luca Caldirola,441,it ITA,DF,it Serie A,33,1991,9.7,5,0,0,18,16,1,1,11,7,0,0,0,19,13,13,50.0,Luca CaldirolaMonza
 Espanyol,Fernando Calero,442,es ESP,"DF,MF",es La Liga,28,1995,7.9,1,0,0,6,8,0,2,16,10,0,0,0,26,12,17,41.4,Fernando CaleroEspanyol
 Lyon,Duje Caleta-Car,443,hr CRO,DF,fr Ligue 1,27,1996,17.6,8,0,0,27,9,2,1,17,12,0,0,0,65,39,12,76.5,Duje Caleta-CarLyon
-Inter,Hakan Calhanoglu,444,tr TUR,MF,it Serie A,30,1994,21.6,5,0,0,22,13,0,122,18,23,0,1,0,110,16,18,47.1,Hakan CalhanogluInter
+Inter,Hakan Calhanoglu,444,tr TUR,MF,it Serie A,30,1994,20.9,5,0,0,20,13,0,112,17,22,0,1,0,110,16,18,47.1,Hakan CalhanogluInter
 Everton,Dominic Calvert-Lewin,445,eng ENG,FW,eng Premier League,27,1997,17.9,2,0,0,27,23,27,6,7,7,0,0,0,35,85,81,51.2,Dominic Calvert-LewinEverton
 Parma,Drissa Camara,446,ci CIV,"MF,FW",it Serie A,22,2002,5.0,3,0,0,17,17,1,5,3,7,1,0,0,29,3,9,25.0,Drissa CamaraParma
 Nice,Issiaga Camara,447,gn GUI,MF,fr Ligue 1,19,2005,0.2,0,0,0,0,2,0,0,3,1,0,0,0,4,0,1,0.0,Issiaga CamaraNice
@@ -511,7 +511,7 @@ Nantes,Jean-Charles Castelletto,509,cm CMR,"DF,MF",fr Ligue 1,29,1995,29.1,5,1,0
 Bologna,Santiago Castro,510,ar ARG,FW,it Serie A,19,2004,25.5,7,0,0,49,52,9,8,3,10,0,0,1,69,37,68,35.2,Santiago CastroBologna
 Monza,Gaetano Castrovilli,511,it ITA,MF,it Serie A,27,1997,6.6,0,0,0,8,7,2,14,2,7,0,0,0,27,1,6,14.3,Gaetano CastrovilliMonza
 Lazio,Gaetano Castrovilli,512,it ITA,"MF,FW",it Serie A,27,1997,1.6,0,0,0,4,1,0,0,3,2,0,0,0,8,0,0,,Gaetano CastrovilliLazio
-Fiorentina,Danilo Cataldi,513,it ITA,MF,it Serie A,29,1994,19.2,1,0,0,15,22,0,21,22,16,0,0,0,114,6,5,54.5,Danilo CataldiFiorentina
+Fiorentina,Danilo Cataldi,513,it ITA,MF,it Serie A,29,1994,19.0,1,0,0,15,20,0,21,22,16,0,0,0,114,6,5,54.5,Danilo CataldiFiorentina
 Osasuna,Catena,514,es ESP,DF,es La Liga,29,1994,34.2,11,0,0,36,14,1,2,35,28,1,1,0,108,67,35,65.7,CatenaOsasuna
 Valencia,Maximiliano Caufriez,515,be BEL,DF,es La Liga,27,1997,1.0,0,0,0,3,0,0,0,1,1,0,1,0,1,2,5,28.6,Maximiliano CaufriezValencia
 Angers,Enzo Caumont,516,fr FRA,MF,fr Ligue 1,20,2004,0.4,1,0,0,1,0,0,0,1,1,0,0,0,2,1,1,50.0,Enzo CaumontAngers
@@ -581,13 +581,13 @@ Brentford,Nathan Collins,579,ie IRL,DF,eng Premier League,23,2001,38.0,5,0,0,29,
 Eint Frankfurt,Nnamdi Collins,580,de GER,DF,de Bundesliga,20,2004,16.5,4,0,0,26,22,0,17,16,24,0,0,0,78,13,13,50.0,Nnamdi CollinsEint Frankfurt
 Manchester Utd,Toby Collyer,581,eng ENG,MF,eng Premier League,20,2004,2.0,0,0,0,2,4,0,0,2,9,0,0,0,17,3,1,75.0,Toby CollyerManchester Utd
 Empoli,Lorenzo Colombo,582,it ITA,"FW,MF",it Serie A,22,2002,24.8,5,1,1,46,41,6,10,2,14,0,0,0,73,53,121,30.5,Lorenzo ColomboEmpoli
-Fiorentina,Andrea Colpani,583,it ITA,"FW,MF",it Serie A,25,1999,16.1,1,0,0,22,24,1,33,9,9,0,0,0,46,10,15,40.0,Andrea ColpaniFiorentina
+Fiorentina,Andrea Colpani,583,it ITA,"FW,MF",it Serie A,25,1999,15.9,1,0,0,21,24,1,33,8,9,0,0,0,46,10,15,40.0,Andrea ColpaniFiorentina
 Chelsea,Levi Colwill,584,eng ENG,DF,eng Premier League,21,2003,35.0,9,0,0,45,21,5,13,33,34,0,1,0,121,82,53,60.7,Levi ColwillChelsea
 Cagliari,Florinel Coman,585,ro ROU,"FW,MF",it Serie A,26,1998,2.9,2,0,0,8,9,0,2,1,3,0,0,0,12,4,2,66.7,Florinel ComanCagliari
 Bayern Munich,Kingsley Coman,586,fr FRA,FW,de Bundesliga,28,1996,14.2,0,0,0,9,12,8,45,8,12,0,0,0,59,11,16,40.7,Kingsley ComanBayern Munich
 Valladolid,Eray Comert,587,ch SUI,"DF,MF",es La Liga,26,1998,19.8,6,0,0,18,16,0,0,24,14,0,0,0,51,18,22,45.0,Eray ComertValladolid
 Villarreal,Santi Comesana,588,es ESP,MF,es La Liga,27,1996,28.4,7,0,0,37,27,1,14,19,49,0,0,0,160,32,49,39.5,Santi ComesanaVillarreal
-Fiorentina,Pietro Comuzzo,589,it ITA,DF,it Serie A,19,2005,24.4,5,0,0,25,12,0,3,29,21,0,0,0,86,63,43,59.4,Pietro ComuzzoFiorentina
+Fiorentina,Pietro Comuzzo,589,it ITA,DF,it Serie A,19,2005,23.4,5,0,0,24,12,0,3,29,21,0,0,0,86,63,43,59.4,Pietro ComuzzoFiorentina
 Juventus,Francisco Conceicao,590,pt POR,"FW,MF",it Serie A,21,2002,14.9,5,1,1,24,36,4,62,6,14,1,0,0,55,2,9,18.2,Francisco ConceicaoJuventus
 Villarreal,Diego Conde,591,es ESP,GK,es La Liga,25,1998,21.8,2,0,0,0,1,0,0,1,2,0,0,0,30,1,0,100.0,Diego CondeVillarreal
 Alaves,Tomas Conechny,592,ar ARG,"FW,MF",es La Liga,26,1998,9.4,8,0,0,28,11,5,31,6,12,0,0,0,45,23,20,53.5,Tomas ConechnyAlaves
@@ -651,7 +651,7 @@ Stuttgart,Ameen Al-Dakhil,649,be BEL,DF,de Bundesliga,22,2002,4.8,0,1,0,4,5,0,0,
 Bologna,Thijs Dallinga,650,nl NED,FW,it Serie A,23,2000,12.8,1,0,0,24,17,8,3,1,5,1,0,0,35,41,36,53.2,Thijs DallingaBologna
 Manchester Utd,Diogo Dalot,651,pt POR,DF,eng Premier League,25,1999,31.3,5,0,0,40,9,4,66,37,40,0,1,0,167,38,21,64.4,Diogo DalotManchester Utd
 Brentford,Mikkel Damsgaard,652,dk DEN,"MF,FW",eng Premier League,24,2000,32.3,2,0,0,18,27,6,144,27,44,0,0,0,179,12,27,30.8,Mikkel DamsgaardBrentford
-Fiorentina,Maat Daniel Caprini,653,it ITA,FW,it Serie A,18,2006,0.1,0,0,0,0,0,1,0,0,0,0,0,0,2,0,2,0.0,Maat Daniel CapriniFiorentina
+Fiorentina,Maat Daniel Caprini,653,it ITA,FW,it Serie A,18,2006,0.1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0.0,Maat Daniel CapriniFiorentina
 Hellas Verona,Flavius Daniliuc,654,at AUT,DF,it Serie A,23,2001,11.2,0,0,0,12,2,0,6,7,21,0,0,0,44,18,17,51.4,Flavius DaniliucHellas Verona
 Nott'ham Forest,Danilo,655,br BRA,"MF,FW",eng Premier League,23,2001,3.1,0,0,0,2,0,0,3,4,4,0,0,0,19,1,2,33.3,DaniloNott'ham Forest
 Juventus,Danilo,656,br BRA,DF,it Serie A,33,1991,6.5,2,0,0,11,1,0,3,9,4,0,1,0,24,16,7,69.6,DaniloJuventus
@@ -671,7 +671,7 @@ Bochum,Lukas Daschner,669,de GER,"MF,FW",de Bundesliga,25,1998,4.6,0,0,0,4,2,0,1
 Juventus,Juan David Cabal,670,co COL,DF,it Serie A,23,2001,5.1,0,0,0,7,10,1,7,2,4,0,0,0,20,8,3,72.7,Juan David CabalJuventus
 Lille,Jonathan David,671,ca CAN,FW,fr Ligue 1,24,2000,28.4,4,0,0,25,36,10,4,7,8,1,0,0,66,16,42,27.6,Jonathan DavidLille
 Bayern Munich,Alphonso Davies,672,ca CAN,DF,de Bundesliga,23,2000,17.3,0,0,0,8,26,3,22,13,17,0,0,0,115,9,8,52.9,Alphonso DaviesBayern Munich
-Tottenham,Ben Davies,673,wls WAL,DF,eng Premier League,31,1993,14.8,5,0,0,17,7,0,4,12,11,0,0,0,41,52,43,54.7,Ben DaviesTottenham
+Tottenham,Ben Davies,673,wls WAL,DF,eng Premier League,31,1993,14.8,5,0,0,17,7,0,4,12,11,0,0,0,41,52,44,54.2,Ben DaviesTottenham
 Udinese,Keinan Davis,674,eng ENG,FW,it Serie A,26,1998,11.8,2,0,0,24,12,8,3,1,4,0,0,0,34,37,40,48.1,Keinan DavisUdinese
 Ipswich Town,Leif Davis,675,eng ENG,DF,eng Premier League,24,2000,30.5,5,1,0,27,31,5,161,25,27,0,2,0,113,34,23,59.6,Leif DavisIpswich Town
 Saint-Etienne,Zuriko Davitashvili,676,ge GEO,"FW,MF",fr Ligue 1,23,2001,30.9,3,0,0,20,40,5,85,14,14,2,0,0,117,14,47,23.0,Zuriko DavitashviliSaint-Etienne
@@ -731,7 +731,7 @@ Angers,Bamba Dieng,729,sn SEN,FW,fr Ligue 1,24,2000,5.9,1,0,0,9,13,4,5,0,1,1,0,0
 Bayern Munich,Eric Dier,730,eng ENG,DF,de Bundesliga,30,1994,16.3,1,0,0,16,4,1,2,20,11,0,0,0,80,52,43,54.7,Eric DierBayern Munich
 Aston Villa,Lucas Digne,731,fr FRA,DF,eng Premier League,31,1993,26.1,4,0,0,21,16,7,140,25,38,0,0,0,104,37,28,56.9,Lucas DigneAston Villa
 Lens,Kembo Diliwidi,732,fr FRA,DF,fr Ligue 1,18,2006,0.0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,,Kembo DiliwidiLens
-Inter,Federico Dimarco,733,it ITA,"DF,FW",it Serie A,26,1997,24.2,3,0,0,19,11,8,190,14,14,0,0,0,76,7,13,35.0,Federico DimarcoInter
+Inter,Federico Dimarco,733,it ITA,"DF,FW",it Serie A,26,1997,23.8,3,0,0,18,11,8,188,14,14,0,0,0,76,7,13,35.0,Federico DimarcoInter
 Valencia,Stole Dimitrievski,734,mk MKD,GK,es La Liga,30,1993,4.0,1,0,0,0,0,0,0,0,0,0,0,0,7,0,0,,Stole DimitrievskiValencia
 Eint Frankfurt,Junior Dina Ebimbe,735,fr FRA,"MF,FW",de Bundesliga,23,2000,3.3,0,0,0,10,4,1,8,7,2,0,1,0,11,8,4,66.7,Junior Dina EbimbeEint Frankfurt
 Freiburg,Eren Dinkci,736,de GER,"MF,FW",de Bundesliga,22,2001,13.3,1,0,0,9,6,1,15,7,13,1,0,0,55,6,14,30.0,Eren DinkciFreiburg
@@ -753,7 +753,7 @@ Wolves,Nasser Djiga,751,bf BFA,DF,eng Premier League,21,2002,0.7,0,0,0,0,1,0,0,2
 Atalanta,Berat Djimsiti,752,al ALB,DF,it Serie A,31,1993,29.3,6,0,0,23,21,0,11,40,33,0,1,1,102,90,58,60.8,Berat DjimsitiAtalanta
 Leganes,Marko Dmitrovic,753,rs SRB,GK,es La Liga,32,1992,32.0,0,0,0,1,6,0,0,0,1,0,1,0,37,13,0,100.0,Marko DmitrovicLeganes
 Freiburg,Ritsu Doan,754,jp JPN,"FW,MF",de Bundesliga,26,1998,31.8,2,0,0,27,56,8,80,14,42,1,1,0,133,16,36,30.8,Ritsu DoanFreiburg
-Fiorentina,Dodo,755,br BRA,DF,it Serie A,25,1998,34.6,8,0,0,24,61,3,144,35,30,2,0,0,183,12,16,42.9,DodoFiorentina
+Fiorentina,Dodo,755,br BRA,DF,it Serie A,25,1998,33.6,8,0,0,24,60,2,142,34,29,2,0,0,183,12,16,42.9,DodoFiorentina
 Union Berlin,Danilho Doekhi,756,nl NED,DF,de Bundesliga,26,1998,34.0,4,0,0,36,14,2,10,44,24,0,1,0,97,93,75,55.4,Danilho DoekhiUnion Berlin
 Wolves,Matt Doherty,757,ie IRL,DF,eng Premier League,32,1992,23.4,6,0,0,18,11,2,22,22,21,0,0,1,106,56,21,72.7,Matt DohertyWolves
 Manchester City,Jeremy Doku,758,be BEL,"FW,MF",eng Premier League,22,2002,16.8,1,0,0,10,33,5,59,4,22,0,0,0,63,0,12,0.0,Jeremy DokuManchester City
@@ -778,7 +778,7 @@ Paris S-G,Desire Doue,776,fr FRA,"FW,MF",fr Ligue 1,19,2005,19.2,1,0,0,28,44,1,7
 Strasbourg,Guela Doue,777,ci CIV,DF,fr Ligue 1,21,2002,30.2,7,0,0,41,19,0,46,34,45,0,1,0,162,58,37,61.1,Guela DoueStrasbourg
 Nantes,Douglas,778,br BRA,MF,fr Ligue 1,27,1997,25.6,8,0,0,42,36,0,10,32,42,0,1,0,111,23,35,39.7,DouglasNantes
 Strasbourg,Ismael Doukoure,779,fr FRA,"DF,MF",fr Ligue 1,21,2003,29.3,7,0,0,30,17,0,1,25,22,0,0,1,103,26,16,61.9,Ismael DoukoureStrasbourg
-Venezia,Issa Doumbia,780,ci CIV,MF,it Serie A,20,2003,10.4,0,0,0,18,12,0,10,9,8,0,0,0,45,18,21,46.2,Issa DoumbiaVenezia
+Venezia,Issa Doumbia,780,it ITA,MF,it Serie A,20,2003,10.4,0,0,0,18,12,0,10,9,8,0,0,0,45,18,21,46.2,Issa DoumbiaVenezia
 Brest,Kamory Doumbia,781,ml MLI,"MF,FW",fr Ligue 1,21,2003,14.7,1,0,0,17,22,1,48,28,29,0,0,0,87,10,22,31.3,Kamory DoumbiaBrest
 Nice,Amidou Doumbouya,782,fr FRA,DF,fr Ligue 1,16,2007,0.5,0,0,0,0,0,0,2,1,1,0,0,0,6,0,0,,Amidou DoumbouyaNice
 Como,Anastasios Douvikas,783,gr GRE,FW,it Serie A,24,1999,6.4,1,0,0,13,17,1,2,1,2,0,0,0,11,8,19,29.6,Anastasios DouvikasComo
@@ -794,7 +794,7 @@ Newcastle Utd,Martin Dubravka,792,sk SVK,GK,eng Premier League,35,1989,10.0,0,0,
 Werder Bremen,Marvin Ducksch,793,de GER,FW,de Bundesliga,30,1994,26.9,3,0,0,6,17,14,167,8,7,0,0,0,65,19,29,39.6,Marvin DuckschWerder Bremen
 Hellas Verona,Ondrej Duda,794,sk SVK,MF,it Serie A,29,1994,26.6,12,1,1,51,57,0,89,31,27,0,0,0,188,14,15,48.3,Ondrej DudaHellas Verona
 Leganes,Duk,795,cv CPV,"MF,FW",es La Liga,24,2000,2.0,1,0,0,5,13,0,8,1,4,0,0,0,11,2,5,28.6,DukLeganes
-Inter,Denzel Dumfries,796,nl NED,"DF,FW",it Serie A,28,1996,21.7,4,0,0,54,18,6,57,6,18,2,0,0,65,57,18,76.0,Denzel DumfriesInter
+Inter,Denzel Dumfries,796,nl NED,"DF,FW",it Serie A,28,1996,20.7,4,0,0,53,18,6,54,6,15,2,0,0,65,57,18,76.0,Denzel DumfriesInter
 Venezia,Alfred Duncan,797,gh GHA,MF,it Serie A,31,1993,10.6,2,0,0,22,11,0,17,8,8,0,0,0,52,10,8,55.6,Alfred DuncanVenezia
 Brighton,Lewis Dunk,798,eng ENG,DF,eng Premier League,32,1991,23.1,5,0,0,7,11,2,5,13,10,0,0,1,104,51,31,62.2,Lewis DunkBrighton
 Aston Villa,Jader Duran,799,co COL,FW,eng Premier League,20,2003,7.1,3,1,0,14,15,5,3,0,7,0,0,0,19,19,19,50.0,Jader DuranAston Villa
@@ -864,7 +864,7 @@ Bournemouth,Evanilson,862,br BRA,FW,eng Premier League,24,1999,25.8,1,1,0,37,53,
 Leicester City,Jake Evans,863,,FW,eng Premier League,,,0.3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0.0,Jake EvansLeicester City
 Manchester Utd,Jonny Evans,864,nir NIR,DF,eng Premier League,36,1988,3.5,1,0,0,5,6,0,0,5,6,0,0,0,16,9,3,75.0,Jonny EvansManchester Utd
 Espanyol,Edu Exposito,865,es ESP,MF,es La Liga,27,1996,11.6,3,0,0,14,22,2,66,15,13,0,0,0,63,11,11,50.0,Edu ExpositoEspanyol
-Crystal Palace,Eberechi Eze,866,eng ENG,"MF,FW",eng Premier League,26,1998,28.8,1,0,0,13,51,9,110,11,22,0,0,0,146,7,37,15.9,Eberechi EzeCrystal Palace
+Crystal Palace,Eberechi Eze,866,eng ENG,"MF,FW",eng Premier League,26,1998,28.8,1,0,0,13,51,9,112,11,22,0,0,0,146,7,37,15.9,Eberechi EzeCrystal Palace
 Betis,Abde Ezzalzouli,867,ma MAR,"FW,MF",es La Liga,22,2001,22.0,2,0,0,23,38,4,49,7,25,2,0,0,102,26,37,41.3,Abde EzzalzouliBetis
 Bologna,Giovanni Fabbian,868,it ITA,MF,it Serie A,21,2003,11.4,2,0,0,21,22,1,9,2,6,0,0,0,31,19,35,35.2,Giovanni FabbianBologna
 West Ham,Lukasz Fabianski,869,pl POL,GK,eng Premier League,39,1985,12.9,2,0,0,2,1,0,0,0,0,0,2,0,5,3,1,75.0,Lukasz FabianskiWest Ham
@@ -932,7 +932,7 @@ Girona,Alejandro Frances,930,es ESP,DF,es La Liga,21,2002,13.0,2,0,0,20,14,1,25,
 Lens,Przemyslaw Frankowski,931,pl POL,DF,fr Ligue 1,29,1995,15.4,3,0,0,18,7,1,78,19,21,0,0,0,61,8,6,57.1,Przemyslaw FrankowskiLens
 Leganes,Enric Franquesa,932,es ESP,"DF,FW",es La Liga,27,1997,6.8,1,0,0,8,6,0,16,5,9,0,0,0,29,5,5,50.0,Enric FranquesaLeganes
 Southampton,Ryan Fraser,933,sct SCO,"FW,DF",eng Premier League,30,1994,3.4,0,1,0,1,4,1,12,1,2,0,1,0,10,2,3,40.0,Ryan FraserSouthampton
-Inter,Davide Frattesi,934,it ITA,MF,it Serie A,24,1999,13.6,1,0,0,11,32,2,8,5,8,1,0,0,48,10,13,43.5,Davide FrattesiInter
+Inter,Davide Frattesi,934,it ITA,MF,it Serie A,24,1999,12.9,1,0,0,11,29,2,8,5,8,1,0,0,48,10,13,43.5,Davide FrattesiInter
 Manchester Utd,Tyler Fredricson,935,eng ENG,DF,eng Premier League,19,2005,1.8,0,0,0,0,2,0,0,1,3,0,0,0,12,7,5,58.3,Tyler FredricsonManchester Utd
 Genoa,Morten Frendrup,936,dk DEN,MF,it Serie A,23,2001,34.5,5,0,0,51,31,1,3,47,61,0,0,1,184,30,37,44.8,Morten FrendrupGenoa
 Hellas Verona,Martin Frese,937,dk DEN,DF,it Serie A,26,1998,6.1,0,0,0,9,9,0,10,8,11,0,0,0,14,10,10,50.0,Martin FreseHellas Verona
@@ -985,7 +985,7 @@ Girona,Paulo Gazzaniga,983,ar ARG,GK,es La Liga,32,1992,35.5,4,0,0,1,3,0,0,0,1,0
 Nantes,Jean-Philippe Gbamin,984,ci CIV,MF,fr Ligue 1,28,1995,2.4,1,0,0,3,6,0,0,3,1,0,0,0,13,7,3,70.0,Jean-Philippe GbaminNantes
 Reims,Mory Gbane,985,ci CIV,"DF,MF",fr Ligue 1,23,2000,12.5,2,0,0,12,3,0,2,18,11,0,0,0,49,15,9,62.5,Mory GbaneReims
 Toulouse,Yann Gboho,986,fr FRA,"MF,FW",fr Ligue 1,23,2001,25.9,2,0,0,16,61,2,26,6,18,1,0,0,107,5,27,15.6,Yann GbohoToulouse
-Fiorentina,David de Gea,987,es ESP,GK,it Serie A,33,1990,35.0,1,0,0,0,2,0,0,0,0,0,0,0,26,6,0,100.0,David de GeaFiorentina
+Fiorentina,David de Gea,987,es ESP,GK,it Serie A,33,1990,34.0,1,0,0,0,2,0,0,0,0,0,0,0,26,6,0,100.0,David de GeaFiorentina
 RB Leipzig,Viggo Gebel,988,de GER,MF,de Bundesliga,16,2007,0.2,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,100.0,Viggo GebelRB Leipzig
 RB Leipzig,Lutsharel Geertruida,989,nl NED,DF,de Bundesliga,24,2000,17.3,2,0,0,17,6,1,13,16,24,0,1,0,83,12,6,66.7,Lutsharel GeertruidaRB Leipzig
 Hoffenheim,Dennis Geiger,990,de GER,"MF,FW",de Bundesliga,26,1998,8.2,4,0,0,26,10,0,5,7,11,0,1,0,35,2,4,33.3,Dennis GeigerHoffenheim
@@ -1043,7 +1043,7 @@ Newcastle Utd,Anthony Gordon,1041,eng ENG,"FW,MF",eng Premier League,23,2001,27.
 Bayern Munich,Leon Goretzka,1042,de GER,"MF,DF",de Bundesliga,29,1995,14.7,2,0,0,12,11,0,5,20,11,0,0,0,77,31,26,54.4,Leon GoretzkaBayern Munich
 Le Havre,Mathieu Gorgelin,1043,fr FRA,GK,fr Ligue 1,33,1990,16.0,2,0,0,0,2,0,0,0,2,0,0,0,16,7,2,77.8,Mathieu GorgelinLe Havre
 Athletic Club,Andoni Gorosabel,1044,es ESP,DF,es La Liga,27,1996,16.5,5,0,0,24,4,1,41,18,28,0,0,0,56,20,28,41.7,Andoni GorosabelAthletic Club
-Fiorentina,Robin Gosens,1045,de GER,DF,it Serie A,30,1994,28.0,6,0,0,24,23,9,64,18,32,0,0,0,69,71,43,62.3,Robin GosensFiorentina
+Fiorentina,Robin Gosens,1045,de GER,DF,it Serie A,30,1994,27.0,6,0,0,24,23,9,63,18,31,0,0,0,69,71,43,62.3,Robin GosensFiorentina
 Union Berlin,Robin Gosens,1046,de GER,DF,de Bundesliga,30,1994,1.0,1,0,0,5,0,0,1,1,0,0,0,0,1,7,4,63.6,Robin GosensUnion Berlin
 Eint Frankfurt,Mario Gotze,1047,de GER,"MF,FW",de Bundesliga,32,1992,17.1,1,0,0,15,15,1,39,7,28,0,0,0,104,3,10,23.1,Mario GotzeEint Frankfurt
 Marseille,Amine Gouiri,1048,dz ALG,"FW,MF",fr Ligue 1,24,2000,11.6,0,0,0,11,7,5,57,1,5,0,0,0,24,2,10,16.7,Amine GouiriMarseille
@@ -1078,7 +1078,7 @@ Sevilla,Nemanja Gudelj,1076,rs SRB,"MF,DF",es La Liga,32,1991,27.7,6,0,0,26,14,0
 Lille,Gabriel Gudmundsson,1077,se SWE,DF,fr Ligue 1,25,1999,19.8,3,0,0,30,42,5,59,17,25,0,0,0,83,12,8,60.0,Gabriel GudmundssonLille
 Wolves,Goncalo Guedes,1078,pt POR,"MF,FW",eng Premier League,27,1996,11.1,1,0,0,15,17,3,22,5,5,0,0,0,36,5,13,27.8,Goncalo GuedesWolves
 Montpellier,Axel Gueguin,1079,fr FRA,FW,fr Ligue 1,19,2005,0.3,0,0,0,4,0,0,1,0,1,0,0,0,0,0,0,,Axel GueguinMontpellier
-Crystal Palace,Marc Guehi,1080,eng ENG,DF,eng Premier League,24,2000,34.0,9,1,1,24,27,1,13,28,34,0,0,3,145,68,58,54.0,Marc GuehiCrystal Palace
+Crystal Palace,Marc Guehi,1080,eng ENG,DF,eng Premier League,24,2000,34.0,9,1,1,24,27,1,13,28,34,0,0,3,146,68,58,54.0,Marc GuehiCrystal Palace
 Lazio,Matteo Guendouzi,1081,fr FRA,MF,it Serie A,25,1999,36.3,7,0,0,28,35,1,21,32,21,0,1,0,173,18,22,45.0,Matteo GuendouziLazio
 Valencia,Javier Guerra,1082,es ESP,MF,es La Liga,21,2003,28.7,5,0,0,34,30,1,45,20,27,0,0,0,168,17,18,48.6,Javier GuerraValencia
 Bayern Munich,Raphael Guerreiro,1083,pt POR,"DF,MF",de Bundesliga,30,1993,17.5,2,0,0,9,7,0,27,10,12,0,0,0,94,8,13,38.1,Raphael GuerreiroBayern Munich
@@ -1158,7 +1158,7 @@ Athletic Club,Ander Herrera,1156,es ESP,MF,es La Liga,34,1989,3.0,2,0,0,6,3,0,1,
 Osasuna,Sergio Herrera,1157,es ESP,GK,es La Liga,31,1993,37.0,5,0,0,1,4,0,0,0,1,0,1,0,33,5,1,83.3,Sergio HerreraOsasuna
 Girona,Yangel Herrera,1158,ve VEN,MF,es La Liga,26,1998,25.1,10,1,0,72,68,5,44,31,39,1,0,0,106,50,45,52.6,Yangel HerreraGirona
 Las Palmas,Juan Herzog,1159,es ESP,DF,es La Liga,21,2003,14.6,1,0,0,6,7,0,0,18,12,0,0,0,41,44,25,63.8,Juan HerzogLas Palmas
-Tottenham,Son Heung-min,1160,kr KOR,FW,eng Premier League,32,1992,23.4,1,0,0,6,28,12,79,5,9,1,0,0,85,6,12,33.3,Son Heung-minTottenham
+Tottenham,Son Heung-min,1160,kr KOR,FW,eng Premier League,32,1992,23.4,1,0,0,6,28,12,78,5,9,1,0,0,85,6,12,33.3,Son Heung-minTottenham
 Atalanta,Isak Hien,1161,se SWE,DF,it Serie A,25,1999,25.9,10,0,0,36,19,0,1,31,28,0,1,0,141,68,56,54.8,Isak HienAtalanta
 Espanyol,Omar El Hilali,1162,ma MAR,DF,es La Liga,20,2003,35.0,11,0,0,52,30,7,57,46,79,0,2,0,132,36,30,54.5,Omar El HilaliEspanyol
 Bournemouth,James Hill,1163,eng ENG,DF,eng Premier League,22,2002,5.0,1,0,0,7,5,0,10,9,8,0,0,0,13,14,12,53.8,James HillBournemouth
@@ -1187,7 +1187,7 @@ Brighton,Harry Howell,1185,eng ENG,FW,eng Premier League,15,2008,0.1,0,0,0,0,0,0
 Leverkusen,Lukas Hradecky,1186,fi FIN,GK,de Bundesliga,34,1989,29.0,1,0,0,0,2,0,0,0,0,0,0,0,70,1,1,50.0,Lukas HradeckyLeverkusen
 Hoffenheim,Robin Hranac,1187,cz CZE,DF,de Bundesliga,24,2000,2.4,0,0,0,5,0,0,0,5,0,0,0,0,12,5,9,35.7,Robin HranacHoffenheim
 Nott'ham Forest,Callum Hudson-Odoi,1188,eng ENG,"FW,MF",eng Premier League,23,2000,24.4,2,0,0,12,25,8,79,13,14,1,0,0,92,3,10,23.1,Callum Hudson-OdoiNott'ham Forest
-Crystal Palace,Will Hughes,1189,eng ENG,MF,eng Premier League,29,1995,23.4,11,0,0,65,31,0,71,21,36,0,1,0,121,19,18,51.4,Will HughesCrystal Palace
+Crystal Palace,Will Hughes,1189,eng ENG,MF,eng Premier League,29,1995,23.4,11,0,0,65,31,0,71,22,36,0,1,0,121,19,18,51.4,Will HughesCrystal Palace
 Bournemouth,Dean Huijsen,1190,es ESP,DF,eng Premier League,19,2005,27.0,10,0,0,31,10,2,12,51,26,0,0,0,105,68,44,60.7,Dean HuijsenBournemouth
 Roma,Mats Hummels,1191,de GER,DF,it Serie A,35,1988,10.2,1,0,0,9,4,0,2,26,15,0,0,1,41,23,15,60.5,Mats HummelsRoma
 Ipswich Town,Omari Hutchinson,1192,eng ENG,"MF,FW",eng Premier League,20,2003,28.7,5,0,0,30,46,6,81,11,13,0,0,0,110,6,26,18.8,Omari HutchinsonIpswich Town
@@ -1249,7 +1249,7 @@ Como,Ali Jasim,1247,iq IRQ,"FW,DF",it Serie A,20,2004,0.1,0,0,0,1,0,0,1,0,0,0,0,
 Athletic Club,Mikel Jauregizar,1248,es ESP,MF,es La Liga,20,2003,24.9,4,1,0,46,42,0,27,29,48,1,0,0,144,34,35,49.3,Mikel JauregizarAthletic Club
 Holstein Kiel,Dominik Javorcek,1249,sk SVK,"DF,MF",de Bundesliga,21,2002,4.3,2,0,0,7,6,1,20,5,0,0,0,0,7,3,7,30.0,Dominik JavorcekHolstein Kiel
 Lecce,Gaby Jean,1250,fr FRA,DF,it Serie A,24,2000,15.4,0,0,0,15,13,0,1,9,7,0,1,0,55,41,24,63.1,Gaby JeanLecce
-Bournemouth,Daniel Jebbison,1251,eng ENG,FW,eng Premier League,20,2003,1.3,1,0,0,2,4,0,3,1,3,0,0,0,10,2,10,16.7,Daniel JebbisonBournemouth
+Bournemouth,Daniel Jebbison,1251,ca CAN,FW,eng Premier League,20,2003,1.3,1,0,0,2,4,0,3,1,3,0,0,0,10,2,10,16.7,Daniel JebbisonBournemouth
 Stuttgart,Finn Jeltsch,1252,de GER,DF,de Bundesliga,18,2006,8.7,2,0,0,7,5,0,3,13,13,0,0,0,34,12,8,60.0,Finn JeltschStuttgart
 Reims,Malcolm Jeng,1253,se SWE,DF,fr Ligue 1,19,2005,1.2,0,0,0,1,0,0,0,3,0,0,0,0,3,4,4,50.0,Malcolm JengReims
 Augsburg,Fredrik Jensen,1254,fi FIN,MF,de Bundesliga,26,1997,8.5,0,0,0,5,5,3,20,4,7,0,0,0,15,6,13,31.6,Fredrik JensenAugsburg
@@ -1306,8 +1306,8 @@ Brighton,Ferdi Kadioglu,1304,tr TUR,"DF,MF",eng Premier League,24,1999,4.3,1,0,0
 Rennes,Arnaud Kalimuendo,1305,fr FRA,"FW,MF",fr Ligue 1,22,2002,28.6,2,0,0,29,40,12,13,4,12,1,0,0,63,22,59,27.2,Arnaud KalimuendoRennes
 Juventus,Pierre Kalulu,1306,fr FRA,DF,it Serie A,24,2000,26.0,2,1,0,26,19,2,22,17,25,0,1,0,95,27,47,36.5,Pierre KaluluJuventus
 Angers,Justin-Noel Kalumba,1307,fr FRA,"FW,MF",fr Ligue 1,19,2004,0.3,0,0,0,0,1,0,1,1,0,0,0,0,2,0,0,,Justin-Noel KalumbaAngers
-Crystal Palace,Daichi Kamada,1308,jp JPN,MF,eng Premier League,27,1996,17.4,4,1,0,28,21,2,32,18,29,0,0,0,89,4,13,23.5,Daichi KamadaCrystal Palace
-Toulouse,Waren Kamanzi,1309,no NOR,"DF,MF",fr Ligue 1,23,2000,11.4,3,0,0,16,13,2,16,9,13,0,0,0,56,7,1,87.5,Waren KamanziToulouse
+Crystal Palace,Daichi Kamada,1308,jp JPN,MF,eng Premier League,27,1996,17.4,4,1,0,28,21,2,31,18,29,0,0,0,89,4,13,23.5,Daichi KamadaCrystal Palace
+Toulouse,Warren Kamanzi,1309,no NOR,"DF,MF",fr Ligue 1,23,2000,11.4,3,0,0,16,13,2,16,9,13,0,0,0,56,7,1,87.5,Warren KamanziToulouse
 Aston Villa,Boubacar Kamara,1310,fr FRA,MF,eng Premier League,24,1999,19.2,2,0,0,30,35,0,1,19,21,0,0,0,87,21,26,44.7,Boubacar KamaraAston Villa
 Rennes,Glen Kamara,1311,fi FIN,MF,fr Ligue 1,28,1995,7.4,0,0,0,7,4,0,0,7,11,0,0,0,42,2,6,25.0,Glen KamaraRennes
 Udinese,Hassane Kamara,1312,ci CIV,DF,it Serie A,30,1994,22.2,8,1,1,25,22,1,106,26,25,0,0,0,92,21,11,65.6,Hassane KamaraUdinese
@@ -1329,7 +1329,7 @@ Heidenheim,Mikkel Kaufmann,1327,dk DEN,FW,de Bundesliga,23,2001,4.1,2,0,0,5,14,0
 Southampton,Joachim Kayi Sanda,1328,fr FRA,DF,eng Premier League,17,2006,0.2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1,0.0,Joachim Kayi SandaSouthampton
 Brentford,Michael Kayode,1329,it ITA,DF,eng Premier League,20,2004,5.9,2,0,0,8,3,0,10,7,11,0,0,0,34,9,4,69.2,Michael KayodeBrentford
 Fiorentina,Michael Kayode,1330,it ITA,"DF,FW",it Serie A,20,2004,1.4,0,0,0,1,2,0,6,2,1,0,0,0,6,2,0,100.0,Michael KayodeFiorentina
-Fiorentina,Moise Kean,1331,it ITA,FW,it Serie A,24,2000,30.0,6,0,0,41,52,57,9,6,5,0,1,0,52,51,48,51.5,Moise KeanFiorentina
+Fiorentina,Moise Kean,1331,it ITA,FW,it Serie A,24,2000,29.1,5,0,0,40,51,56,8,5,5,0,1,0,52,51,48,51.5,Moise KeanFiorentina
 Everton,Michael Keane,1332,eng ENG,DF,eng Premier League,31,1993,11.7,5,0,0,9,0,0,1,16,9,0,0,0,26,26,20,56.5,Michael KeaneEverton
 Le Havre,Yassine Kechta,1333,ma MAR,"MF,FW",fr Ligue 1,22,2002,23.3,4,0,0,42,33,4,36,26,36,1,0,0,113,10,27,27.0,Yassine KechtaLe Havre
 Monaco,Thilo Kehrer,1334,de GER,DF,fr Ligue 1,27,1996,26.5,1,0,0,23,20,1,2,36,23,0,0,0,132,54,34,61.4,Thilo KehrerMonaco
@@ -1547,7 +1547,7 @@ Real Madrid,Andriy Lunin,1545,ua UKR,GK,es La Liga,25,1999,7.0,0,0,0,0,1,0,0,0,0
 Ipswich Town,Massimo Luongo,1546,au AUS,MF,eng Premier League,31,1992,2.2,0,0,0,1,2,0,1,2,6,0,0,0,10,2,0,100.0,Massimo LuongoIpswich Town
 Cagliari,Sebastiano Luperto,1547,it ITA,DF,it Serie A,27,1996,36.0,4,0,0,23,20,1,8,33,27,0,1,0,139,61,54,53.0,Sebastiano LupertoCagliari
 Cagliari,Zito Luvumbo,1548,ao ANG,"FW,MF",it Serie A,22,2002,17.8,2,0,0,38,51,11,65,4,6,0,0,0,50,6,17,26.1,Zito LuvumboCagliari
-Bologna,Charalambos Lykogiannis,1549,gr GRE,DF,it Serie A,30,1993,11.6,3,0,0,10,7,2,106,11,14,0,0,0,35,26,13,66.7,Charalambos LykogiannisBologna
+Bologna,Charalampos Lykogiannis,1549,gr GRE,DF,it Serie A,30,1993,11.6,3,0,0,10,7,2,106,11,14,0,0,0,35,26,13,66.7,Charalampos LykogiannisBologna
 Werder Bremen,Senne Lynen,1550,be BEL,MF,de Bundesliga,25,1999,30.4,9,0,0,38,25,0,5,65,39,0,0,0,191,25,28,47.2,Senne LynenWerder Bremen
 Parma,Mathias Lovik,1551,no NOR,"DF,FW",it Serie A,20,2003,1.0,0,0,0,2,0,0,3,2,0,0,0,0,2,2,2,50.0,Mathias LovikParma
 Montpellier,Othmane Maamma,1552,ma MAR,"FW,MF",fr Ligue 1,18,2005,4.0,1,0,0,4,8,2,12,1,1,0,0,0,12,1,4,20.0,Othmane MaammaMontpellier
@@ -1601,7 +1601,7 @@ Rennes,Steve Mandanda,1599,fr FRA,GK,fr Ligue 1,39,1985,16.5,0,0,0,0,1,0,0,0,0,0
 Lazio,Christos Mandas,1600,gr GRE,GK,it Serie A,22,2001,9.0,0,0,0,0,3,0,0,0,0,0,0,0,18,6,1,85.7,Christos MandasLazio
 Atletico Madrid,Reinildo Mandava,1601,mz MOZ,DF,es La Liga,30,1994,10.5,4,0,0,19,18,1,8,16,11,0,1,0,52,10,14,41.7,Reinildo MandavaAtletico Madrid
 Lille,Aissa Mandi,1602,dz ALG,DF,fr Ligue 1,32,1991,19.3,3,0,0,7,9,1,10,15,17,0,0,0,67,14,22,38.9,Aissa MandiLille
-Fiorentina,Rolando Mandragora,1603,it ITA,MF,it Serie A,27,1997,21.5,7,0,0,21,39,2,40,17,13,0,0,0,61,14,16,46.7,Rolando MandragoraFiorentina
+Fiorentina,Rolando Mandragora,1603,it ITA,MF,it Serie A,27,1997,20.6,7,0,0,18,39,2,39,15,13,0,0,0,61,14,16,46.7,Rolando MandragoraFiorentina
 Wolves,Mateus Mane,1604,,MF,eng Premier League,,,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,100.0,Mateus ManeWolves
 Everton,Orel Mangala,1605,be BEL,MF,eng Premier League,26,1998,14.0,2,0,0,24,17,2,6,21,8,0,0,0,49,6,8,42.9,Orel MangalaEverton
 Lyon,Orel Mangala,1606,be BEL,MF,fr Ligue 1,26,1998,0.7,0,0,0,0,0,0,1,0,0,0,0,0,6,0,0,,Orel MangalaLyon
@@ -1649,7 +1649,7 @@ Aston Villa,Emiliano Martinez,1647,ar ARG,GK,eng Premier League,31,1992,35.5,5,1
 Barcelona,Inigo Martinez,1648,es ESP,DF,es La Liga,33,1991,27.7,5,0,0,18,28,0,8,18,14,1,0,0,126,58,33,63.7,Inigo MartinezBarcelona
 Osasuna,Javi Martinez,1649,es ESP,MF,es La Liga,24,1999,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Javi MartinezOsasuna
 Inter,Josep Martinez,1650,es ESP,GK,it Serie A,26,1998,5.0,0,0,0,0,1,0,0,0,0,0,0,0,4,1,0,100.0,Josep MartinezInter
-Inter,Lautaro Martinez,1651,ar ARG,FW,it Serie A,26,1997,28.5,1,0,0,41,42,22,13,10,16,0,0,0,73,35,38,47.9,Lautaro MartinezInter
+Inter,Lautaro Martinez,1651,ar ARG,FW,it Serie A,26,1997,27.5,1,0,0,41,40,22,11,10,16,0,0,0,73,35,38,47.9,Lautaro MartinezInter
 Manchester Utd,Lisandro Martinez,1652,ar ARG,DF,eng Premier League,26,1998,19.5,7,0,0,22,7,0,9,32,24,0,0,0,81,16,13,55.2,Lisandro MartinezManchester Utd
 Fiorentina,Lucas Martinez Quarta,1653,ar ARG,DF,it Serie A,28,1996,3.9,1,0,0,8,2,0,0,3,7,0,0,0,13,12,10,54.5,Lucas Martinez QuartaFiorentina
 Sevilla,Ramon Martinez,1654,es ESP,DF,es La Liga,21,2002,2.9,0,0,0,1,1,0,0,2,3,0,0,0,5,7,3,70.0,Ramon MartinezSevilla
@@ -1764,7 +1764,7 @@ Crystal Palace,Tyrick Mitchell,1762,eng ENG,DF,eng Premier League,24,1999,34.4,2
 Brighton,Kaoru Mitoma,1763,jp JPN,"FW,MF",eng Premier League,27,1997,28.9,1,0,0,40,24,5,75,14,27,0,0,0,99,26,27,49.1,Kaoru MitomaBrighton
 Stuttgart,Maximilian Mittelstadt,1764,de GER,DF,de Bundesliga,27,1997,27.4,5,0,0,24,38,2,164,47,54,0,0,0,119,24,19,55.8,Maximilian MittelstadtStuttgart
 Bochum,Koji Miyoshi,1765,jp JPN,"FW,MF",de Bundesliga,27,1997,5.2,0,1,0,10,4,2,9,2,5,0,0,0,22,2,13,13.3,Koji MiyoshiBochum
-Inter,Henrikh Mkhitaryan,1766,am ARM,MF,it Serie A,35,1989,26.6,4,0,0,33,24,5,24,17,24,0,0,0,131,23,13,63.9,Henrikh MkhitaryanInter
+Inter,Henrikh Mkhitaryan,1766,am ARM,MF,it Serie A,35,1989,25.9,4,0,0,33,24,5,22,16,24,0,0,0,131,23,13,63.9,Henrikh MkhitaryanInter
 Brighton,Jakub Moder,1767,pl POL,MF,eng Premier League,25,1999,0.1,0,0,0,0,0,0,1,0,0,0,0,0,2,0,1,0.0,Jakub ModerBrighton
 Udinese,Rui Modesto,1768,ao ANG,"DF,MF",it Serie A,24,1999,6.8,1,0,0,10,5,1,26,8,12,0,0,0,26,10,14,41.7,Rui ModestoUdinese
 Real Madrid,Luka Modric,1769,hr CRO,MF,es La Liga,38,1985,20.3,7,0,0,23,19,2,112,27,20,0,0,0,105,6,13,31.6,Luka ModricReal Madrid
@@ -1822,7 +1822,7 @@ Reims,Marshall Munetsi,1820,zw ZIM,MF,fr Ligue 1,28,1996,18.8,5,0,0,28,31,2,11,1
 Fulham,Rodrigo Muniz,1821,br BRA,FW,eng Premier League,23,2001,10.7,1,0,0,11,31,3,1,5,5,0,0,0,14,67,63,51.5,Rodrigo MunizFulham
 Real Sociedad,Aihen Munoz,1822,es ESP,DF,es La Liga,26,1997,12.2,5,0,0,15,12,0,35,14,12,0,1,0,43,23,17,57.5,Aihen MunozReal Sociedad
 Las Palmas,Alex Munoz,1823,es ESP,DF,es La Liga,30,1994,15.7,3,0,0,30,14,2,27,16,29,0,1,0,35,24,21,53.3,Alex MunozLas Palmas
-Crystal Palace,Daniel Munoz,1824,co COL,DF,eng Premier League,28,1996,35.9,10,0,0,56,19,15,74,44,80,0,0,0,170,58,78,42.6,Daniel MunozCrystal Palace
+Crystal Palace,Daniel Munoz,1824,co COL,DF,eng Premier League,28,1996,35.9,10,0,0,56,19,15,74,44,80,0,0,0,171,58,78,42.6,Daniel MunozCrystal Palace
 Osasuna,Iker Munoz,1825,es ESP,MF,es La Liga,21,2002,6.8,2,0,0,12,14,0,7,4,2,0,0,0,28,10,12,45.5,Iker MunozOsasuna
 Las Palmas,Javier Munoz,1826,es ESP,"MF,DF",es La Liga,29,1995,28.8,5,0,0,30,26,2,51,31,35,0,0,0,112,15,26,36.6,Javier MunozLas Palmas
 Real Madrid,Victor Munoz,1827,es ESP,"FW,DF",es La Liga,21,2003,0.4,0,0,0,2,0,0,2,0,0,0,0,0,1,0,0,,Victor MunozReal Madrid
@@ -1948,8 +1948,8 @@ Ipswich Town,Chiedozie Ogbene,1946,ie IRL,FW,eng Premier League,27,1997,2.6,0,0,
 Freiburg,Ifechukwu Ogbus,1947,ch SUI,DF,de Bundesliga,18,2005,0.2,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,,Ifechukwu OgbusFreiburg
 Villarreal,Thiago Ojeda,1948,ar ARG,MF,es La Liga,21,2003,0.1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,,Thiago OjedaVillarreal
 Lens,Hamzat Ojediran,1949,ng NGA,"MF,FW",fr Ligue 1,20,2003,4.6,5,0,0,17,3,1,2,10,15,0,0,0,26,9,15,37.5,Hamzat OjediranLens
-Milan,Noah Okafor,1950,ch SUI,FW,it Serie A,24,2000,4.6,0,0,0,6,5,1,13,2,1,0,0,0,8,2,5,28.6,Noah OkaforMilan
-Napoli,Noah Okafor,1951,ch SUI,"FW,MF",it Serie A,24,2000,0.4,0,0,0,2,1,0,3,0,2,0,0,0,3,2,2,50.0,Noah OkaforNapoli
+Napoli,Noah Okafor,1950,ch SUI,"FW,MF",it Serie A,24,2000,0.4,0,0,0,2,1,0,3,0,2,0,0,0,3,2,2,50.0,Noah OkaforNapoli
+Milan,Noah Okafor,1951,ch SUI,FW,it Serie A,24,2000,4.6,0,0,0,6,5,1,13,2,1,0,0,0,8,2,5,28.6,Noah OkaforMilan
 Leicester City,Caleb Okoli,1952,it ITA,DF,eng Premier League,23,2001,12.5,4,0,0,16,9,0,1,15,14,0,0,0,44,23,21,52.3,Caleb OkoliLeicester City
 Hellas Verona,Yllan Okou,1953,fr FRA,DF,it Serie A,21,2002,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Yllan OkouHellas Verona
 Udinese,Maduka Okoye,1954,ng NGA,GK,it Serie A,24,1999,25.0,1,0,0,0,1,0,0,0,0,0,0,1,51,7,0,100.0,Maduka OkoyeUdinese
@@ -2041,7 +2041,7 @@ Wolfsburg,Kevin Paredes,2039,us USA,DF,de Bundesliga,21,2003,1.4,1,0,0,1,4,0,1,1
 Roma,Leandro Paredes,2040,ar ARG,MF,it Serie A,30,1994,15.3,4,0,0,15,16,0,57,19,14,0,1,0,83,9,2,81.8,Leandro ParedesRoma
 Villarreal,Daniel Parejo,2041,es ESP,MF,es La Liga,35,1989,25.3,8,0,0,20,37,1,37,24,40,0,0,0,142,24,9,72.7,Daniel ParejoVillarreal
 Valladolid,Iago Parente,2042,es ESP,DF,es La Liga,18,2006,0.8,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,,Iago ParenteValladolid
-Fiorentina,Fabiano Parisi,2043,it ITA,"DF,MF",it Serie A,23,2000,12.5,3,0,0,17,28,0,14,17,17,0,0,0,64,13,17,43.3,Fabiano ParisiFiorentina
+Fiorentina,Fabiano Parisi,2043,it ITA,"DF,MF",it Serie A,23,2000,11.7,3,0,0,16,25,0,12,17,17,0,0,0,64,13,17,43.3,Fabiano ParisiFiorentina
 Arsenal,Thomas Partey,2044,gh GHA,"MF,DF",eng Premier League,31,1993,31.1,4,0,0,45,31,1,12,35,53,0,0,0,138,28,27,50.9,Thomas ParteyArsenal
 Atalanta,Mario Pasalic,2045,hr CRO,MF,it Serie A,29,1995,21.9,1,0,0,19,10,2,11,12,16,0,0,0,112,30,29,50.8,Mario PasalicAtalanta
 Sevilla,Alvaro Pascual,2046,es ESP,FW,es La Liga,22,2002,4.5,1,0,0,11,5,1,3,2,3,0,0,0,12,11,17,39.3,Alvaro PascualSevilla
@@ -2135,7 +2135,7 @@ Wolves,Daniel Podence,2133,pt POR,"MF,FW",eng Premier League,28,1995,0.5,0,0,0,0
 Venezia,Joel Pohjanpalo,2134,fi FIN,FW,it Serie A,29,1994,17.8,1,0,0,12,15,10,3,4,3,1,0,0,20,46,59,43.8,Joel PohjanpaloVenezia
 Napoli,Matteo Politano,2135,it ITA,"FW,MF",it Serie A,30,1993,31.2,3,0,0,14,31,6,229,13,15,1,0,0,95,6,20,23.1,Matteo PolitanoNapoli
 Wolves,Alfie Pond,2136,eng ENG,DF,eng Premier League,20,2004,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Alfie PondWolves
-Fiorentina,Marin Pongracic,2137,hr CRO,DF,it Serie A,26,1997,15.2,3,1,1,26,7,0,1,12,13,0,0,1,73,25,11,69.4,Marin PongracicFiorentina
+Fiorentina,Marin Pongracic,2137,hr CRO,DF,it Serie A,26,1997,14.4,3,1,1,26,7,0,1,12,13,0,0,1,73,25,11,69.4,Marin PongracicFiorentina
 Newcastle Utd,Nick Pope,2138,eng ENG,GK,eng Premier League,32,1992,28.0,2,0,0,2,5,0,0,1,0,0,2,0,24,11,1,91.7,Nick PopeNewcastle Utd
 Holstein Kiel,Finn Porath,2139,de GER,"DF,MF",de Bundesliga,27,1997,21.9,3,0,0,31,37,0,84,21,26,0,0,0,79,26,25,51.0,Finn PorathHolstein Kiel
 Tottenham,Pedro Porro,2140,es ESP,DF,eng Premier League,24,1999,29.0,5,0,0,25,33,1,196,36,49,0,0,0,152,12,23,34.3,Pedro PorroTottenham
@@ -2173,7 +2173,7 @@ Real Madrid,Jacobo Ramon,2171,es ESP,DF,es La Liga,19,2005,2.3,1,0,0,2,1,0,0,3,3
 Paris S-G,Goncalo Ramos,2172,pt POR,FW,fr Ligue 1,23,2001,11.8,1,0,0,8,11,9,1,0,6,1,0,0,18,20,15,57.1,Goncalo RamosParis S-G
 Southampton,Aaron Ramsdale,2173,eng ENG,GK,eng Premier League,26,1998,30.0,2,0,0,1,4,0,0,2,0,0,0,0,23,6,0,100.0,Aaron RamsdaleSouthampton
 Aston Villa,Jacob Ramsey,2174,eng ENG,"FW,MF",eng Premier League,23,2001,18.0,4,1,1,13,28,5,12,8,15,1,0,0,83,7,13,35.0,Jacob RamseyAston Villa
-Fiorentina,Luca Ranieri,2175,it ITA,DF,it Serie A,25,1999,34.1,7,0,0,25,23,1,9,28,24,0,1,0,95,48,56,46.2,Luca RanieriFiorentina
+Fiorentina,Luca Ranieri,2175,it ITA,DF,it Serie A,25,1999,33.1,7,0,0,24,22,1,9,27,24,0,1,0,95,48,56,46.2,Luca RanieriFiorentina
 Gladbach,Grant Ranos,2176,am ARM,FW,de Bundesliga,21,2003,0.2,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0.0,Grant RanosGladbach
 Angers,Lilian Raolisoa,2177,fr FRA,"DF,FW",fr Ligue 1,24,2000,14.6,1,2,0,16,9,3,77,15,24,0,1,0,76,15,11,57.7,Lilian RaolisoaAngers
 Barcelona,Raphinha,2178,br BRA,"FW,MF",es La Liga,27,1996,31.5,4,0,0,11,37,10,215,11,22,2,0,0,94,9,6,60.0,RaphinhaBarcelona
@@ -2207,8 +2207,8 @@ Crystal Palace,Chadi Riad,2205,ma MAR,DF,eng Premier League,21,2003,1.0,0,0,0,1,
 Lille,Alexsandro Ribeiro,2206,br BRA,DF,fr Ligue 1,24,1999,30.0,10,0,0,28,32,2,8,27,19,0,1,1,175,64,25,71.9,Alexsandro RibeiroLille
 Torino,Samuele Ricci,2207,it ITA,MF,it Serie A,22,2001,31.4,8,1,0,38,70,0,30,25,21,0,0,0,130,14,15,48.3,Samuele RicciTorino
 Arsenal,Declan Rice,2208,eng ENG,MF,eng Premier League,25,1999,31.4,7,1,1,21,16,2,164,25,25,0,0,0,156,37,25,59.7,Declan RiceArsenal
-Crystal Palace,Chris Richards,2209,us USA,DF,eng Premier League,24,2000,21.4,4,1,1,11,5,1,5,19,30,1,0,0,51,47,41,53.4,Chris RichardsCrystal Palace
-Fiorentina,Amir Richardson,2210,ma MAR,MF,it Serie A,22,2002,12.2,6,0,0,31,19,1,5,6,13,0,0,0,51,19,16,54.3,Amir RichardsonFiorentina
+Crystal Palace,Chris Richards,2209,us USA,DF,eng Premier League,24,2000,21.4,4,1,1,11,5,1,5,19,30,1,0,0,51,48,41,53.9,Chris RichardsCrystal Palace
+Fiorentina,Amir Richardson,2210,ma MAR,MF,it Serie A,22,2002,11.4,6,0,0,30,19,1,5,6,13,0,0,0,51,19,16,54.3,Amir RichardsonFiorentina
 Tottenham,Richarlison,2211,br BRA,FW,eng Premier League,27,1997,5.6,2,0,0,7,13,3,7,0,3,0,0,0,11,10,23,30.3,RicharlisonTottenham
 Getafe,Diego Rico,2212,es ESP,DF,es La Liga,31,1993,31.3,9,1,0,38,56,3,148,34,49,1,0,0,132,26,19,57.8,Diego RicoGetafe
 Stuttgart,Fabian Rieder,2213,ch SUI,"MF,FW",de Bundesliga,22,2002,9.6,1,0,0,14,11,0,39,10,14,1,0,0,45,4,13,23.5,Fabian RiederStuttgart
@@ -2469,7 +2469,7 @@ Bournemouth,Julio Soler,2467,ar ARG,"DF,FW",eng Premier League,19,2005,0.1,0,0,0
 Udinese,Oumar Solet,2468,fr FRA,DF,it Serie A,24,2000,18.6,3,1,1,17,14,0,9,17,19,0,0,0,92,20,20,50.0,Oumar SoletUdinese
 Girona,Jhon Solis,2469,co COL,MF,es La Liga,19,2004,5.9,3,0,0,9,6,0,3,4,7,0,0,0,27,3,5,37.5,Jhon SolisGirona
 Genoa,Daniele Sommariva,2470,it ITA,GK,it Serie A,27,1997,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,100.0,Daniele SommarivaGenoa
-Inter,Yann Sommer,2471,ch SUI,GK,it Serie A,35,1988,33.0,0,0,0,0,1,0,0,0,0,0,0,0,46,4,0,100.0,Yann SommerInter
+Inter,Yann Sommer,2471,ch SUI,GK,it Serie A,35,1988,32.0,0,0,0,0,1,0,0,0,0,0,0,0,46,4,0,100.0,Yann SommerInter
 Getafe,David Soria,2472,es ESP,GK,es La Liga,31,1993,38.0,2,0,0,0,2,0,0,1,4,0,0,0,28,6,0,100.0,David SoriaGetafe
 Leganes,Juan Soriano,2473,es ESP,GK,es La Liga,26,1997,6.0,1,1,0,0,3,0,0,0,1,0,0,1,5,0,0,,Juan SorianoLeganes
 Torino,Borna Sosa,2474,hr CRO,DF,it Serie A,26,1998,13.1,0,0,0,12,7,1,51,14,19,0,1,0,53,16,19,45.7,Borna SosaTorino
@@ -2549,7 +2549,7 @@ Paris S-G,Axel Tape,2547,fr FRA,"DF,MF",fr Ligue 1,16,2007,2.0,1,0,0,2,3,0,0,1,1
 Leganes,Renato Tapia,2548,pe PER,"MF,DF",es La Liga,29,1995,26.9,8,0,0,38,34,0,12,27,35,0,0,0,155,32,24,57.1,Renato TapiaLeganes
 Leverkusen,Edmond Tapsoba,2549,bf BFA,DF,de Bundesliga,25,1999,27.9,4,0,0,34,6,1,8,24,24,0,1,1,124,54,32,62.8,Edmond TapsobaLeverkusen
 Saint-Etienne,Florian Tardieu,2550,fr FRA,MF,fr Ligue 1,32,1992,13.9,0,0,0,10,14,1,24,15,14,0,1,0,83,14,8,63.6,Florian TardieuSaint-Etienne
-Inter,Mehdi Taremi,2551,ir IRN,FW,it Serie A,32,1992,9.1,1,0,0,9,13,6,1,0,1,1,0,0,29,19,24,44.2,Mehdi TaremiInter
+Inter,Mehdi Taremi,2551,ir IRN,FW,it Serie A,32,1992,9.0,1,0,0,9,13,6,1,0,1,1,0,0,29,19,24,44.2,Mehdi TaremiInter
 Newcastle Utd,Matt Targett,2552,eng ENG,DF,eng Premier League,28,1995,0.2,0,0,0,0,0,0,1,1,0,0,0,0,2,0,0,,Matt TargettNewcastle Utd
 Le Havre,Oussama Targhalline,2553,ma MAR,MF,fr Ligue 1,22,2002,11.0,0,0,0,11,10,4,16,19,14,0,0,0,43,8,6,57.1,Oussama TarghallineLe Havre
 Everton,James Tarkowski,2554,eng ENG,DF,eng Premier League,31,1992,32.5,6,0,0,35,28,2,1,41,40,0,1,0,98,102,33,75.6,James TarkowskiEverton
@@ -2564,7 +2564,7 @@ Montpellier,Enzo Tchato,2562,cm CMR,DF,fr Ligue 1,21,2002,21.1,3,0,0,21,16,2,77,
 Real Madrid,Aurelien Tchouameni,2563,fr FRA,"DF,MF",es La Liga,24,2000,29.9,5,0,0,26,24,0,12,46,23,0,1,0,143,74,27,73.3,Aurelien TchouameniReal Madrid
 Espanyol,Alvaro Tejero,2564,es ESP,"MF,DF",es La Liga,28,1996,13.8,2,0,0,14,19,1,113,13,4,0,0,0,64,10,12,45.5,Alvaro TejeroEspanyol
 Valencia,Martin Tejon,2565,es ESP,"MF,DF",es La Liga,20,2004,0.5,0,0,0,1,1,0,1,0,0,0,0,0,4,0,3,0.0,Martin TejonValencia
-Tottenham,Mathys Tel,2566,fr FRA,FW,eng Premier League,19,2005,10.1,2,0,0,14,16,1,35,2,6,1,0,0,37,4,7,36.4,Mathys TelTottenham
+Tottenham,Mathys Tel,2566,fr FRA,FW,eng Premier League,19,2005,10.1,2,0,0,14,16,1,35,2,6,1,0,0,38,4,7,36.4,Mathys TelTottenham
 Bayern Munich,Mathys Tel,2567,fr FRA,"FW,MF",de Bundesliga,19,2005,2.8,0,0,0,5,6,1,5,1,2,0,0,0,10,1,0,100.0,Mathys TelBayern Munich
 Leverkusen,Nathan Tella,2568,ng NGA,"MF,FW",de Bundesliga,25,1999,15.1,1,0,0,22,32,10,25,4,11,0,0,0,37,11,25,30.6,Nathan TellaLeverkusen
 Alaves,Nahuel Tenaglia,2569,ar ARG,DF,es La Liga,28,1996,32.5,11,0,0,37,45,2,85,47,61,3,0,0,117,46,52,46.9,Nahuel TenagliaAlaves
@@ -2591,7 +2591,7 @@ Nantes,Sorba Thomas,2589,wls WAL,"FW,MF",fr Ligue 1,24,1999,14.7,3,0,0,13,17,2,1
 Lens,Adrien Thomasson,2590,fr FRA,MF,fr Ligue 1,30,1993,29.1,7,0,0,51,48,7,58,19,47,0,1,0,206,17,45,27.4,Adrien ThomassonLens
 Genoa,Morten Thorsby,2591,no NOR,"MF,FW",it Serie A,28,1996,21.1,6,0,0,53,15,9,9,5,30,0,2,1,51,107,99,51.9,Morten ThorsbyGenoa
 Juventus,Khephren Thuram,2592,fr FRA,MF,it Serie A,23,2001,25.8,5,0,0,36,22,0,13,14,21,0,0,0,110,28,29,49.1,Khephren ThuramJuventus
-Inter,Marcus Thuram,2593,fr FRA,FW,it Serie A,26,1997,25.4,1,0,0,30,36,13,13,3,10,2,0,0,71,45,34,57.0,Marcus ThuramInter
+Inter,Marcus Thuram,2593,fr FRA,FW,it Serie A,26,1997,24.4,1,0,0,30,33,13,13,3,8,2,0,0,71,45,34,57.0,Marcus ThuramInter
 Hellas Verona,Cheikh Tidiane Niasse,2594,sn SEN,MF,it Serie A,24,2000,8.4,4,0,0,11,14,0,2,17,15,0,0,0,26,19,21,47.5,Cheikh Tidiane NiasseHellas Verona
 Aston Villa,Youri Tielemans,2595,be BEL,MF,eng Premier League,27,1997,33.6,4,0,0,41,56,0,119,23,58,0,0,0,145,22,18,55.0,Youri TielemansAston Villa
 Arsenal,Kieran Tierney,2596,sct SCO,"DF,FW",eng Premier League,27,1997,2.9,0,0,0,1,2,2,14,3,5,0,0,0,6,5,5,50.0,Kieran TierneyArsenal
@@ -2705,8 +2705,8 @@ Tottenham,Guglielmo Vicario,2703,it ITA,GK,eng Premier League,27,1996,24.0,1,0,0
 Alaves,Carlos Vicente,2704,es ESP,"FW,MF",es La Liga,25,1999,34.4,3,0,0,38,62,10,269,14,31,0,0,0,133,34,60,36.2,Carlos VicenteAlaves
 Barcelona,Pau Victor,2705,es ESP,FW,es La Liga,22,2001,3.5,2,0,0,7,3,0,3,2,1,0,0,0,14,3,1,75.0,Pau VictorBarcelona
 Osasuna,Nacho Vidal,2706,es ESP,DF,es La Liga,29,1995,1.4,0,0,0,2,1,0,2,0,0,0,0,0,5,3,1,75.0,Nacho VidalOsasuna
-Mainz 05,Gabriel Vidovic,2707,hr CRO,MF,de Bundesliga,20,2003,0.0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,Gabriel VidovicMainz 05
-Bayern Munich,Gabriel Vidovic,2708,hr CRO,MF,de Bundesliga,20,2003,0.3,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0.0,Gabriel VidovicBayern Munich
+Bayern Munich,Gabriel Vidovic,2707,hr CRO,MF,de Bundesliga,20,2003,0.3,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0.0,Gabriel VidovicBayern Munich
+Mainz 05,Gabriel Vidovic,2708,hr CRO,MF,de Bundesliga,20,2003,0.0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,Gabriel VidovicMainz 05
 Betis,Fran Vieites,2709,es ESP,GK,es La Liga,25,1999,4.0,0,0,0,0,2,0,0,0,0,0,0,0,7,1,0,100.0,Fran VieitesBetis
 Las Palmas,Sergio Viera,2710,es ESP,MF,es La Liga,19,2005,1.1,1,0,0,1,1,0,0,1,1,0,0,0,5,1,2,33.3,Sergio VieraLas Palmas
 Monza,Samuele Vignato,2711,it ITA,MF,it Serie A,20,2004,5.2,0,0,0,3,3,1,14,0,3,0,0,0,12,5,13,27.8,Samuele VignatoMonza
@@ -2730,7 +2730,7 @@ Torino,Mergim Vojvoda,2728,xk KVX,DF,it Serie A,29,1995,12.3,4,0,0,13,4,1,40,7,1
 Como,Mergim Vojvoda,2729,xk KVX,DF,it Serie A,29,1995,8.0,2,0,0,8,2,1,26,3,6,0,0,0,28,6,6,50.0,Mergim VojvodaComo
 Union Berlin,Kevin Volland,2730,de GER,"FW,MF",de Bundesliga,32,1992,0.7,1,0,0,3,0,0,0,0,0,0,0,0,2,3,1,75.0,Kevin VollandUnion Berlin
 Wolfsburg,Aster Vranckx,2731,be BEL,MF,de Bundesliga,21,2002,6.2,1,0,0,12,11,0,3,10,6,0,0,0,22,7,14,33.3,Aster VranckxWolfsburg
-Inter,Stefan de Vrij,2732,nl NED,DF,it Serie A,32,1992,19.2,2,0,0,9,5,0,0,23,12,0,0,0,66,65,38,63.1,Stefan de VrijInter
+Inter,Stefan de Vrij,2732,nl NED,DF,it Serie A,32,1992,18.2,2,0,0,8,4,0,0,22,11,0,0,0,66,65,38,63.1,Stefan de VrijInter
 Saint-Etienne,Ibrahima Wadji,2733,sn SEN,"FW,MF",fr Ligue 1,29,1995,3.9,1,0,0,11,5,4,2,1,6,0,0,0,7,4,10,28.6,Ibrahima WadjiSaint-Etienne
 St. Pauli,Robert Wagner,2734,de GER,MF,de Bundesliga,21,2003,4.5,1,0,0,6,5,0,2,2,3,0,0,0,22,5,7,41.7,Robert WagnerSt. Pauli
 Marseille,Elye Wahi,2735,fr FRA,FW,fr Ligue 1,21,2003,6.4,1,0,0,17,8,10,2,1,0,0,0,0,8,4,13,23.5,Elye WahiMarseille
